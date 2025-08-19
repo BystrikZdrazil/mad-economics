@@ -13,3 +13,5 @@ Wikilink je interný odkaz v rámci tej istej wiki (alebo databázy), ktorý sme
     V Wikipédii môžete kliknúť na wikilink v článku a presuniete sa na iný súvisiaci článok. 
 - **Použitie v iných nástrojoch:**
     Podobný koncept sa používa aj v iných aplikáciách a nástrojoch na budovanie vedomostných databáz, kde wikilinky umožňujú vytvárať prepojenia medzi rôznymi dokumentmi alebo položkami.
+
+[[01 - School/_Utility/Home\|Späť na úvodnú stránku]]

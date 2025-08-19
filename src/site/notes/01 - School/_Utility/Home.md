@@ -9,7 +9,7 @@ Na tejto stránke nájdeš kompletne všetko, čo potrebuješ k štúdiu! Sú tu
 
 Do tejto databázy som dal veľa práce nie len **písaním a zhromažďovaním materiálov**, ale aj v **zapracovaní viacerých užitočných funkcií**, ktoré definitívne pomôžu pochopiť každú tému jednoduchšie a uľahčujú navigáciu v súboroch.
 
-Ak ťa zaujíma všetko, čo tento systém ponúka, poscrolluj trocha nižšie a prečítaj si o jednotlivých funkciách.
+**Ak ťa zaujíma** všetko, čo tento systém ponúka, poscrolluj trocha nižšie a prečítaj si o jednotlivých funkciách.
 
 ---
 
