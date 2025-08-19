@@ -1,13 +1,20 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    --bold-color: #00d6d6;
+    --italic-color: #cd33fc;
+    --font-bold: 1000;
+    --font-extrabold: 1000;
+    --font-black: 1000;
+  
+    --h1-color: #9446f8;
+    --h2-color: #2a8aff;
+    --h3-color: #56f056;
+    --h4-color: #cccf13;
+    --h5-color: #f1ae1d;
+    --h6-color: #f15963;
+    --h1-weight: 800;
+    --h2-weight: 800;
+    --h3-weight: 800;
+    --h4-weight: 800;
+    --h5-weight: 800;
+    --h6-weight: 800;
 }
