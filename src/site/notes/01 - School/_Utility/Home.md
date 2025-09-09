@@ -13,6 +13,18 @@ Do tejto databázy som dal veľa práce nie len **písaním a zhromažďovaním 
 
 ---
 
+## Toolbar
+
+### Github
+Chcel/a by si vedieť, ako toto **celé funguje**? Pozri na môj **GitHub** a môžeš sa dozvedieť viac.
+
+### Light / dark mode
+Nepáči sa ti **light mode**? Vôbec nevadí, *vpravo dole* nájdeš gombík, ktorým si vieš prehodiť, či chceš používať **light mode**, **dark mode** alebo dokonca aj **automatický režim**, ktorý sa prispôsobí nastaveniu tvojho zariadenia
+
+### Mail
+Niečo **nefunguje** tak, ako by malo? **Chýbajú poznámky** alebo nie sú celé? Napíš mi mail a ja sa to pokúsim napraviť **čo najskôr**!
+
+---
 ## Pohyb v databázi
 Je viacero spôsobov, ako sa dá pohybovať v tejto databázi. Každý má svoje silné stránky, preto odporúčam využívať vždy ten, ktorý ťa najrýchlejšie dostane tam, kde chceš.
 
@@ -24,6 +36,8 @@ Druhý spôsob, ako sa pohybovať v informáciách, je pomocou **vyhľadávania*
 
 ### Wikilinks
 Posledný spôsob, ktorým sa dá navigovať v poznámkach je pomocou [[01 - School/_Utility/wikilinks\|wikilinks]], ako je tento. Tieto si do poznámok dávam všade, kde cítim, že by bolo fajn mať prepojenie na danú tému, aby sa dalo materiálom lepšie porozumieť.
+
+---
 
 ## Ďalšie features
 Toto nie sú len tak nejaké poznámky, ktoré by sa dali pozerať ako PDF. Hlavná odlišnosť je vo funkciách, ktoré táto databáza ponúka a tým uľahčuje chápanie rôznych tém, pomocou prepájanie informácii.
