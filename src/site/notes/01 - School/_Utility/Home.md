@@ -14,20 +14,20 @@ Do tejto databázy som dal veľa práce nie len **písaním a zhromažďovaním 
 ---
 
 ## Toolbar
-To je tá vec vpravo dole, kde môžeš vidieť ikonku pre GitHub, zmenu light a dark mode a tlačidlo na môj mail.
+To je tá vec *vpravo dole*, kde môžeš vidieť ikonku pre **GitHub**, zmenu **light a dark mode** a tlačidlo na **môj mail**.
 
 ### Github
 Chcel/a by si vedieť, ako toto **celé funguje**? Pozri na môj **GitHub** a môžeš sa dozvedieť viac.
 
 ### Light / dark mode
-Nepáči sa ti **light mode**? Vôbec nevadí, *vpravo dole* nájdeš gombík, ktorým si vieš prehodiť, či chceš používať **light mode**, **dark mode** alebo dokonca aj **automatický režim**, ktorý sa prispôsobí nastaveniu tvojho zariadenia
+Nepáči sa ti **light mode**? Vôbec nevadí, *v toolbare* si vieš prepnúť, či chceš používať **light mode**, **dark mode** alebo dokonca aj **automatický režim**, ktorý sa prispôsobí nastaveniu tvojho zariadenia
 
 ### Mail
 Niečo **nefunguje** tak, ako by malo? **Chýbajú poznámky** alebo nie sú celé? Napíš mi mail a ja sa to pokúsim napraviť **čo najskôr**!
 
 ---
 ## Pohyb v databázi
-Je viacero spôsobov, ako sa dá pohybovať v tejto databázi. Každý má svoje silné stránky, preto odporúčam využívať vždy ten, ktorý ťa najrýchlejšie dostane tam, kde chceš.
+Je **viacero spôsobov**, ako sa dá pohybovať v tejto databázi. Každý má svoje silné stránky, preto odporúčam využívať vždy ten, ktorý ťa najrýchlejšie dostane tam, kde chceš.
 
 ### Sidebar
 Prvý, podľa mňa najprehľadnejší celkovo, je navigácia pomocou **panelu na ľavej strane**. Nájdeš tam všetko usporiadané do súborov podľa témy.
@@ -41,7 +41,7 @@ Posledný spôsob, ktorým sa dá navigovať v poznámkach je pomocou [[01 - Sch
 ---
 
 ## Ďalšie features
-Toto nie sú len tak nejaké poznámky, ktoré by sa dali pozerať ako PDF. Hlavná odlišnosť je vo funkciách, ktoré táto databáza ponúka a tým uľahčuje chápanie rôznych tém, pomocou prepájanie informácii.
+Toto nie sú len tak nejaké poznámky, ktoré by sa dali pozerať ako PDF (*samozrejme sa dajú exportovať aj ako PDF, keby to preferuješ stále takto, napíš mi mail ktoré chceš a ja ti ich pošlem*). Hlavná odlišnosť je vo funkciách, ktoré táto databáza ponúka a tým uľahčuje chápanie rôznych tém, pomocou prepájanie informácii.
 
 ### Lokálny graf
 To je tá vec vpravo hore. Ukazuje ti poznámku, **v ktorej sa práve nachádzaš** a vizualizuje všetky prepojenia, ktoré táto poznámka má.
@@ -49,9 +49,9 @@ To je tá vec vpravo hore. Ukazuje ti poznámku, **v ktorej sa práve nachádza�
 Vidíš takto teda, ktoré všetky témy spomínajú tú, o ktorej čítaš, alebo naopak, čo by sa mohlo hodiť na lepšie porozumenie problematiky.
 
 Vieš si tu navoliť aj "*depth*", teda ako hlboko prepojenia uvidíš.
-- Level 1 sú len prepojenia, ktoré sa viažu na aktuálnu poznámku
-- Level 2 sú prepojenia, ktoré sa viažu na priame nadviazania aktuálnej poznámky
-- Level 3 funguje na rovnakom princípe ako level 2, ale eŠte o jednu ďalej
+- **Level 1** sú len prepojenia, ktoré sa viažu na aktuálnu poznámku
+- **Level 2** sú prepojenia, ktoré sa viažu na priame nadviazania aktuálnej poznámky
+- **Level 3** funguje na rovnakom princípe ako level 2, ale eŠte o jednu ďalej
 
 *(a samozrejme vyzerá strašne cool)*
 
