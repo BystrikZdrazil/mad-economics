@@ -14,6 +14,7 @@ Do tejto databázy som dal veľa práce nie len **písaním a zhromažďovaním 
 ---
 
 ## Toolbar
+To je tá vec vpravo dole, kde môžeš vidieť ikonku pre GitHub, zmenu light a dark mode a tlačidlo na môj mail.
 
 ### Github
 Chcel/a by si vedieť, ako toto **celé funguje**? Pozri na môj **GitHub** a môžeš sa dozvedieť viac.
