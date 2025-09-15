@@ -52,9 +52,7 @@ Vidíš takto teda, ktoré všetky témy spomínajú tú, o ktorej čítaš, ale
 Vieš si tu navoliť aj "*depth*", teda ako hlboko prepojenia uvidíš.
 - **Level 1** sú len prepojenia, ktoré sa viažu na aktuálnu poznámku
 - **Level 2** sú prepojenia, ktoré sa viažu na priame nadviazania aktuálnej poznámky
-- **Level 3** funguje na rovnakom princípe ako level 2, ale eŠte o jednu ďalej
-
-*(a samozrejme vyzerá strašne cool)*
+- **Level 3** funguje na rovnakom princípe ako level 2, ale ešte o jednu ďalej
 
 ### On this page
 Aby sa ti dalo lepšie hľadať v poznámkach to, čo potrebuješ, alebo ak len potrebuješ doštudovať konkrétnu časť určitej témy, pod grafom vpravo vidíš všetky nadpisy, ktoré sú v tejto poznámke.
