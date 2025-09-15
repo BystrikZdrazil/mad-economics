@@ -34,7 +34,7 @@ Je **viacero spôsobov**, ako sa dá pohybovať v tejto databázi. Každý má s
 Prvý, podľa mňa najprehľadnejší celkovo, je navigácia pomocou **panelu na ľavej strane**. Nájdeš tam všetko usporiadané do súborov podľa témy.
 
 ### Vyhľadávanie
-Druhý spôsob, ako sa pohybovať v informáciách, je pomocou **vyhľadávania**. To nájdeš vľavo hore, alebo so spustíš pomocou skratky *CTRL+K (windows)* // *COMMAND + K (MacOS)*
+Druhý spôsob, ako sa pohybovať v informáciách, je pomocou **vyhľadávania**. To nájdeš vľavo hore, alebo so spustíš pomocou skratky *CTRL+K (Windows)* // *COMMAND+K (MacOS)*
 
 ### Wikilinks
 Posledný spôsob, ktorým sa dá navigovať v poznámkach je pomocou [[01 - School/_Utility/wikilinks\|wikilinks]], ako je tento. Tieto si do poznámok dávam všade, kde cítim, že by bolo fajn mať prepojenie na danú tému, aby sa dalo materiálom lepšie porozumieť.
