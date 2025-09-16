@@ -11,3 +11,4 @@
 - Emp-
 - Ent-
 - Miss-
+	- Vždy je to nieco negatívne
