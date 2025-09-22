@@ -9,11 +9,11 @@
 **Z teoretického hľadiska** je ekonomickou vednou disciplínou, ktorá opisuje skutočnosti, ktoré sú predmetom účtovníctva v praxi, hodnotí ich, analyzuje s cieľom ďalšieho zdokonaľovania sústav účtovníctva, metodiky účtovníctva, techniky účtovania a organizácie účtovníctva.
 
 # Podstata účtovníctva
-- Je to najucelenejší system ekonomických informácii v peňažnom vyjadrení
+- Je to najucelenejší systém ekonomických informácii v [[01 - School/Základy Ekonómie/Peniaze\|peňažnom]] vyjadrení
 - Zaznamenáva a v pravidelných intervaloch poskytuje používateľom na prijímanie rozhodnutí
-- Účtovníctvo sa viaže na účtovnú jednotku
+- Účtovníctvo sa viaže na [[#Účtovná jednotka|účtovnú jednotku]]
 
-**Cieľom účtovníctva** je prostredníctvom účtovnej závierky **poskytovať informácie o finančnej situácii**, **výnosnosti** (finančnej výkonnosti) a o zmenách vo finančnej situácii účtovnej jednotky vždy **za určité časové obdobie** v peňažnom vyjadrení rôznym používateľom, ktorí na ich základe prijímajú ekonomické rozhodnutia.
+**Cieľom účtovníctva** je prostredníctvom účtovnej závierky **poskytovať informácie o finančnej situácii**, **výnosnosti** (finančnej výkonnosti) a o zmenách vo finančnej situácii účtovnej jednotky vždy **za určité časové obdobie** v [[01 - School/Základy Ekonómie/Peniaze\|peňažnom]] vyjadrení rôznym používateľom, ktorí na ich základe prijímajú ekonomické rozhodnutia.
 
 Základnou zásadou podvojného účtovníctva v trhovej ekonomike je **zásada verného a pravdivého zobrazenia skutočností**.
 
@@ -30,7 +30,7 @@ Základnou zásadou podvojného účtovníctva v trhovej ekonomike je **zásada 
 ## Účtovná jednotka
 Účtovná jednotka je **ekonomický celok**, ktorý musí v súlade so zákonom o účtovníctve viesť účtovníctvo a zostavovať účtovnú závierku.
 
-Účtovnou jednotkou sú aj **obchodné spoločnosti** a **družstvá** odo dňa obnovenia zápisu obchodnej spoločnosti a družstva v obchodnom registri z dôvodu nariadenia dodatočnej likvidácie od dna výmazu **obchodnej spoločnosti** a **družstva** z obchodného registra z dôvodu skončenia dodatočnej likvidácie.
+Účtovnou jednotkou sú aj **obchodné spoločnosti** a **družstvá** odo dňa obnovenia zápisu obchodnej spoločnosti a družstva v obchodnom registri z dôvodu nariadenia dodatočnej likvidácie od dna výmazu **obchodnej spoločnosti** a **družstvá** z obchodného registra z dôvodu skončenia dodatočnej likvidácie.
 
 Účtovná jednotka je povinná **účtovať** tak, aby **účtovná závierka** poskytovala verný a pravdivý obraz o skutočnostiach, ktoré sú predmetom účtovníctva.
 
@@ -43,7 +43,7 @@ Základnou zásadou podvojného účtovníctva v trhovej ekonomike je **zásada 
 
 ### Účtovné jednotky v SR
 1. Všetky **právnické osoby**, ktoré majú sídlo na území slovenskej republiky
-2. Zahraničné právnické osoby, ak na území SR podnikajú alebo vykonávajú inú činnosť podla osobitných predpisov
+2. [[01 - School/Obchodné a Hospodárske Právo/Obchodné právo#Podnikanie zahraničných osôb\|Zahraničné osoby]], ak na území SR podnikajú alebo vykonávajú inú činnosť podľa osobitných predpisov
 3. Fyzcké osoby, (slovenské aj zahraničné FO), a to:
 	1. Ktoré **podnikajú**
 	2. Vykonávajú **inú samostatnú zárobkovú činnosť**, ak preukazujú svoje výdavky vynaložené na dosiahnutie, zabezpečenie a udržanie príjmov na účely zistenia základu dane z príjmov
@@ -64,13 +64,13 @@ Základnou zásadou podvojného účtovníctva v trhovej ekonomike je **zásada 
 
 - Účtovné jednotky, ktoré **nie sú** založené alebo zriadené na účely **podnikania**, označované ako **účtovné jednotky neziskovej sféry**
 
-- Sociálna poisťovňa,
-- Rozpočtové organizácie, príspevkové organizácie, štátne fondy, obce a vyššie územné celky,
-- Obchodníci s cennými papiermi,
-- Banky,
-- Komerčné poisťovne,
-- Podielové fondy, dôchodkové fondy a doplnkové dôchodkové fondy,
-- Fond ochrany vkladov, Garančný fond investícií a inštitúcie elektronických peňazí,
+- Sociálna poisťovňa
+- Rozpočtové organizácie, príspevkové organizácie, štátne fondy, obce a vyššie územné celky
+- Obchodníci s cennými papiermi
+- Banky
+- Komerčné poisťovne
+- Podielové fondy, dôchodkové fondy a doplnkové dôchodkové fondy
+- Fond ochrany vkladov, Garančný fond investícií a inštitúcie elektronických peňazí
 - Exportno-importná banka Slovenskej republiky
 
 ## Účtovné závierky spoločností
@@ -84,11 +84,11 @@ Základnou zásadou podvojného účtovníctva v trhovej ekonomike je **zásada 
 - Správy o udržateľnosti
 
 # Účtovný informačný systém
-1. **zber** (zisťovanie, získavanie, vytváranie) ekonomických informácií
-2. **triedenie** (usporiadanie, klasifikácia) **prvotne získaných informácií** a ich komplexné **zaznamenávanie** v časovej postupnosti
-3. **úpravy na konci** každého účtovného **obdobia**
-4. **sumarizácia informácií** a ich príprava pre potreby prezentácie
-5. **zverejnenie informácií** z účtovníctva
+1. **Zber** (zisťovanie, získavanie, vytváranie) ekonomických informácií
+2. **Triedenie** (usporiadanie, klasifikácia) **prvotne získaných informácií** a ich komplexné **zaznamenávanie** v časovej postupnosti
+3. **Úpravy na konci** každého účtovného **obdobia**
+4. **Sumarizácia informácií** a ich príprava pre potreby prezentácie
+5. **Zverejnenie informácií** z účtovníctva
 
 # Oblasti účtovníctva
 - Účtovanie účtovaných prípadov
@@ -100,10 +100,10 @@ Základnou zásadou podvojného účtovníctva v trhovej ekonomike je **zásada 
 
 ## Interní
 - Manažéri
-- Investori (súčasne manažérmi)
+- Investori (*súčasne manažérmi*)
 
 ## Externí
-- Investori (nie sú manažéri)
+- Investori (*nie sú manažéri*)
 - Zamestnanci
 - Finanční veritelia
 - Zákazníci
@@ -117,10 +117,10 @@ Rozdiel v informačných potrebách interných a externých používateľov vied
 - Finančné účtovníctvo
 
 ## Manažérske účtovníctvo
-Zaoberá sa poskytovaním ekonomických informácií, ktoré potrebujú riadiaci pracovníci pre rozhodovanie a kontrolu riadených procesov.
+Zaoberá sa poskytovaním **ekonomických informácií**, ktoré potrebujú riadiaci pracovníci pre rozhodovanie a kontrolu riadených procesov.
 
-- **Zahŕňa** vedenie účtovníctva a účtovnú závierku
-- **Má** právne stanovený obsah a formu
+- **Zahŕňa** nákladové účtovníctvo a kalkulácie, plus podnikové plánovanie a rozpočtovanie
+- **Nemá** právne stanovený obsah a formu
 
 >[!info]+
 >Súčasná právna úprava účtovníctva používa v tejto súvislosti všeobecné označenie „vnútroorganizačné účtovníctvo“.
@@ -128,22 +128,22 @@ Zaoberá sa poskytovaním ekonomických informácií, ktoré potrebujú riadiaci
 ## Finančné účtovníctvo
 Zaoberá sa poskytovaním ekonomických informácií, ktoré slúžia primárne na rozhodovanie sa externým používateľom. Sú však užitočné aj pre manažérov.
 
-Finančné účtovníctvo --> Vedenie účtovníctva -(sumarizácia informácii)-> účtovná závierka
+Finančné účtovníctvo --> Vedenie účtovníctva --(sumarizácia informácii)--> účtovná závierka
 
-- **Zahŕňa** nákladové účtovníctvo a kalkulácie, plus podnikové plánovanie a rozpočtovanie
-- **Nemá** právne stanovený obsah a formu
+- **Zahŕňa** vedenie účtovníctva a účtovnú závierku
+- **Má** právne stanovený obsah a formu
 
 # Predmet účtovníctva
 Účtovanie skutočností o:
-- Stave a pohybe **majetku**,
-- Stave a pohybe **záväzkov**,
-- **Rozdiele** majetku a záväzkov, označujú sa
-- **Výnosoch**, „účtovné
-- **Nákladoch**, prípady“
-- **Príjmoch**, 
-- **Výdavkoch**,
-- **Výsledku hospodárenia** účtovnej jednotky;
-1. **vykazovanie** skutočností o účtovných prípadoch v **účtovnej** **závierke**, pričom predmetom vykazovania sú aj iné aktíva a iné pasíva.
+- Stave a pohybe **majetku**
+- Stave a pohybe **záväzkov**
+- **Rozdiele** majetku a záväzkov, označujú sa "*účtovné prípady*"
+- **Výnosoch**
+- **Nákladoch**
+- **Príjmoch**
+- **Výdavkoch**
+- **Výsledku hospodárenia** účtovnej jednotky
+- **Vykazovanie** skutočností o účtovných prípadoch v **účtovnej** **závierke**, pričom predmetom vykazovania sú aj iné aktíva a iné pasíva.
 
 >[!info]+
 >Rozdiel majetku a záväzkov sa v podnikateľskej účtovnej jednotke označuje „*vlastné imanie*“.
@@ -155,7 +155,7 @@ Je to **časový úsek** (interval), do ktorého sa účtujú skutočnosti, ktor
 Od 01.01 do 31.12 príslušného kalendárneho roka.
 
 ## Hospodársky rok
-obdobie nepretržite po sebe nasledujúcich 12 kalendárnych mesiacov, ktoré nie sú zhodné s kalendárnym rokom.
+Obdobie nepretržite po sebe nasledujúcich 12 kalendárnych mesiacov, ktoré nie sú zhodné s kalendárnym rokom.
 
 # Sústava účtovníctva
 Je to **súhrn účtovných zápisov**, ktoré vedú k zostaveniu účtovnej závierky. 
@@ -172,6 +172,10 @@ Sústava podvojného účtovníctva je **základnou sústavou** a sú v nej povi
 - Účtovné **knihy**
 - Účtovná **závierka**
 
+# Inventúra a inventarizácia
+- Inventúra je spis majetku
+- Inventarizacia je porovnávanie majetku a účtovnej závierky
+
 ---
 # Useful links
 www.registeruz.sk
@@ -179,3 +183,8 @@ www.registeruz.sk
 # Pozrieť ešte na
 - **Výnos** VS **príjem**
 - **Náklad** VS **výdavok**
+
+# Úloha na doma
+- vyhľadať v registry kolko subjektov v BA kraji poskytuje služby vedenia účtovníctva
+	- Skúsiť sa pozrieť aj do **SK NACE**
+		- Klasifikácia je **69.20.0**

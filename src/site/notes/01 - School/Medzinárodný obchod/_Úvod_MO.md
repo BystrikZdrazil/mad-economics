@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/01-school/medzinarodny-obchod/uvod-mo/","tags":["year2","winterSemester","uniMO"]}
 ---
 
+- Prednášky su klucove ku skúške
+
 # Kontakt na učiteľa
 
 
@@ -17,3 +19,14 @@
 	- WTO
 	- EC
 	- WEF
+
+---
+# Seminár
+- Zapísať sa na aktuality v MS Teams
+
+## Prezentácia
+- **Musí** byt **interaktívna**
+	- Môže byť na konci **kahoot** alebo iná forma **kvízu**
+- Bude na **30 minut**
+- Budeme to ako keby **učiť spolužiakov**
+- 

@@ -20,30 +20,27 @@ Je pre ňu charakteristické, že sú právne upravené:
 - **Účtovná závierka**
 
 Z hľadiska **vymedzenia subjektov**, **pre ktoré sú predpisy** týkajúce sa účtovníctva v SR **záväzné** , rozlišujeme túto ich **hierarchiu**:
-1. Zákony,
-2. Opatrenia,
-3. Metodické pokyny a usmernenia,
-4. Vnútorné predpisy účtovných jednotiek.
+1. Zákony
+2. Opatrenia
+3. Metodické pokyny a usmernenia
+4. Vnútorné predpisy účtovných jednotiek
 
 # Zákony
 - **Podnikateľom**
-	- Obchodný zákonník
+	- [[01 - School/Obchodné a Hospodárske Právo/Obchodné právo#Pramene obchodného práva\|Obchodný zákonník]]
 - **Bankám**
-	- zákon o bankách
+	- Zákon o bankách
 - **Zdravotným poisťovniam**
-	- zákon o zdravotných poisťovniach a dohľade nad zdravotnou starostlivosťou
+	- Zákon o zdravotných poisťovniach a dohľade nad zdravotnou starostlivosťou
 
 Ustanovujú povinnosť viesť účtovníctvo a zostavovať účtovnú závierku podľa **Zákona č.** 431/2002 Z. z. o účtovníctve v znení neskorších predpisov.
 
 ## Zákon o účtovníctve upravuje:
-- Rozsah, spôsob a preukázateľnosť vedenia účtovníctva
-- Rozsah, obsah a preukázateľnosť účtovnej závierky
+- Rozsah, spôsob a preukázateľnosť **vedenia účtovníctva**
+- Rozsah, obsah a preukázateľnosť **účtovnej závierky**
 - Register účtovných závierok pre **všetky typy** účtovných jednotiek
 
-Zákon o účtovníctve neustanovuje konkrétne
-postupy účtovania, ale určuje základné zásady
-pre vedenie účtovníctva a zostavenie účtovnej
-závierky.
+Zákon o účtovníctve neustanovuje konkrétne postupy účtovania, ale určuje základné zásady pre vedenie účtovníctva a zostavenie účtovnej závierky.
 
 ### Skladá sa z
 1. Základné a všeobecné ustanovenia
@@ -74,22 +71,22 @@ V sústave **podvojného účtovníctva** pre tieto **typy účtovných jednoti
 - Exportno-importnú banku Slovenskej republiky
 
 V sústave **jednoduchého účtovníctva** pre tieto **typy účtovných jednotiek**:
-- účtovné jednotky, ktoré podnikajú,
-- účtovné jednotky, ktoré nie sú založené alebo zriadené na účel podnikania.
+- Účtovné jednotky, ktoré podnikajú,
+- Účtovné jednotky, ktoré nie sú založené alebo zriadené na účel podnikania.
 
 Opatrenia sú povinné dodržiavať tie účtovné jednotky, ktorých sa týkajú.
 
 Oznámenie o vydaní opatrenia → v Zbierke zákonov SR → text opatrení → uverejnený vo Finančnom spravodajcovi prístupnom v elektronickej podobe na: http://www.mfsr.sk
 
 ## Pre podnikateľov účtujúcich v sústave podvojného účtovníctva:
-1. Upravujúce **postupy účtovania –** opatrenie Ministerstva financií SR č. 23 054/2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcovej účtovej osnove pre podnikateľov účtujúcich v sústave podvojného účtovníctva, v znení neskorších predpisov - **pre všetky** **veľkostné skupiny** podnikateľov
+1. Upravujúce **postupy účtovania –** opatrenie Ministerstva financií SR č. 23 054/2002-92, ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcovej účtovej osnove pre podnikateľov účtujúcich v sústave podvojného účtovníctva, v znení neskorších predpisov - **pre všetky** **veľkostné skupiny** podnikateľov
 2. Upravujúce **účtovnú závierku - zvlášť pre každú veľkostnú** skupinu podnikateľov:
 
-Pre **MIKRO** účtovné jednotky –opatrenie Ministerstva financií Slovenskej republiky č. MF/15464/2013-74, ktorým sa ustanovujú podrobnosti o usporiadaní, označovaní a obsahovom vymedzení položiek individuálnej účtovnej závierky a rozsahu údajov určených z individuálnej účtovnej závierky na zverejnenie pre mikro účtovné jednotky, v znení neskorších predpisov,
+Pre **MIKRO** účtovné jednotky – opatrenie Ministerstva financií Slovenskej republiky č. MF/15464/2013-74, ktorým sa ustanovujú podrobnosti o usporiadaní, označovaní a obsahovom vymedzení položiek individuálnej účtovnej závierky a rozsahu údajov určených z individuálnej účtovnej závierky na zverejnenie pre mikro účtovné jednotky, v znení neskorších predpisov,
 
-Pre **MALÉ** účtovné jednotky –opatrenie Ministerstva financií Slovenskej republiky č. MF/23378/2014-74, ktorým sa ustanovujú  podrobnosti o individuálnej účtovnej závierke a rozsahu údajov  určených z individuálnej účtovnej závierky na zverejnenie pre malé  účtovné jednotky, v znení neskorších predpisov,
+Pre **MALÉ** účtovné jednotky – opatrenie Ministerstva financií Slovenskej republiky č. MF/23378/2014-74, ktorým sa ustanovujú podrobnosti o individuálnej účtovnej závierke a rozsahu údajov určených z individuálnej účtovnej závierky na zverejnenie pre malé účtovné jednotky, v znení neskorších predpisov,
 
-Pre **VEĽKÉ** účtovné jednotky –opatrenie Ministerstva financií Slovenskej republiky č. MF/23377/2014-74, ktorým sa ustanovujú podrobnosti o individuálnej účtovnej závierke a rozsahu údajov určených z individuálnej účtovnej závierky na zverejnenie pre veľké účtovné jednotky a subjekty verejného záujmu, v znení neskorších predpisov.
+Pre **VEĽKÉ** účtovné jednotky – opatrenie Ministerstva financií Slovenskej republiky č. MF/23377/2014-74, ktorým sa ustanovujú podrobnosti o individuálnej účtovnej závierke a rozsahu údajov určených z individuálnej účtovnej závierky na zverejnenie pre veľké účtovné jednotky a subjekty verejného záujmu, v znení neskorších predpisov.
 
 ## Postupy účtovania pre podnikateľov
 - Všeobecné ustanovenia
@@ -138,7 +135,6 @@ Vnútorný predpis je účtovnou jednotkou vydaná písomnosť, v ktorej sa prem
 - Smernica Európskeho parlamentu a Rady 2006/43/ES zo 17. mája 2006 o štatutárnom audite ročných účtovných závierok a konsolidovaných účtovných závierok v znení neskorších predpisov
 - Smernica Rady 86/635/EHS z 8. decembra 1986 o ročných účtovných závierkach a konsolidovaných účtovných závierkach bánk a iných finančných inštitúcií vznení neskorších predpisov
 - Smernica Rady 91/674/EHS z 19. decembra 1991 o ročných účtovných a konsolidovaných účtovných závierkach poisťovní vznení neskorších predpisov
-
 - [Úradný vestník Európskej únie](http://www.eur-lex.europa.eu/)
 
 # Nadnárodná úprava účtovníctva
@@ -155,12 +151,11 @@ Vnútorný predpis je účtovnou jednotkou vydaná písomnosť, v ktorej sa prem
 Medzinárodné štandardy finančného vykazovania (International Financial Reporting Standards – IFRS)
 
 - **Spoločný názov pre sústavu** Medzinárodných štandardov finančného vykazovania, ktorá je tvorená:
-	- Medzinárodnými účtovnými štandardami – **IAS**(International Accounting Standards) – pod týmto označením vychádzali do roku 2002
+	- Medzinárodnými účtovnými štandardami – **IAS** (International Accounting Standards) – pod týmto označením vychádzali do roku 2002
 	- Medzinárodnými štandardmi finančného vykazovania – **IFRS** (International Financial Reporting Standards) – pod týmto označením sú publikované od roku 2003
 	- interpretáciami:
 		- **SIC** (Standing Interpretations Committee) – viažu sa k IAS a
 		- **IFRIC** (International Financial Reporting Interpretation Committee) – viažu sa k IFRS.
-
 
 ### Koncepčný rámec
 - Je neoddeliteľnou súčasťou súboru IFRS
@@ -195,29 +190,28 @@ V SR sa v súlade s nariadením EÚ zostavujú účtovné
 závierky **podľa IFRS** takto:
 - Od 1. januára 2005 – konsolidované účtovné závierky
 - Od 1. januára 2006 **povinne** aj individuálne účtovné závierky týchto účtovných jednotiek:
-	- Bánk,
-	- Pobočiek zahraničných bánk,
-	- Správcovských spoločností,
-	- Pobočiek zahraničných správcovských spoločností,
-	- Poisťovní (okrem zdravotných poisťovní),
-	- Pobočiek poisťovní z iného členského štátu,
-	- Pobočiek zahraničných poisťovní,
-	- Zaisťovní,
-	- Pobočiek zaisťovní z iného členského štátu,
-	- Pobočiek zahraničných zaisťovní,
-	- Slovenskej kancelárie poisťovateľov,
-	- Dôchodkových správcovských spoločností,
-	- Doplnkových dôchodkových spoločností,
-	- Burzy cenných papierov,
-	- Železníc Slovenskej republiky.
+	- Bánk
+	- Pobočiek zahraničných bánk
+	- Správcovských spoločností
+	- Pobočiek zahraničných správcovských spoločností
+	- Poisťovní (okrem zdravotných poisťovní)
+	- Pobočiek poisťovní z iného členského štátu
+	- Pobočiek zahraničných poisťovní
+	- Zaisťovní
+	- Pobočiek zaisťovní z iného členského štátu
+	- Pobočiek zahraničných zaisťovní
+	- Slovenskej kancelárie poisťovateľov
+	- Dôchodkových správcovských spoločností
+	- Doplnkových dôchodkových spoločností
+	- Burzy cenných papierov
+	- Železníc Slovenskej republiky
 
 **Dobrovoľne** môžu v SR aplikovať medzinárodné štandardy IFRS pri zostavovaní individuálnej účtovnej závierky, ak sa tak rozhodnú, aj tieto účtovné jednotky:
 
 - Platobné inštitúcie, inštitúcie elektronických peňazí, obchodníci s cennými papiermi alebo pobočky zahraničných obchodníkov scennými papiermi, ktorí nie sú súčasne bankou, pobočkou zahraničnej banky, správcovskou spoločnosťou alebo pobočkou správcovskej spoločnosti
 - Účtovné jednotky, ktoré v účtovnom období emitovali cenné papiere, ktoré boli prijaté na obchodovanie na regulovanom trhu
 - Je európskou spoločnosťou so sídlom na území Slovenskej republiky, európskym družstvom so sídlom na území Slovenskej republiky alebo je európskym zoskupením hospodárskych záujmov so sídlom na území Slovenskej republiky, ak pred premiestnením sídla na územie Slovenskej republiky zostavovali individuálnu účtovnú závierku podľa IFRS
-- Obchodné spoločností, ktoré najmenej 2 po sebe idúce účtovné obdobia spĺňajú aspoň dve z týchto podmienok  
-    (tzv. veľkostné kritériá):  
+- Obchodné spoločností, ktoré najmenej 2 po sebe idúce účtovné obdobia spĺňajú aspoň dve z týchto podmienok (tzv. veľkostné kritériá): 
 	- Celková suma ich majetku presiahla 170 000 000 €
 	- Čistý obrat presiahol 170 000 000 €
 	- Priemerný prepočítaný počet zamestnancov v jednotlivom účtovnom období presiahol 2000
@@ -226,20 +220,15 @@ závierky **podľa IFRS** takto:
 
 ## US GAAP
 - Americké všeobecne uznávané účtovné zásady (US Generally Accepted Accounitng Principles – US GAAP)
-
 - Súborné označenie pre tisícky predpisov, ktoré platia pre zostavenie účtovnej závierky v Spojených štátoch amerických
 - Sú založené na **zvykovom práve**
 
 **Špecifikum US GAAP**
 - Sú síce tvorené na národnej úrovni, ale majú medzinárodný dopad.
 
-Používajú sa (alternatívne) pre potreby zostavenia
-účtovnej závierky spoločností, ktoré síce nesídlia a/alebo
-nepôsobia na území USA, ale majú svoje cenné papiere
-kótované na amerických burzách.
+Používajú sa (alternatívne) pre potreby zostavenia účtovnej závierky spoločností, ktoré síce nesídlia a/alebo nepôsobia na území USA, ale majú svoje cenné papiere kótované na amerických burzách.
 
-Taktiež účtovné závierky zostavené podľa US GAAP sú
-uznávané všetkými svetovými burzami.
+Taktiež účtovné závierky zostavené podľa US GAAP sú uznávané všetkými svetovými burzami.
 
 ### História vzniku US GAAP
 - Už od roku 1934
@@ -248,7 +237,7 @@ uznávané všetkými svetovými burzami.
 - Kde sú autoritatívne predpisy usporiadané v štvorstupňovej hierarchii podľa tém, ktorých sa týkajú.
 
 # US GAAP VS IFRS
-Prebieha proces konvergencie – zbližovania, zmenšovania rozdielov
+Prebieha proces konvergencie – zbližovania, zmenšovania rozdielov.
 
 **Účtovné závierky** zostavené **v súlade s IFRS** sú od roku 2007 **uznané** burzami cenných papierov **v USA** bez potreby vykonania prevodových úprav na US GAAP.
 
