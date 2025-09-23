@@ -74,7 +74,7 @@ Základnou zásadou podvojného účtovníctva v trhovej ekonomike je **zásada 
 - Exportno-importná banka Slovenskej republiky
 
 ## Účtovné závierky spoločností
-- Súvaha
+- [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|Súvaha]]
 - Výkaz ziskov a strát
 - Poznámky
 

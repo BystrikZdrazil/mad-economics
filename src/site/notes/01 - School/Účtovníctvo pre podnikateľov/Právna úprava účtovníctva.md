@@ -102,7 +102,7 @@ Pre **VEĽKÉ** účtovné jednotky – opatrenie Ministerstva financií Slove
 - Podrobné ustanovenia o usporiadaní, označovaní a obsahovom vymedzení položiek individuálnej účtovnej závierky a rozsahu údajov určených na zverejnenie
 - Prílohu, v ktorej sú uvedené:
 	- Záväzné vzory výkazov, ktoré sú súčasťou účtovnej závierky:
-		- Súvaha
+		- [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|Súvaha]]
 		- Výkaz ziskov a strát
 	- obsahová náplň poznámok, ktoré sú súčasťou účtovnej závierky
 
