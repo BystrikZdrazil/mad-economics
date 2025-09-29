@@ -20,7 +20,7 @@ Majetkom sú tie aktíva účtovnej jednotky,
 - Ktoré sú **výsledkom minulých udalostí**
 - Je takmer isté, že v **budúcnosti zvýšia ekonomické úžitky** účtovnej jednotky
 - Dajú sa **spoľahlivo oceniť** podľa zákona o účtovníctve
-- **Vykazujú sa v účtovnej závierke v [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|súvahe]]** (v podvojnom účtovníctve) alebo vo výkaze o majetku a záväzkoch (v jednoduchom účtovníctve)
+- **Vykazujú sa v účtovnej závierke v [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|súvahe]]** (*v podvojnom účtovníctve*) alebo vo výkaze o majetku a záväzkoch (*v jednoduchom účtovníctve*)
 
 Majetok sa označuje aj ako ekonomické prostriedky.
 
@@ -45,7 +45,7 @@ Majetok sa označuje aj ako ekonomické prostriedky.
 | Aktíva    | Iné aktíva     | Poznámky                  |
 
 ## Triedenie majetku
-- **Podľa podstaty** (charakteru)
+- **Podľa podstaty** (*charakteru*)
 	- Nehmotný majetok 
 	- Hmotný majetok 
 	- Finančný majetok
@@ -53,7 +53,7 @@ Majetok sa označuje aj ako ekonomické prostriedky.
 - **Z časového hľadiska**
 	- Dlhodobý majetok
 	- Krátkodobý majetok
-- **Podľa spôsobu pôsobenia majetku** v jeho kolobehu (v prevádzkovom cykle)
+- **Podľa spôsobu pôsobenia majetku** v jeho kolobehu (*v prevádzkovom cykle*)
 	- Neobežný majetok
 	- Obežný majetok
 - **Časové rozlíšenie**
@@ -110,7 +110,7 @@ V účtovnej jednotke zostáva dlhšie, ako trvá výrobný cyklus; pričom neme
 - Dlhodobý finančný majetok
 
 #### Dlhodobý nehmotný majetok
-Je majetok nehmo**tnej pova**hy, ktorého ocenenie je **vyššie ako 2 400 eur** a doba použiteľnosti, resp. prevádzkovo-technické funkcie sú **dlhšie ako 1 rok**.
+Je majetok **nehmotnej povahy**, ktorého ocenenie je **vyššie ako 2 400 eur** a doba použiteľnosti, resp. prevádzkovo-technické funkcie sú **dlhšie ako 1 rok**.
 - Softvér
 - Oceniteľné práva
 - Goodwill
@@ -155,9 +155,9 @@ Pri ich skúmaní sa **odpovedá na takéto otázky**:
 - Z akých zdrojov financoval majetok?
 
 **Zdroje majetku sú napríklad**: 
-- vklady podnikateľa do podnikania
-- bankové úvery, záväzky voči dodávateľom, zamestnancom, Sociálnej poisťovni, zdravotným poisťovniam, správcom daní a ďalšie záväzky
-- vytvorený zisk ako vnútorný zdroj financovania
+- Vklady podnikateľa do podnikania
+- Bankové úvery, záväzky voči dodávateľom, zamestnancom, Sociálnej poisťovni, zdravotným poisťovniam, správcom daní a ďalšie záväzky
+- Vytvorený zisk ako vnútorný zdroj financovania
 
 ## Triedenie zdrojov majetku
 - **Hľadisko vlastníctva**
@@ -201,9 +201,9 @@ položky vytvorené:
 
 #### Členenie vlastného imania v [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|súvahe]]
 - Základné imanie (pohľadávky za upísané vlastné imanie /-/)
-- Emisné ážio
+- Emisné ážio[^1]
 - Ostatné kapitálové fondy
-- Zákonné rezervné fondy
+- Zákonné [[01 - School/Obchodné a Hospodárske Právo/Obchodné spoločnosti#Rezervný fond\|rezervné fondy]]
 - Ostatné fondy zo zisku
 - Oceňovacie rozdiely z precenenia
 - Výsledok hospodárenia minulých rokov
@@ -215,19 +215,19 @@ Základné imanie sa upravuje o:
 - Pohľadávky za upísané vlastné imanie (-)
 
 ##### Kapitálové fondy
-- Tvoria sa z rôznych zdrojov, ktoré plynú do účtovnej jednotky z externého prostredia) 
+- Tvoria sa z rôznych zdrojov, ktoré plynú do účtovnej jednotky z externého prostredia
 
 >[!example]+
->- Emisné ážio
+>- Emisné ážio[^1]
 >- Ostatné kapitálové fondy
 
 **Fondy vytvorené zo zisku**
-- Vytvárajú sa z dosiahnutého účtovného zisku účtovnej jednotky pri jeho rozdeľovaní)
+- Vytvárajú sa z dosiahnutého účtovného zisku účtovnej jednotky pri jeho rozdeľovaní
 
 **Zákonné fondy** (zákonný rezervný fond, nedeliteľný fond):
-- Zákonný rezervný fond z kapitálových vkladov
-- Zákonný rezervný fond tvorený zo zisku
-- Rezervný fond na vlastné akcie a vlastné obchodné podiely
+- Zákonný [[01 - School/Obchodné a Hospodárske Právo/Obchodné spoločnosti#Rezervný fond\|rezervný fond]] z kapitálových vkladov
+- Zákonný [[01 - School/Obchodné a Hospodárske Právo/Obchodné spoločnosti#Rezervný fond\|rezervný fond]] tvorený zo zisku
+- [[01 - School/Obchodné a Hospodárske Právo/Obchodné spoločnosti#Rezervný fond\|Rezervný fond]] na vlastné akcie a vlastné obchodné podiely
 
 **Ostatné fondy tvorené zo zisku**
 
@@ -237,16 +237,16 @@ Základné imanie sa upravuje o:
 - Nerozdelený zisk minulých rokov (+)
 - Neuhradená strata minulých rokov (-)
 
-##### Výsledok hospodárenia za účtovné obdobie po zdanení +/ -
+##### Výsledok hospodárenia za účtovné obdobie po zdanení +/-
 - Účtovný zisk (+)
 - Účtovná strata (-)
 
 ### Záväzky
 Záväzkom sa rozumie **existujúca povinnosť účtovnej jednotky**
-- Ktorá vznikla z minulých udalostí
-- Je pravdepodobné, že v budúcnosti zníži ekonomické úžitky účtovnej jednotky
-- Dá sa spoľahlivo oceniť podľa zákona o účtovníctve
-- Vykazuje sa v účtovnej závierke v [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|súvahe]] (v podvojnom účtovníctve) alebo vo výkaze o majetku a záväzkoch (v jednoduchom účtovníctve)
+- Ktorá vznikla z **minulých udalostí**
+- Je pravdepodobné, že **v budúcnosti zníži ekonomické úžitky** účtovnej jednotky
+- Dá sa **spoľahlivo oceniť** podľa **zákona** o účtovníctve
+- **Vykazuje sa** v účtovnej **závierke** v [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|súvahe]] (v podvojnom účtovníctve) alebo vo výkaze o majetku a záväzkoch (v jednoduchom účtovníctve)
 
 >[!example]+
 >**Pekáreň kupuje novú pec na pečenie chleba**
@@ -256,10 +256,10 @@ Záväzkom sa rozumie **existujúca povinnosť účtovnej jednotky**
 >4. Neuhradená faktúra sa vykazuje v účtovnej závierke v [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|súvahe]] ako záväzok
 >
 >**Riešenie**
->5. Povinnosť, ktorá vznikla z minulých udalostí
->6. Zníži v budúcnosti ekonomické úžitky
->7. Dá sa spoľahlivo oceniť podľa zákona
->8. Vykazuje sa v účtovnej závierke
+>1. Povinnosť, ktorá vznikla z minulých udalostí
+>2. Zníži v budúcnosti ekonomické úžitky
+>3. Dá sa spoľahlivo oceniť podľa zákona
+>4. Vykazuje sa v účtovnej závierke
 
 Pojem záväzky sa v [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|súvahe]] používa v tomto poňatí:
 - Záväzky ako **cudzie zdroje majetku**
@@ -269,7 +269,7 @@ Pojem záväzky sa v [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|sú
 #### Triedenie záväzkov
 **Podľa podstaty** (charakteru)
 - Záväzky z **obchodných vzťahov** (voči dodávateľom)
-- Záväzky **voči zamestnancom** a **orgánom sociálneho poistenia** (Sociálnej poisťovni) a zdravotného poistenia (zdravotným poisťovniam)
+- Záväzky **voči zamestnancom** a **orgánom sociálneho poistenia** (*sociálnej poisťovni*) a zdravotného poistenia (*zdravotným poisťovniam*)
 - Záväzky **vyplývajúce z daní a dotácií**
 - Záväzky **voči spoločníkom**, **členom** družstva a **účastníkom** združenia
 - **Finančné záväzky** (bankové úvery, finančné výpomoci)
@@ -300,3 +300,5 @@ Rezervy sa tvoria na základe zásady opatrnosti.
 Položky časového rozlíšenia, ktoré dopĺňajú zdroje majetku vykazované v [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|súvahe]], majú charakter záväzkov a sú nimi:
 - Výdavky budúcich období
 - Výnosy budúcich období
+
+[^1]: Príplatok k nominálnej cene cenného papiera alebo ku kurzovej hodnote devíz; prirážka k cene; rozdiel medzi nominálnou hodnotou cenného papiera a jeho vyššou trhovou cenou

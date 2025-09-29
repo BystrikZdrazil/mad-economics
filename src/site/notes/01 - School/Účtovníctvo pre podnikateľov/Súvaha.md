@@ -2,9 +2,13 @@
 {"dg-publish":true,"permalink":"/01-school/uctovnictvo-pre-podnikatelov/suvaha/","tags":["year2","winterSemester","uniUpP"]}
 ---
 
+# Účtovné informacie ktoré súvaha poskytuje
+- Dáva informácie o finančnej situácii
+
 ![suvaha-tabulka.png](/img/user/06%20-%20Images/suvaha-tabulka.png)
 
 **Bilančný princíp** – základ konštrukcie základného výkazu účtovnej závierky – súvahy.
+
 V súvahe sa vykazuje majetok z uvedených dvoch hľadísk (podľa formy a podľa zdrojov) a **platí v nej základná bilančná rovnica**
 - MAJETOK = ZDROJE MAJETKU
 
@@ -20,10 +24,11 @@ Súvaha je **metodický prostriedok podvojného účtovníctva** na **vyjadrenie
 
 Súvaha je **základný výkaz účtovnej závierky** v sústave podvojného účtovníctva.
 
+## Obsah súvahy
 Obsahom súvahy, jej **základnými zložkami** sú:
-- Majetok
-- Vlastné imanie
-- Záväzky
+- **Majetok** (*na strane aktív*)
+- **Vlastné imanie** (*na strane pasív*)
+- **Záväzky** (*na strane pasív*)
 
 # Súvaha v podmienkach SR
 Tradične i v súčasnosti na Slovensku súvaha:

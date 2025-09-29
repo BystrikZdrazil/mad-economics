@@ -8,6 +8,9 @@
 
 **Z teoretického hľadiska** je ekonomickou vednou disciplínou, ktorá opisuje skutočnosti, ktoré sú predmetom účtovníctva v praxi, hodnotí ich, analyzuje s cieľom ďalšieho zdokonaľovania sústav účtovníctva, metodiky účtovníctva, techniky účtovania a organizácie účtovníctva.
 
+- Daňový systém je oddelený od účtovníctva
+- Účtovníctvo ma informačnú funkciu
+
 # Podstata účtovníctva
 - Je to najucelenejší systém ekonomických informácii v [[01 - School/Základy Ekonómie/Peniaze\|peňažnom]] vyjadrení
 - Zaznamenáva a v pravidelných intervaloch poskytuje používateľom na prijímanie rozhodnutí
@@ -188,3 +191,6 @@ www.registeruz.sk
 - vyhľadať v registry kolko subjektov v BA kraji poskytuje služby vedenia účtovníctva
 	- Skúsiť sa pozrieť aj do **SK NACE**
 		- Klasifikácia je **69.20.0**
+
+## Odpoved
+- 6066
