@@ -88,3 +88,55 @@
 			- Napríklad čistička vody v Sudáne
 	- ICSID
 		- Keď mame problem s ktoroukolvek z vyššie uvedených inštitúcií, obrátime sa na ICSID
+	- 
+
+# 4. Fáza rastu
+- Špecializácia a kooperácia
+- Vedecko-technický pokrok
+- Rozpad bipolárneho usporiadania
+- Teroristické útoky
+- Mechanizmus vzniku krízy
+	- Lacné úvery -> likvidita -> DHM (nehnuteľnosti) -> nárast cien nehnuteľností -> vzrast úrokovej miery -> nárast dlhovej služby pre domácnosti -> hospodárska recesia -> strata konkurenčnej výhody -> neschopnosť exportu
+
+## Krízy
+- **Tulipanová kríza**
+	- Tulipánové cibuľky boli drahé ako rodinný dom
+- **Dot-com kríza**
+	- Internetové spoločnosti boli populárne pre investorov
+	- Bolo to oveľa výhodnejšie
+- **Hypotekárna kríza**
+	- Štát pomáhal ľudom dostať hypotéku a kúpiť si vlastný dom
+	- Začali stúpať ceny nehnuteľností, ked sub-prime klienti začali kupovať nehnuteľnosti
+- **Dlhová kríza**
+	- Banky bankrotujú - to najhoršie, co sa mohlo stať
+	- Európske centrálne banky majú zakázané vykupovať dlhopisy priamo od vlád
+
+# Ako vznikol ?
+- GATT - 1947
+	- Nediskriminácie, znižovanie colných bariér, doložka najvyšších výhod)
+- ITO - 1948
+- Uruguajské kolo GATT - 1986 - 1994
+- WTO - 1995
+
+Colná incidencia bola okolo 60%. V súčasnosti vďaka dohode GATT je colná incidencia okolo 2%
+
+Treba dať pozor na technické prekážky, ktoré bránia precleniu niektorých produktov.
+
+## Uruguajské kolo GATT
+- Liberalizácia prístupu na trh
+	- Zníženie ciel na priemyselne výrobky o 35%
+	- Multifibre Agreement - dohoda o obchode s textilným a odevnými výrobkami
+	- Dohoda o obchode s poľnohospodárskymi produktmi (subvencie)
+- Všeobecná dohoda o obchode so službami GATS
+- Ochrana trhu
+	- Antidumpingový kódex
+	- Dohoda o technických prekážkach obchodu
+- TRIPS - Dohoda o obchode a právach v oblasti intelektuálneho vlastníctva
+- Inštitucionálne problémy (ministerská konferencia)
+
+## WTO
+- Konsolidácia ciel a opatrení s podobným účinkom ako clá
+- Liberalizácia a postupne odstraňovanie tarifných a netarifnych prekážok obchodu
+- Nediskrimináca a uplatňovanie doložky najvyšších výhod
+- Multilateralita
+- Parita národného zaobchádzania

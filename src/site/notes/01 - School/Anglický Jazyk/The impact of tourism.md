@@ -63,4 +63,4 @@
 13. Has also just arrived
 
 # Homework
-- Complete the handout
+- 13 / 4,5,7 (written) (120-150 words handwritten)

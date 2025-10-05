@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-school/medzinarodny-obchod/globalizacia-v-ramci-medzinardneho-podnikania/","tags":["year2","winterSemester","uniMO"]}
 ---
 
-[[Globalizácia vo Svetovom hospodárstve\|Globalizácia vo Svetovom hospodárstve]]
+[[01 - School/Svetová Ekonomika/Globalizácia vo Svetovom hospodárstve\|Globalizácia vo Svetovom hospodárstve]]
 
 [[01 - School/Európska Únia/Globalizácia a EU\|Globalizácia a EU]]
 
