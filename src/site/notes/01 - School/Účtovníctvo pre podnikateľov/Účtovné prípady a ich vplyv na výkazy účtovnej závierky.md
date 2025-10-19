@@ -27,25 +27,25 @@ Z akého základného princípu vychádzajú tieto účtovné prípady? Bilančn
 
 **Účtovná jednotka** (spol. s r.o.) ku dňu svojho vzniku (5.9.2023) mala tento stav majetku a zdrojov majetku vykázaný v otváracej súvahe: (rovnosť musí byť zachovaná)
 
-![Pasted image 20251019213800.png](/img/user/06%20-%20Images/Pasted%20image%2020251019213800.png)
+![Uctovne pripady 1.png](/img/user/06%20-%20Images/Uctovne%20pripady%201.png)
 
 **_SHV a SHV (samostatne hnuteľné veci a súbory hnuteľných vecí)_**
 
 1. Prijatá faktúra od dodávateľa za nákup *multifunkčného zariadenia v sume 6 000€*. Faktúra *nebola zatiaľ uhradená*. Multifunkčné zariadenie bolo na základe faktúry *uvedené do používania k 13.9.2023* M+ZM+
 
-![Pasted image 20251019213916.png](/img/user/06%20-%20Images/Pasted%20image%2020251019213916.png)
+![Uctovne pripady 2.png](/img/user/06%20-%20Images/Uctovne%20pripady%202.png)
 
 2. *Úhrada časti záväzku* voči dodávateľovi *v sume 3 500 €* z *peňažných prostriedkov* uložených na *bankovom účte 14.9.2023* M-ZM-
 
-![Pasted image 20251019214035.png](/img/user/06%20-%20Images/Pasted%20image%2020251019214035.png)
+![Uctovne pripady 3.png](/img/user/06%20-%20Images/Uctovne%20pripady%203.png)
 
 3. Nákup materiálu v hotovosti za 300 €. Pokladničný doklad je z 18.9.2023. Materiál účtovná jednotka prevzala na sklad. M+M-
 
-![Pasted image 20251019214322.png](/img/user/06%20-%20Images/Pasted%20image%2020251019214322.png)
+![Uctovne pripady 4.png](/img/user/06%20-%20Images/Uctovne%20pripady%204.png)
 
 4. Úhrada záväzku dňa 20.9.2023 voči dodávateľovi v sume 2 500 € z krátkodobého bankového úveru , ZM+ZM-
 
-![Pasted image 20251019214336.png](/img/user/06%20-%20Images/Pasted%20image%2020251019214336.png)
+![Uctovne pripady 5.png](/img/user/06%20-%20Images/Uctovne%20pripady%205.png)
 
 Zhrnutie súvahových typov hospodárskych operácií /nepôsobiace/ = **nevznikajú nám výdavky ani výnosy**.
 - + M + ZM
