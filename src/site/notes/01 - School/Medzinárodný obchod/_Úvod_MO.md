@@ -29,4 +29,3 @@
 	- Môže byť na konci **kahoot** alebo iná forma **kvízu**
 - Bude na **30 minut**
 - Budeme to ako keby **učiť spolužiakov**
-- 
