@@ -6,3 +6,6 @@
 
 
 # Čo si treba zohnať na predmet
+
+# Skúška
+Prihlásiť sa k **Podmanickej** na skúšku

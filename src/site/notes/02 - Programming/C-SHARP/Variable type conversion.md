@@ -5,7 +5,7 @@
 # How to convert variable types?
 ## Basic conversion
 - We may convert smaller value types into larger value types, but not the other way around, even if the value itself is small enough to fit
-- This is only between [[02 - Programming/C-SHARP/Variables\|variables]] that store the same value type
+- This is only between [[02 - Programming/C-SHARP/Variables\|Variables]] that store the same value type
 ```C#
 // here there is no error because we can convert int into long
 int universeAgeInt = 15;
@@ -20,7 +20,7 @@ long milesDrivenLong = 150;
 int milesDriven = milesDrivenLong;
 ```
 ## Complex conversion
-- We can convert [[02 - Programming/C-SHARP/Variables\|variables]] into others even if they use different value types
+- We can convert [[02 - Programming/C-SHARP/Variables\|Variables]] into others even if they use different value types
 - This may result in data loss
 - When we convert data with decimal points into data without them there will be no rounding and just everything after the decimal point will be ignored
 ```C#
