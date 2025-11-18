@@ -2,26 +2,32 @@
 {"dg-publish":true,"permalink":"/01-school/uctovnictvo-pre-podnikatelov/dane-a-danova-sustava-sr/","tags":["year2","winterSemester","uniUpP"]}
 ---
 
-**Dane predstavujú:**
-- Najvýznamnejšiu zložku príjmov štátneho rozpočtu v SR
-- Povinnú, zákonom určenú, ktorú odvádza účtovná jednotka (ako právnická osoba) alebo fyzická osoba do štátneho rozpočtu v určenej výške a v stanovenej lehote.​
+- **Najvýznamnejšia** zložku príjmov štátneho rozpočtu v SR
+- **Povinná**, **zákonom určená** zložka, ktorú odvádza účtovná jednotka (ako právnická osoba) alebo fyzická osoba do štátneho rozpočtu v určenej výške a v stanovenej lehote.​
 
 # Daňová sústava:
 - Predstavuje súhrn daní, ktoré sa vyberajú na území SR.
-
-**Priame dane** sa vyrubujú bezprostredne z príjmu (dôchodkové dane) alebo z majetku (majetkové dane) daňovníka
-
-**Nepriame dane** sú zahrnuté v cene tovarov a služieb a do štátneho rozpočtu ich odvádza predajca tovaru alebo služby
+- **Priame dane** sa vyrubujú bezprostredne z príjmu (dôchodkové dane) alebo z majetku (majetkové dane) daňovníka
+- **Nepriame dane** sú zahrnuté v cene tovarov a služieb a do štátneho rozpočtu ich odvádza predajca tovaru alebo služby
 
 # Priame dane
 Zaťažujú fyzické a právnické osoby, vyrubujú sa z príjmu alebo majetku osôb - priamo sa platia, týkajú sa konkrétnej osoby or spoločnosti
+
+> [!important]+
+> Daňovník je prevažne zhodný s platiteľom dane
+
+Patria sem:
+- Daň s príjmov
+- Daň z motorových vozidiel
+- Daň z nehnuteľnosti
+- Iné miestne priame dane a poplatky
 
 ## Daň z príjmov (DzP):
 **Legislatívna úprava:** Zákon č. 595/2003 o dani z príjmov v znení neskorších predpisov
 - Ak vznikne účtovnej jednotke na konci účtovného obdobia daňová povinnosť - vzniká **záväzok** voči správcovi dane a **náklad**
 - Daň sa vyčísluje mimo účtovníctva - výsledok hospodárenia sa upravuje na základ dane prostredníctvom daňového priznania k dani z príjmov​
-- Základná sadzba predstavuje **21 %,**​
-- **Znížená sadzba 15 %,** ktorý dosiahol za zdaňovacie obdobie zdaniteľné príjmy (výnosy) **neprevyšujúce** sumu ustanovenú osobitným predpisom, t**. j. sumu 60'000€ podľa zákona o dani z príjmov.​
+- Základná sadzba predstavuje **21%**
+- **Znížená sadzba 15 %,** ktorý dosiahol za zdaňovacie obdobie zdaniteľné príjmy (výnosy) **neprevyšujúce** sumu ustanovenú osobitným predpisom, t**. j. sumu 60'000€ podľa zákona o dani z príjmov.
 
 Môžu byť:
 - [**daň z nehnuteľností (daň z pozemkov, stavieb, bytov)**](https://www.slovensko.sk/sk/zivotne-situacie/zivotna-situacia/_dan-z-nehnutelnosti-1/)**,**
@@ -34,6 +40,8 @@ Môžu byť:
 - daň za jadrové zariadenie.
 
 # Nepriame dane
+Daňovník a platiteľ dane su väčšinou iné osoby.
+
 ## Spotrebné dane:
 - Neplatíme ich priamo
 - Zaťažuje to vždy konečného spotrebiteľa
@@ -50,9 +58,11 @@ Zákon č. 222/2004 Z. z. Zákon o dani z pridanej hodnoty v znení neskorších
 - Nadobudnutie tovaru za protihodnotu v tuzemsku z iného členského štátu EÚ (členský štát)
 - Dovoz tovaru zo zahraničia
 
-**Zdaniteľnou osobou** je **každá** osoba, ktorá vykonáva ekonomickú činnosť bez ohľadu na účel alebo výsledky tejto činnosti. ktorá dosiahla **za najviac 12 predchádzajúcich** po sebe nasledujúcich kalendárnych mesiacov obrat **49 790 eur,** je povinná podať daňovému úradu žiadosť o registráciu pre daň. Zdaniteľná osoba je povinná podať žiadosť o registráciu pre daň do 20. dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom dosiahla obrat
+**Zdaniteľnou osobou** je **každá** osoba, ktorá vykonáva ekonomickú činnosť bez ohľadu na účel alebo výsledky tejto činnosti. ktorá dosiahla **za najviac 12 predchádzajúcich** po sebe nasledujúcich kalendárnych mesiacov obrat **49 790 eur**, je povinná podať daňovému úradu žiadosť o registráciu pre daň. Zdaniteľná osoba je povinná podať žiadosť o registráciu pre daň do 20. dňa kalendárneho mesiaca nasledujúceho po mesiaci, v ktorom dosiahla obrat
 
 Okrem povinnej registrácie sa však **podnikatelia môžu zaregistrovať za platiteľa DPH aj dobrovoľne**, a to podľa § 4 ods. 2 zákona o DPH. Ide predovšetkým o podnikateľov, pre ktorých je výhodné byť platiteľom DPH, napr. z dôvodu plánovaného nákupu majetku do podnikania, z dôvodu obchodovania len s platiteľmi DPH a pod.
+
+Osoba sa stáva platiteľom DPH v momente, ked dosiahne obrat 62 500 eur. Táto povinnosť vzniká ku dňu dosiahnutia, takže osoba musí ísť čo najskôr na úrad a zaregistrovať sa ako platiteľ dane.
 
 - V súčasnosti je v SR **základná sadzba dane 20%** zo základu dane
 - **znížená sadzba dane 10%** _vzťahuje sa na tovary a produkty uvedené v prílohe zákona o DPH_) = tj. (mäsové a mliečne výrobky, lieky, knihy...) a služby uvedené v prílohe č. 7a zákona o DPH (šport, gastro sektor, ubytovacie služby)​

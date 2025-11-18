@@ -104,93 +104,93 @@
 
 # Die Stadtbesichtigung – Prehliadka mesta
 
-|**Nemecky**|**Slovensky**|
-|---|---|
-|die Besichtigung, -en|prehliadka|
-|besichtigen|prezerať si, navštíviť|
-|der Reiseführer|turistický sprievodca (osoba)|
-|der Stadtplan, ⸚e|plán mesta, mapa|
-|die Rundfahrt, -en|okružná jazda|
-|die Sehenswürdigkeit, -en|pamiatka|
-|die Aussicht, -en|výhľad|
-|der Startpunkt|východiskový bod|
-|die City, -s|centrum mesta|
-|die Straße, -n|ulica|
-|der Hafen, ⸚|prístav|
-|die Kreuzung, -en|križovatka|
-|der Marktplatz, ⸚e|tržné námestie|
-|die Kirche, -n|kostol|
-|der Kirchturm, ⸚e|kostolná veža|
-|das Museum, Museen|múzeum|
-|der Speicher, -|sklad, sýpka|
-|der Stadtteil, -e|mestská časť|
-|der Bericht, -e|správa|
-|die Innenstadt|vnútorné mesto, centrum|
-|das Einkaufszentrum, -zentren|nákupné centrum|
-|der Souvenirladen, ⸚|obchod so suvenírmi|
-|zu Fuß gehen|ísť pešo|
+| **Nemecky**                   | **Slovensky**                 |
+| ----------------------------- | ----------------------------- |
+| *die Besichtigung, -en*       | *prehliadka*                  |
+| *besichtigen*                 | *prezerať si, navštíviť*      |
+| der Reiseführer               | turistický sprievodca (osoba) |
+| der Stadtplan, ⸚e             | plán mesta, mapa              |
+| *die Rundfahrt, -en*          | *okružná jazda*               |
+| *die Sehenswürdigkeit, -en*   | *pamiatka*                    |
+| *die Aussicht, -en*           | *výhľad*                      |
+| der Startpunkt                | východiskový bod              |
+| die City, -s                  | centrum mesta                 |
+| die Straße, -n                | ulica                         |
+| der Hafen, ⸚                  | prístav                       |
+| *die Kreuzung, -en*           | *križovatka*                  |
+| der Marktplatz, ⸚e            | tržné námestie                |
+| die Kirche, -n                | kostol                        |
+| der Kirchturm, ⸚e             | kostolná veža                 |
+| das Museum, Museen            | múzeum                        |
+| der Speicher, -               | sklad, sýpka                  |
+| der Stadtteil, -e             | mestská časť                  |
+| *der Bericht, -e*             | *správa*                      |
+| *die Innenstadt*              | *vnútorné mesto, centrum*     |
+| *das Einkaufszentrum, -zentren* | *nákupné centrum*               |
+| *der Souvenirladen, ⸚*          | *obchod so suvenírmi*           |
+| zu Fuß gehen                  | ísť pešo                      |
 
 # Nomen – Podstatné mená
 
-| **Nemecky**                                 | **Slovensky**         |
-| --------------------------------------- | ----------------- |
-| der Abfluss, ⸚e                         | odtok             |
-| der Backstein, -e                       | tehla             |
-| der Blog, -s                            | blog              |
-| der Erwachsene, -n / die Erwachsene, -n | dospelý / dospelá |
-| das Fazit, -e/s                         | záver             |
-| der Friseursalon, -s                    | kadernícky salón  |
-| die Gebühr, -en                         | poplatok          |
-| das Gewürz, -e                          | korenie           |
-| das Jahrhundert, -e                     | storočie          |
-| das Kerngericht                         | hlavné jedlo      |
-| das Rezept, -e                          | recept            |
-| der Schirm, -e                          | dáždnik           |
-| der Regenschirm, -e                     | dáždnik           |
-| die Schokolade                          | čokoláda          |
-| die Welt                                | svet              |
-| die Zeitschrift, -en                    | časopis           |
+| **Nemecky**                             | **Slovensky**      |
+| --------------------------------------- | ------------------ |
+| der Abfluss, ⸚e                         | odtok              |
+| *der Backstein, -e*                     | *tehla*            |
+| der Blog, -s                            | blog               |
+| der Erwachsene, -n / die Erwachsene, -n | dospelý / dospelá  |
+| *das Fazit, -e/s*                       | *záver*            |
+| *der Friseursalon, -s*                  | *kadernícky salón* |
+| ==*die Gebühr, -en*==                   | ==*poplatok*==     |
+| ==*das Gewürz, -e*==                    | ==*korenie*==      |
+| das Jahrhundert, -e                     | storočie           |
+| *das Kerngericht*                       | *hlavné jedlo*     |
+| das Rezept, -e                          | recept             |
+| der Schirm, -e                          | dáždnik            |
+| der Regenschirm, -e                     | dáždnik            |
+| die Schokolade                          | čokoláda           |
+| die Welt                                | svet               |
+| die Zeitschrift, -en                    | časopis            |
 
 # Verben – Slovesá
 
-|**Nemecky**|**Slovensky**|
-|---|---|
-|anbauen|pestovať|
-|ändern|zmeniť|
-|anfassen|dotknúť sa|
-|ansehen|pozrieť sa|
-|(bei / in / über …) berichten|informovať (o)|
-|beträgt …|činí … / predstavuje …|
-|frei haben|mať voľno|
-|Glück haben|mať šťastie|
-|genießen|užívať si|
-|melden (sich) bei + D|prihlásiť sa u|
-|nachsehen|pozrieť, skontrolovať|
-|reichen|stačiť / podať|
-|schließen|zatvoriť|
-|sich umdrehen|otočiť sa|
-|verarbeiten|spracovať|
-|wert sein|mať hodnotu|
-|willkommen heißen|privítať|
+| **Nemecky**                     | **Slovensky**           |
+| ------------------------------- | ----------------------- |
+| *anbauen*                       | *pestovať*              |
+| *ändern*                        | *zmeniť*                |
+| *anfassen*                      | *dotknúť sa*            |
+| ansehen                         | pozrieť sa              |
+| *(bei / in / über …) berichten* | *informovať (o)*        |
+| beträgt …                       | činí … / predstavuje …  |
+| frei haben                      | mať voľno               |
+| Glück haben                     | mať šťastie             |
+| *genießen*                      | *užívať si*             |
+| *melden (sich) bei + D*         | *prihlásiť sa u*        |
+| *nachsehen*                     | *pozrieť, skontrolovať* |
+| *reichen*                       | *stačiť / podať*        |
+| schließen                       | zatvoriť                |
+| *sich umdrehen*                 | *otočiť sa*             |
+| *verarbeiten*                   | *spracovať*             |
+| *wert sein*                     | *mať hodnotu*           |
+| *willkommen heißen*             | *privítať*              |
 
 # Adjektive – Prídavné mená
 
-|**Nemecky**|**Slovensky**|
-|---|---|
-|angenehm|príjemný|
-|anschaulich|názorný|
-|hervorragend|vynikajúci|
-|klar|jasný|
-|leise|tichý|
-|höflich / unhöflich|slušný / neslušný|
-|kurzfristig|krátkodobý|
-|lecker|chutný|
-|nass / trocken|mokrý / suchý|
-|pünktlich / unpünktlich|dochvíľny / nedochvíľny|
-|geregelt|usporiadaný|
-|riesig|obrovský|
-|sauber / schmutzig|čistý / špinavý|
-|zuverlässig|spoľahlivý|
+| **Nemecky**             | **Slovensky**           |
+| ----------------------- | ----------------------- |
+| *angenehm*              | *príjemný*              |
+| *anschaulich*           | *názorný*               |
+| *hervorragend*          | *vynikajúci*            |
+| klar                    | jasný                   |
+| leise                   | tichý                   |
+| *höflich / unhöflich*   | *slušný / neslušný*     |
+| *kurzfristig*           | *krátkodobý*            |
+| *lecker*                | *chutný*                |
+| nass / trocken          | mokrý / suchý           |
+| pünktlich / unpünktlich | dochvíľny / nedochvíľny |
+| geregelt                | usporiadaný             |
+| *riesig*                | *obrovský*              |
+| sauber / schmutzig      | čistý / špinavý         |
+| *zuverlässig*             | *spoľahlivý*              |
 
 # Adverbien – Príslovky
 

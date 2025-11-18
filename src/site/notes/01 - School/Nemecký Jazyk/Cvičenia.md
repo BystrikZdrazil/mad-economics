@@ -765,3 +765,33 @@ Meine Heimatstadt ist Skalica. Ich lebe nicht in diese Stadt, aber ich mag es se
 5. B
 
 # Opis predmetu na úlohu, tak ako je to na strane 73 dole, kde sa opisuje nejaký reklamny predmet. + cela 163 a + 75/d,4
+
+## Die Smartphonehülle
+Ich mochte diese smartphonehulle präsentieren. Sehen sie hier, Das Produkt hat eines schönes Design, hochwertige materialen und unsere Logo. Das Produkt ist sehr praktisch, weil sie Ihr Handy schützen kann. Man braucht es oft im Alltag, weil wir unseren Handys jeden Tag verwenden. Es kostet circa 15€ pro Stück.
+
+## 163
+1. Wie alt sind die Firmen?
+    Die Firma Adler ist nicht so alt wie die Firma Bauer.
+2. Wie viele Mitarbeiter?
+    Die Firma Bauer hat genauso viele Mitarbeiter wie die Firma Adler.
+3. Wie alt sind die Mitarbexiter?
+    Die Mitarbeiter von Adler sind nicht so alt wie die Mitarbeiter von Bauer.
+4. Wie hoch ist der Umsatz?
+    Der Umsatz von Adler ist nicht so hoch wie der Umsatz von Bauer.
+5. Wie groß ist sie
+    Die Firma Bauer ist genauso groß wie die Firma Adler.
+6. Wie bekannt ist sie?
+    Die Firma Adler ist nicht so bekannt wie die Firma Bauer.
+
+## 77/b
+- Ich hätte gern etwas - rád by som nieco mal
+
+## 165/1a
+- Anlage
+- Preisangabe
+- Angebot
+- Anfrage
+- Anschluss
+- Ansprechpartnerin
+
+DU 166/3, 167/3a + prelozit, 168/1
