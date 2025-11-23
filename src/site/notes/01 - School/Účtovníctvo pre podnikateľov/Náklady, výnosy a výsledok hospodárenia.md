@@ -86,7 +86,7 @@ Náklady sú zatriedené do skupín podľa ich ekonomického obsahu.
 
 ### Osobné náklady
 - Mzdové náklady
-- Príjmy spoločníkov obchodne spoločnosti a členov družstva zo závislej činnosti
+- Príjmy spoločníkov obchodnej spoločnosti a členov družstva zo závislej činnosti
 - Odmeny členom orgánov spoločnosti a družstva
 - Náklady na zdravotné a sociálne poistenie zamestnancov hradené zamestnávateľom
 - Sociálne náklady
@@ -108,7 +108,7 @@ Náklady sú zatriedené do skupín podľa ich ekonomického obsahu.
 - Ostatné náklady na hospodársku činnosť
 
 ### Odpisy a opravné položky k dlhodobému majetku
-- Odpisy dlhodobého nehmotného majetku a dlhodobého hmotného majetku
+- Odpisy [[01 - School/Účtovníctvo pre podnikateľov/Dlhodobý nehmotný majetok\|dlhodobého nehmotného majetku]] a [[01 - School/Účtovníctvo pre podnikateľov/Dlhodobý hmotný majetok\|dlhodobého hmotného majetku]]
 - Tvorba a zúčtovanie opravných položiek k dlhodobému majetku
 - Zúčtovanie komplexných nákladov budúcich období
 
@@ -177,7 +177,7 @@ Výnosy sú zatriedené **do skupín podľa ich ekonomického obsahu**.
 	- Tržby z predaja dlhodobého hmotného a nehmotného majetku
 	- Tržby z predaja materiálu
 	- Výnosy z pokút
-	- Penále a úrokov z omeškania
+	- Penále a úroky z omeškania
 	- Výnosy z odpísaných pohľadávok
 	- Ostatné výnosy z hospodárskej činnosti
 - **Zúčtovanie niektorých položiek** z **hospodárskej** činnosti
@@ -189,8 +189,7 @@ Výnosy sú zatriedené **do skupín podľa ich ekonomického obsahu**.
 - Kurzové zisky
 - Výnosy z precenenia cenných papierov
 - Výnosy z dlhodobého a krátkodobého finančného majetku
-- Výnosy z
-- Derivátových operácií
+- Výnosy z derivátových operácií
 - Ostatné finančné výnosy
 
 # Základné zásady uplatňované pri účtovaní nákladov a výnosov
@@ -203,8 +202,8 @@ Výnosy sú zatriedené **do skupín podľa ich ekonomického obsahu**.
 Uplatnenia **[[01 - School/Účtovníctvo pre podnikateľov/Akruálne účtovníctvo\|akruálneho]] princípu** v účtovníctve znamená, že **náklady a výnosy** sa účtujú do toho účtovného obdobia, s ktorým **časovo a vecne súvisia**.
 
 Podstatou je, že účtovná jednotka je povinná zaúčtovať a vykázať:
-- **Náklad** v tom účtovnom období, s ktorým časovo a vecne súvisí, bez ohľadu na to, kedy vznikne **výdavok** (pohyb peňažných prostriedkov), ktorý sa vzťahuje na tento náklad;
-- **Výnos** v tom účtovnom období, s ktorým časovo a vecne súvisí, bez ohľadu na to, kedy vznikne **príjem** (pohyb peňažných prostriedkov), ktorý sa vzťahuje na tento výnos.
+- **Náklad** v tom účtovnom období, s ktorým časovo a vecne súvisí, bez ohľadu na to, kedy vznikne **výdavok** (pohyb peňažných prostriedkov), ktorý sa vzťahuje na tento náklad
+- **Výnos** v tom účtovnom období, s ktorým časovo a vecne súvisí, bez ohľadu na to, kedy vznikne **príjem** (pohyb peňažných prostriedkov), ktorý sa vzťahuje na tento výnos
 
 Výdavky a príjmy účtuje účtovná jednotka vždy v tom účtovnom období, v ktorom dôjde k ich úhrade alebo inkasu.
 
@@ -250,7 +249,7 @@ Z podstaty uvedenej základnej zásady vyplýva, že pre účtovanie vzniku nák
 
 Výsledok hospodárenia za účtovné obdobie sa v účtovníctve založenom na akruálnom princípe (čiže *v sústave podvojného účtovníctva*) **zisťuje** *porovnaním výnosov a nákladov*, ktoré s daným účtovným obdobím časovo a vecne súvisia.
 
-**Náklady**, **výnosy** a **výsledok** hospodárenia sa vykazujú v požadovanom členení vo **výkaze ziskov a strát**.
+**Náklady**, **výnosy** a **výsledok hospodárenia** sa vykazujú v požadovanom členení vo **výkaze ziskov a strát**.
 
 ## Výkaz ziskov a strát
 **Výkaz ziskov a strát** je výkaz účtovnej závierky, ktorý podrobne špecifikuje súvahovú položku – výsledok hospodárenia za účtovné obdobie po zdanení
@@ -264,7 +263,7 @@ Výnosy sú nižšie ako náklady, výsledok hospodárenia je **účtovná strat
 ![Uctovna strata.png](/img/user/06%20-%20Images/School/Uctovna%20strata.png)
 
 ### Výkaz ziskov a strát v podmienkach SR
-Pri prezentovaní výnosov a nákladov vo výkaze ziskov a strát sa aplikuje **horizontálna forma prezentácie** s tým, že výkaz ziskov strát **neobsahuje celkovú sumu nákladov a celkovú sumu výnosov**.
+Pri prezentovaní výnosov a nákladov vo výkaze ziskov a strát sa aplikuje **horizontálna forma prezentácie** s tým, že výkaz ziskov a strát **neobsahuje celkovú sumu nákladov a celkovú sumu výnosov**.
 
 Zároveň sa rešpektuje členenie výsledku hospodárenia na VH z hospodárskej činnosti a VH z finančnej činnosti.
 
