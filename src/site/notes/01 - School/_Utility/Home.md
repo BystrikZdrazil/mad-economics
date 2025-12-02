@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-school/utility/home/","tags":["gardenEntry"]}
 ---
 
-![MadEconoimicsWidePNG.png](/img/user/06%20-%20Images/Personal/MadEconoimicsWidePNG.png)
+![Mad-Economics-Round.png](/img/user/Mad-Economics-Round.png)
 # Vitaj!
 Na tejto stránke nájdeš kompletne všetko, čo potrebuješ k štúdiu! Sú tu všetky moje **poznámky z prednášok**, ako aj **spracovanie materiálov** z univerzity a **cvičenia** z hodín.
 
