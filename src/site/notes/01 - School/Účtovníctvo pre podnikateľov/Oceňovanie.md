@@ -46,11 +46,11 @@ Výber oceňovacej veličiny ovplyvňuje:
 2. Ceny prítomnosti (bežné, aktuálne ceny)
 3. Ceny budúcnosti
 
-![Ocenovacie - historicke ceny.png](/img/user/06%20-%20Images/Ocenovacie%20-%20historicke%20ceny.png)
+![Ocenovacie - historicke ceny.png](/img/user/06%20-%20Images/School/Ocenovacie%20-%20historicke%20ceny.png)
 
-![Ocenovanie - ceny pritomnosti.png](/img/user/06%20-%20Images/Ocenovanie%20-%20ceny%20pritomnosti.png)
+![Ocenovanie - ceny pritomnosti.png](/img/user/06%20-%20Images/School/Ocenovanie%20-%20ceny%20pritomnosti.png)
 
-![Ocenovanie - ceny buducnosti.png](/img/user/06%20-%20Images/Ocenovanie%20-%20ceny%20buducnosti.png)
+![Ocenovanie - ceny buducnosti.png](/img/user/06%20-%20Images/School/Ocenovanie%20-%20ceny%20buducnosti.png)
 
 Deň ocenenia = deň, v ktorom musí [[01 - School/Účtovníctvo pre podnikateľov/Úvod do účtovníctva#Účtovná jednotka\|účtovná jednotka]] určiť, akou oceňovacou veličinou sa má daný druh majetku a konkrétny záväzok oceniť.
 
@@ -68,11 +68,11 @@ Oceňovanie majetku a záväzkov v SR upravuje:
 - **Zákon o účtovníctve** (5. časť: Spôsoby oceňovania)
 - **Postupy účtovania** pre podnikateľov
 
-![Zakon o uctovnictve - ocenovacie veliciny 1.png](/img/user/06%20-%20Images/Zakon%20o%20uctovnictve%20-%20ocenovacie%20veliciny%201.png)
+![Zakon o uctovnictve - ocenovacie veliciny 1.png](/img/user/06%20-%20Images/School/Zakon%20o%20uctovnictve%20-%20ocenovacie%20veliciny%201.png)
 
-![Zakon o uctovnictve - ocenovacie veliciny 2.png](/img/user/06%20-%20Images/Zakon%20o%20uctovnictve%20-%20ocenovacie%20veliciny%202.png)
+![Zakon o uctovnictve - ocenovacie veliciny 2.png](/img/user/06%20-%20Images/School/Zakon%20o%20uctovnictve%20-%20ocenovacie%20veliciny%202.png)
 
-![Zakon o uctovnictve - ocenovacie veliciny 3.png](/img/user/06%20-%20Images/Zakon%20o%20uctovnictve%20-%20ocenovacie%20veliciny%203.png)
+![Zakon o uctovnictve - ocenovacie veliciny 3.png](/img/user/06%20-%20Images/School/Zakon%20o%20uctovnictve%20-%20ocenovacie%20veliciny%203.png)
 
 # Oceňovanie ku dnu uskutočnenia účtovného prípadu
 1. Pri **nadobudnutí majetku** alebo **vzniku záväzku** (prvotné ocenenie)

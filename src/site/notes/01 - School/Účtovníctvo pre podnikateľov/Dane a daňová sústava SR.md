@@ -74,33 +74,33 @@ Osoba sa stáva platiteľom DPH v momente, ked dosiahne obrat 62 500 eur. Táto 
 Daň sa vyčísluje mimo účtovníctva - výsledok hospodárenia sa upravuje na základ dane
 - Základná sadzba predstavuje **19 %**
 
-![dane_a_danova_sustava_1.png](/img/user/06%20-%20Images/dane_a_danova_sustava_1.png)
+![dane_a_danova_sustava_1.png](/img/user/06%20-%20Images/School/dane_a_danova_sustava_1.png)
 
 ## Účtovanie nepriamej dane
 **Daň na vstupe** - prijaté tovary a služby v ÚJ, ktorá dodávku prijme, vzniká **pohľadávka** voči správcovi dane - účtuje sa na strane **MD** účtu **343 - Daň z pridanej hodnoty**
 
 **Daň na výstupe** - poskytnutý tovar alebo služba v ÚJ, ktorá dodá tovar alebo službu, vzniká **záväzok** voči správcovi dane - účtuje sa na strane **Dal** účtu **343 - Daň z pridanej hodnoty**
 
-![dane_a_danova_sustava_2.png](/img/user/06%20-%20Images/dane_a_danova_sustava_2.png)
+![dane_a_danova_sustava_2.png](/img/user/06%20-%20Images/School/dane_a_danova_sustava_2.png)
 
 >[!example]+
 >1. Spoločnosť A (neplatiteľ DPH) nakupuje tovar od spoločnosti B (neplatiteľ DPH):
 >- Cena za tovar 100 €
 >- Spolu 100 €
->- ![dane_a_danova_sustava_3.png](/img/user/06%20-%20Images/dane_a_danova_sustava_3.png)
+>- ![dane_a_danova_sustava_3.png](/img/user/06%20-%20Images/School/dane_a_danova_sustava_3.png)
 
 >[!example]+
 >2. Spoločnosť A (platiteľ DPH) nakupuje tovar od spoločnosti B (neplatiteľ DPH):
 >-Cena za tovar 100 €
 >-Spolu 100 €
->![dane_a_danova_sustava_4.png](/img/user/06%20-%20Images/dane_a_danova_sustava_4.png)
+>![dane_a_danova_sustava_4.png](/img/user/06%20-%20Images/School/dane_a_danova_sustava_4.png)
 
 >[!example]+
 >3. Spoločnosť A (neplatiteľ DPH) nakupuje tovar od spoločnosti B (platiteľ DPH):
 >-Cena za tovar 100 €
 >-20 % DPH 20 €
 >-Spolu 120 €
->![dane_a_danova_sustava_5.png](/img/user/06%20-%20Images/dane_a_danova_sustava_5.png)
+>![dane_a_danova_sustava_5.png](/img/user/06%20-%20Images/School/dane_a_danova_sustava_5.png)
 >- záväzok voči štátu
 
 >[!example]+
@@ -108,13 +108,13 @@ Daň sa vyčísluje mimo účtovníctva - výsledok hospodárenia sa upravuje na
 >-Cena za tovar 100 €
 >-20 % DPH 20 €
 >-Spolu 120 €
->![dane_a_danova_sustava_6.png](/img/user/06%20-%20Images/dane_a_danova_sustava_6.png)
+>![dane_a_danova_sustava_6.png](/img/user/06%20-%20Images/School/dane_a_danova_sustava_6.png)
 >- A pohľadávka od štátu/ B záväzok voči štátu
 >- Spoločnosť A nakupuje/ Spoločnosť B predáva
 
 ## Účtovanie nepriamych daní
 
-![dane_a_danova_sustava_7.png](/img/user/06%20-%20Images/dane_a_danova_sustava_7.png)
+![dane_a_danova_sustava_7.png](/img/user/06%20-%20Images/School/dane_a_danova_sustava_7.png)
 
 Platiteľ DPH je povinný po skončení zdaňovacieho obdobia (mesačné, štvrťročné) podať **daňové priznanie k DPH,** pričom mu môže vzniknúť:
 1. **vlastná daňová povinnosť** - ak DPH na výstupe je vyššia ako DPH na vstupe
@@ -126,7 +126,7 @@ Platiteľ DPH je povinný po skončení zdaňovacieho obdobia (mesačné, štvr�
 >
 >Spoločnosť A (platiteľ DPH) predáva tovar ďalej spoločnosti C (platiteľ DPH)
 >Cena za tovar 120 €; 20 % DPH 24 €; Spolu 144 €.
->![dane_a_danova_sustava_8.png](/img/user/06%20-%20Images/dane_a_danova_sustava_8.png)
+>![dane_a_danova_sustava_8.png](/img/user/06%20-%20Images/School/dane_a_danova_sustava_8.png)
 
 # Podvody a možnosti vzniku
 - Ak niečo podnikateľ predá, ale nevystaví za to doklad z e-Kasy,
