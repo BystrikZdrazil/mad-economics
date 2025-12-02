@@ -6,16 +6,16 @@
 
 | **Nemecky**                    | **Slovensky**                   |
 | ------------------------------ | ------------------------------- |
-| *die Anfrage, -n*              | *dopyt*                         |
-| *das Angebot, -e*              | *ponuka*                        |
+| ==*die Anfrage, -n*==          | ==*dopyt*==                     |
+| ==*das Angebot, -e*==          | ==*ponuka*==                    |
 | *ein Angebot erbitten*         | *vyžiadať si ponuku*            |
 | *der Auftrag, ¨e*              | *objednávka*                    |
-| *in Auftrag geben*             | *zadať objednávku*              |
-| *die Bestätigung, -en*         | *potvrdenie*                    |
-| *Auftragsbestätigung*          | *potvrdenie objednávky*         |
-| *bestätigen*                   | *potvrdiť*                      |
-| *die Bestellung, -en*          | *objednávka*                    |
-| *bestellen*                    | *objednať*                      |
+| ==*in Auftrag geben*==         | ==*zadať objednávku*==          |
+| ==*die Bestätigung, -en*==     | ==*potvrdenie*==                |
+| ==*Auftragsbestätigung*==      | ==*potvrdenie objednávky*==     |
+| ==*bestätigen*==               | ==*potvrdiť*==                  |
+| ==*die Bestellung, -en*==      | ==*objednávka*==                |
+| ==*bestellen*==                | ==*objednať*==                  |
 | *die Rechnung, -en*            | *faktúra*                       |
 | *der Bedarf (nur Sg.)*         | *potreba*                       |
 | die Form, -en                  | forma                           |
@@ -31,7 +31,7 @@
 | herstellen = produzieren       | vyrábať                         |
 | die Konditionen (nur Pl.)      | podmienky                       |
 | *die Mindestbestellzahl, -en*  | *minimálne množstvo objednávky* |
-| *die Preisangabe, -n*          | *cenová informácia*             |
+| ==*die Preisangabe, -n*==      | ==*cenová informácia*==         |
 | der Rabatt, -e                 | zľava                           |
 | der Mengenrabatt               | množstevná zľava                |
 | *die Steuer, -n*               | *daň*                           |
@@ -75,15 +75,15 @@
 
 # Verben – Slovesá
 
-| **Nemecky**                 | **Slovensky**               |
-| --------------------------- | --------------------------- |
-| *entscheiden*               | *rozhodnúť*                 |
-| *eine Entscheidung treffen* | *prijať rozhodnutie*        |
-| *erbitten*                  | *vyžiadať si*               |
-| *Bescheid geben*            | *dať vedieť*                |
-| jmdm. passen (gut/schlecht) | niekomu pasovať (dobre/zle) |
-| passieren                   | stať sa                     |
-| *vorschlagen*               | *navrhnúť*                  |
+| **Nemecky**                     | **Slovensky**               |
+| ------------------------------- | --------------------------- |
+| ==*entscheiden*==               | ==*rozhodnúť*==             |
+| ==*eine Entscheidung treffen*== | ==*prijať rozhodnutie*==    |
+| *erbitten*                      | *vyžiadať si*               |
+| *Bescheid geben*                | *dať vedieť*                |
+| jmdm. passen (gut/schlecht)     | niekomu pasovať (dobre/zle) |
+| passieren                       | stať sa                     |
+| ==*vorschlagen*==                   | ==*navrhnúť*==                  |
 
 ---
 
@@ -97,7 +97,7 @@
 | *die Besprechung, -en*     | *porada*              |
 | die Bluetooth-Technik, -en | bluetooth technológia |
 | die Box, -en               | box / zariadenie      |
-| *die Gelegenheit, -en*     | *príležitosť*         |
+| ==*die Gelegenheit, -en*== | ==*príležitosť*==     |
 | der Laserpointer, -        | laserové ukazovadlo   |
 | die Hochschule, -n         | vysoká škola          |
 | *die Messe, -n*            | *veľtrh*              |

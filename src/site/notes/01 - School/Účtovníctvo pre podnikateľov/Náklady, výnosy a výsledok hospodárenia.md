@@ -15,7 +15,7 @@ V transformačnom procese predstavujú **výstupy** z činnosti podniku v peňa�
 
 Charakter výnosov záleží od druhu činnosti účtovnej jednotky.
 
-![Kruh nakladov a vynosov.png](/img/user/06%20-%20Images/School/Kruh%20nakladov%20a%20vynosov.png)
+![Kruh nakladov a vynosov.png](/img/user/06%20-%20Images/Kruh%20nakladov%20a%20vynosov.png)
 
 # Členenie nákladov – základné hľadiská
 - Druhové členenie nákladov (členenie nákladov podľa druhov)
@@ -35,13 +35,13 @@ Náklady a výnosy sa vykazujú v sústave podvojného účtovníctva **vo výka
 
 ## Priamy alebo nepriamy vplyv vzniku nákladu na tok peňažných prostriedkov
 
-![Vznik nakladu.png](/img/user/06%20-%20Images/School/Vznik%20nakladu.png)
+![Vznik nakladu.png](/img/user/06%20-%20Images/Vznik%20nakladu.png)
 
 **Náklady** predstavujú zníženie ekonomických úžitkov účtovnej jednotky v účtovnom období, ktoré má za **následok**:
 - **Zníženie majetku** peňažnej aj nepeňažnej povahy
 - **Zvýšenie záväzkov**
 
-![Vznik nakladu 2.png](/img/user/06%20-%20Images/School/Vznik%20nakladu%202.png)
+![Vznik nakladu 2.png](/img/user/06%20-%20Images/Vznik%20nakladu%202.png)
 
 # Základné členenie nákladov v účtovníctve
 Náklady sa **vykazujú vo výkaze ziskov a strát**.
@@ -136,13 +136,13 @@ K zvýšeniu ekonomických úžitkov účtovnej jednotky v účtovnom období m�
 
 ## Priamy alebo nepriamy vplyv vzniku výnosu
 
-![Vznik vyonosu.png](/img/user/06%20-%20Images/School/Vznik%20vyonosu.png)
+![Vznik vyonosu.png](/img/user/06%20-%20Images/Vznik%20vyonosu.png)
 
 **Výnosy** predstavujú zvýšenie ekonomických úžitkov účtovnej jednotky v účtovnom období, ktoré má za **následok**:
 - **Zvýšenie majetku** či už **priamo** peňažných prostriedkov alebo nepriamo iného majetku ako sú peňažné prostriedky
 - **Zníženie záväzkov**
 
-![Vznik výnosu.png](/img/user/06%20-%20Images/School/Vznik%20v%C3%BDnosu.png)
+![Vznik výnosu.png](/img/user/06%20-%20Images/Vznik%20v%C3%BDnosu.png)
 
 ## Základné členenie výnosov v účtovníctve
 Výnosy sa vykazujú vo výkaze ziskov a strát:
@@ -152,7 +152,7 @@ Výnosy sa vykazujú vo výkaze ziskov a strát:
 - S ďalším rozdelením na skupiny výnosov
 - Na konkrétne položky výnosov.
 
-![Druhy výnosov.png](/img/user/06%20-%20Images/School/Druhy%20v%C3%BDnosov.png)
+![Druhy výnosov.png](/img/user/06%20-%20Images/Druhy%20v%C3%BDnosov.png)
 
 Výnosy sú zatriedené **do skupín podľa ich ekonomického obsahu**.
 
@@ -215,32 +215,32 @@ Z podstaty uvedenej základnej zásady vyplýva, že pre účtovanie vzniku nák
 ## Náklad vzniká súčasne s výdavkom
 - Vzniká teda v tom istom účtovnom období - **náklady zaplatené**
 
-![Naklady zaplatene.png](/img/user/06%20-%20Images/School/Naklady%20zaplatene.png)
+![Naklady zaplatene.png](/img/user/06%20-%20Images/Naklady%20zaplatene.png)
 
 ## Náklad vzniká pred výdavkom
 - Výdavok môže nastať alebo nastáva až v nasledujúcom účtovnom období - **náklady nedoplatené**
 
-![Naklady nedoplatene.png](/img/user/06%20-%20Images/School/Naklady%20nedoplatene.png)
+![Naklady nedoplatene.png](/img/user/06%20-%20Images/Naklady%20nedoplatene.png)
 
 ## Náklad vzniká po výdavku
 - Môže nastať alebo nastáva až v nasledujúcom účtovnom období - **náklady predplatené**
 
-![Naklady predplatene.png](/img/user/06%20-%20Images/School/Naklady%20predplatene.png)
+![Naklady predplatene.png](/img/user/06%20-%20Images/Naklady%20predplatene.png)
 
 ## Výnos vzniká súčasne s príjmom
 - V tom istom účtovnom období - **výnosy vyinkasované**
 
-![Vynosy vyinkasovane.png](/img/user/06%20-%20Images/School/Vynosy%20vyinkasovane.png)
+![Vynosy vyinkasovane.png](/img/user/06%20-%20Images/Vynosy%20vyinkasovane.png)
 
 ## Výnos vzniká pred príjmom
 - Príjem môže nastať alebo nastáva až v nasledujúcom účtovnom období - **nevyinkasované výnosy**
 
-![Vynosy nevyinkasovane.png](/img/user/06%20-%20Images/School/Vynosy%20nevyinkasovane.png)
+![Vynosy nevyinkasovane.png](/img/user/06%20-%20Images/Vynosy%20nevyinkasovane.png)
 
 ## Vznik výnosu po príjme
 - Výnos môže nastať alebo nastáva až v nasledujúcom účtovnom období - **výnosy vopred prijaté**
 
-![Vynosy vopred prijate.png](/img/user/06%20-%20Images/School/Vynosy%20vopred%20prijate.png)
+![Vynosy vopred prijate.png](/img/user/06%20-%20Images/Vynosy%20vopred%20prijate.png)
 
 # Výsledok hospodárenia
 - Výsledkom hospodárenia sa rozumie
@@ -256,11 +256,11 @@ Výsledok hospodárenia za účtovné obdobie sa v účtovníctve založenom na 
 
 Výnosy sú vyššie ako náklady, výsledok hospodárenia je **účtovný zisk**
 
-![Uctovny zisk.png](/img/user/06%20-%20Images/School/Uctovny%20zisk.png)
+![Uctovny zisk.png](/img/user/06%20-%20Images/Uctovny%20zisk.png)
 
 Výnosy sú nižšie ako náklady, výsledok hospodárenia je **účtovná strata**
 
-![Uctovna strata.png](/img/user/06%20-%20Images/School/Uctovna%20strata.png)
+![Uctovna strata.png](/img/user/06%20-%20Images/Uctovna%20strata.png)
 
 ### Výkaz ziskov a strát v podmienkach SR
 Pri prezentovaní výnosov a nákladov vo výkaze ziskov a strát sa aplikuje **horizontálna forma prezentácie** s tým, že výkaz ziskov a strát **neobsahuje celkovú sumu nákladov a celkovú sumu výnosov**.
@@ -274,4 +274,4 @@ Zostavuje sa v stanovených peňažných jednotkách, od roku 2009 u podnikateľ
 ## Základná štruktúra výkazu ziskov a strát
 - Vzor pre podnikateľov výkaz ziskov a strát pre malé a veľké účtovné jednotky
 
-![Zakladna struktura vykazu ziskov a strat.png](/img/user/06%20-%20Images/School/Zakladna%20struktura%20vykazu%20ziskov%20a%20strat.png)
+![Zakladna struktura vykazu ziskov a strat.png](/img/user/06%20-%20Images/Zakladna%20struktura%20vykazu%20ziskov%20a%20strat.png)

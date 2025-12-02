@@ -40,7 +40,7 @@ Po dvoch rokoch podnikania sa stav ich majetku, záväzkov a vlastného imania z
 | Záväzky 5 000€         | Záväzky 50 000€        |
 | Vlastné imanie 25 000€ | Vlastné imanie 10 000€ |
 
-![pasiva-rozdiel-majetku-a-zavazkov.png](/img/user/06%20-%20Images/School/pasiva-rozdiel-majetku-a-zavazkov.png)
+![pasiva-rozdiel-majetku-a-zavazkov.png](/img/user/06%20-%20Images/pasiva-rozdiel-majetku-a-zavazkov.png)
 
 ### Vlastné imanie
 Vlastné imanie predstavuje nároky vlastníkov na majetok účtovnej jednotky. 
@@ -140,7 +140,7 @@ Pojem záväzky sa v [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|sú
 - Krátkodobé záväzky
 
 #### Členenie základnej skupiny záväzkov v [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|súvahe]]
-![clenenie-zakladnej-skupiny-zavazkov-v-suvahe.png](/img/user/06%20-%20Images/School/clenenie-zakladnej-skupiny-zavazkov-v-suvahe.png)
+![clenenie-zakladnej-skupiny-zavazkov-v-suvahe.png](/img/user/06%20-%20Images/clenenie-zakladnej-skupiny-zavazkov-v-suvahe.png)
 
 ##### Rezervy
 Rezervy sú záväzky s neistým časovým vymedzením alebo výškou.

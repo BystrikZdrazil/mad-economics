@@ -2,7 +2,26 @@
 {"dg-publish":true,"permalink":"/01-school/uctovnictvo-pre-podnikatelov/skratky/","tags":["year2","winterSemester","uniUpP"]}
 ---
 
-# Účtovné výkazy
-- Súvaha
-- Výkaz ziskov a strát
-- Poznámky
+- **VPD** – výdavkový pokladničný doklad
+- **PPD** – príjmový pokladničný doklad
+- **VBÚ** – výpis z bankového účtu
+- **VDÚ** (VDÚÚ) – výpis z dlhodobého úverového účtu
+- **VKÚ** (VKÚÚ) – výpis z krátkodobého úverového účtu
+- **PFA** – prijatá faktúra
+- **VFA** – vystavená faktúra
+- **PRÍ** (PRÍJ) – príjemka
+- **VÝD** – výdajka
+- **IÚD** (ID) – interný účtovný doklad
+- **IÚD**-ZVL – zúčtovacia a výplatná listina
+- **MD** – strana účtu Má dať
+- **D** – strana účtu Dal
+- **ZS** – začiatočný stav účtu
+- **OMD** – obrat strany účtu Má dať
+- **OD** – obrat strany účtu Dal
+- **KZ** – konečný zostatok súvahového účtu
+- **KS** – konečný stav výsledkového účtu
+- **AE** – analytická evidencia
+- **VH** - výsledok hospodárenia
+- **ÚZaS** – Účet ziskov a strát
+- **KÚS** – Konečný účet súvahový
+- **ZÚS** – Začiatočný účet súvahový

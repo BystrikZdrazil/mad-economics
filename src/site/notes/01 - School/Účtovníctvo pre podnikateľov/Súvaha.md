@@ -5,7 +5,7 @@
 # Účtovné informacie ktoré súvaha poskytuje
 - Dáva informácie o finančnej situácii
 
-![suvaha-tabulka.png](/img/user/06%20-%20Images/School/suvaha-tabulka.png)
+![suvaha-tabulka.png](/img/user/06%20-%20Images/suvaha-tabulka.png)
 
 **Bilančný princíp** – základ konštrukcie základného výkazu účtovnej závierky – súvahy.
 
@@ -17,7 +17,7 @@ A jej **modifikácie**
 - MAJETOK – ZÁVÄZKY = VLASTNÉ IMANIE
 
 # Zobrazenie v súvahe
-![zobrazenie-v-suvahe.png](/img/user/06%20-%20Images/School/zobrazenie-v-suvahe.png)
+![zobrazenie-v-suvahe.png](/img/user/06%20-%20Images/zobrazenie-v-suvahe.png)
 
 # Charakteristika
 Súvaha je **metodický prostriedok podvojného účtovníctva** na **vyjadrenie prehľadného usporiadania majetku** podľa formy a zdrojov majetku v peňažnom vyjadrení **k určitému dňu**.
@@ -37,4 +37,6 @@ Tradične i v súčasnosti na Slovensku súvaha:
 - Sa zostavuje v stanovených peňažných jednotkách, od roku 2009 u podnikateľov **v celých eurách**
 
 # Vzor
-![suvaha-vzor.png](/img/user/06%20-%20Images/School/suvaha-vzor.png)
+![suvaha-vzor.png](/img/user/06%20-%20Images/suvaha-vzor.png)
+
+![[Súvaha_základná_štruktúra_s_členením.pdf]]
