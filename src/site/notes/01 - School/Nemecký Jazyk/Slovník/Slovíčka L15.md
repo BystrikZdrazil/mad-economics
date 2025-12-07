@@ -121,80 +121,80 @@
 | Entscheidung treffen     | Rozhodnúť sa (fráza)                  |
 
 # Gebäude und Haustechnik / Budovy a domová technika
-| **Nemecky**             | **Slovensky**                 |
-| ----------------------- | ----------------------------- |
-| der Eingang, ¨e         | vchod                         |
-| *der Empfang (nur Sg.)* | *recepcia*                    |
-| der Aufzug, ¨e          | výťah                         |
-| der Lift, -e            | výťah                         |
-| das Treppenhaus, ¨er    | schodisko                     |
-| *die Etage, -n*         | *poschodie*                   |
-| *der Abstellraum, ¨e*   | *sklad, odkladacia miestnosť* |
-| *die Anlage, -n*        | *zariadenie*                  |
-| die Automatik (nur Sg.) | automatika                    |
-| *die Klingel, -n*       | *zvonček*                     |
-| *die Alarmanlage, -n*   | *poplašné zariadenie*         |
-| die Klimaanlage, -n     | klimatizácia                  |
-| die Heizungsanlage, -n  | vykurovacie zariadenie        |
-| *die Beleuchtung, -en*  | *osvetlenie*                  |
-| *das Leuchtmittel, -*   | *žiarovka / svetelný zdroj*   |
+| **Nemecky**                 | **Slovensky**                 |
+| --------------------------- | ----------------------------- |
+| der Eingang, ¨e             | vchod                         |
+| ==*der Empfang (nur Sg.)*== | ==*recepcia*==                |
+| der Aufzug, ¨e              | výťah                         |
+| der Lift, -e                | výťah                         |
+| das Treppenhaus, ¨er        | schodisko                     |
+| *die Etage, -n*             | *poschodie*                   |
+| *der Abstellraum, ¨e*       | *sklad, odkladacia miestnosť* |
+| ==*die Anlage, -n*==            | ==*zariadenie*==                  |
+| die Automatik (nur Sg.)     | automatika                    |
+| *die Klingel, -n*           | *zvonček*                     |
+| *die Alarmanlage, -n*       | *poplašné zariadenie*         |
+| die Klimaanlage, -n         | klimatizácia                  |
+| die Heizungsanlage, -n      | vykurovacie zariadenie        |
+| *die Beleuchtung, -en*      | *osvetlenie*                  |
+| *das Leuchtmittel, -*       | *žiarovka / svetelný zdroj*   |
 
 # Dienstleistungen / Služby
 | **Nemecky**                | **Slovensky**         |
 | -------------------------- | --------------------- |
-| *die Fachkraft, ¨e*        | *odborná sila*        |
+| ==*die Fachkraft, ¨e*==    | ==*odborná sila*==    |
 | der Hausmeister, -         | domovník              |
 | die Hausmeisterin, -nen    | domovníčka            |
 | das Management, -s         | manažment             |
 | das Facility-Management    | správa budov          |
-| *der Tagesdienst, -e*      | *denná služba*        |
+| ==*der Tagesdienst, -e*==  | ==*denná služba*==    |
 | die Zentrale, -n           | centrála              |
 | die Service-Zentrale       | servisné centrum      |
 | *die Sicherheitskraft, ¨e* | *bezpečnostná služba* |
 | die Fassade, -n            | fasáda                |
-| *die Fläche, -n*           | *plocha*              |
+| ==*die Fläche, -n*==       | ==*plocha*==          |
 | die Kamera, -s             | kamera                |
 | der Monitor, -e            | monitor               |
-| *schützen*                   | *chrániť*               |
+| *schützen*                 | *chrániť*             |
 
 # Störungen / Poruchy
-| **Nemecky**            | **Slovensky**            |
-| ---------------------- | ------------------------ |
-| *die Störung, -en*     | *porucha*                |
-| *eine Störung beheben* | *odstrániť poruchu*      |
-| *die Meldung, -en*     | *hlásenie*               |
-| *die Störungsmeldung*  | *hlásenie poruchy*       |
-| *beschädigt*           | *poškodený*              |
-| defekt                 | pokazený                 |
-| *auswechseln*          | *vymeniť*                |
-| *sich kümmern um + A*  | *starať sa o*            |
-| *ein Problem lösen*      | *vyriešiť problém*         |
-| reparieren             | opraviť                  |
-| warten                 | udržiavať / robiť údržbu |
+| **Nemecky**                | **Slovensky**            |
+| -------------------------- | ------------------------ |
+| *die Störung, -en*         | *porucha*                |
+| ==*eine Störung beheben*== | ==*odstrániť poruchu*==  |
+| ==*die Meldung, -en*==     | ==*hlásenie*==           |
+| *die Störungsmeldung*      | *hlásenie poruchy*       |
+| *beschädigt*               | *poškodený*              |
+| defekt                     | pokazený                 |
+| ==*auswechseln*==          | ==*vymeniť*==            |
+| *sich kümmern um + A*      | *starať sa o*            |
+| ==*ein Problem lösen*==        | ==*vyriešiť problém*==       |
+| reparieren                 | opraviť                  |
+| warten                     | udržiavať / robiť údržbu |
 
 # Die Gartenpflege / Starostlivosť o záhradu
 | **Nemecky**        | **Slovensky** |
 | ------------------ | ------------- |
 | der Garten, ¨      | záhrada       |
 | die Grünfläche, -n | zelená plocha |
-| *der Rasen, -*     | *trávnik*     |
-| *mähen*              | *kosiť*         |
-| *die Hecke, -n*      | *živý plot*     |
-| *schneiden*          | *strihať*       |
-| *pflanzen*           | *sadiť*         |
+| ==*der Rasen, -*== | ==*trávnik*== |
+| *mähen*            | *kosiť*       |
+| ==*die Hecke, -n*==    | ==*živý plot*==   |
+| *schneiden*        | *strihať*     |
+| *pflanzen*         | *sadiť*       |
 
 # Der Reinigungsauftrag / Upratovací príkaz
 | **Nemecky**               | **Slovensky**        |
 | ------------------------- | -------------------- |
 | *die Reinigung, -en*      | *čistenie*           |
-| *die Grundreinigung*      | *generálne čistenie* |
-| *die Reinigungskraft, ¨e* | *upratovačka*        |
+| ==*die Grundreinigung*==      | ==*generálne čistenie*== |
+| ==*die Reinigungskraft, ¨e*== | ==*upratovačka*==        |
 | *reinigen*                | *čistiť*             |
 | putzen                    | čistiť, umývať       |
 | säubern                   | vyčistiť             |
 | sauber ↔ schmutzig        | čistý ↔ špinavý      |
 | das Material, -ien        | materiál             |
-| *einmalig*                  | *jednorazový*          |
+| *einmalig*                | *jednorazový*        |
 | täglich                   | denne                |
 | wöchentlich               | týždenne             |
 | monatlich                 | mesačne              |
@@ -210,47 +210,47 @@
 | Müll (sorgfältig) trennen | triediť odpad (starostlivo) |
 | *der Container, -*        | *kontajner*                 |
 | der Glascontainer         | kontajner na sklo           |
-| *der Eimer, -*            | *vedro*                     |
+| ==*der Eimer, -*==        | ==*vedro*==                 |
 | *die Mülltonne, -n*       | *smetná nádoba*             |
-| *die Mülltonne*           | *smetiak*                   |
+| ==*die Mülltonne*==       | ==*smetiak*==               |
 | das Symbol, -e            | symbol                      |
 | der Abfall, ¨e            | odpad                       |
-| *der Wertstoff, -e*       | *druhotná surovina*         |
-| *der Kunststoff, -e*      | *plast*                     |
+| ==*der Wertstoff, -e*==   | ==*druhotná surovina*==     |
+| ==*der Kunststoff, -e*==  | ==*plast*==                 |
 | das Metall, -e            | kov                         |
 | die Verpackung, -en       | obal                        |
 | der Rest, -e              | zvyšok                      |
 | *Essensrest*              | *zvyšok jedla*              |
-| *die Schale, -n*          | *šupka, miska*              |
+| ==*die Schale, -n*==          | ==*šupka, miska*==              |
 | *stinken*                 | *zapáchať*                  |
 
 ---
 
 # Nomen / Podstatné mená
-| **Nemecky**                  | **Slovensky**        |
-| ---------------------------- | -------------------- |
-| das Angebot, -e              | ponuka               |
-| *das Arbeitsklima (nur Sg.)* | *pracovná atmosféra* |
-| das Autohaus, ¨er            | autosalón            |
-| *die Bedienung (nur Sg.)*    | *obsluha*            |
-| das Informationsblatt, ¨er   | informačný leták     |
-| *das Labor, -e*              | *laboratórium*       |
-| der Kuli, -s                 | pero                 |
-| die Kosmetik, -a             | kozmetika            |
-| *die Regelung, -en*          | *predpis, regulácia* |
-| der Schlüssel, -             | kľúč                 |
-| das Spülmittel, -            | prostriedok na riad  |
-| die Tasse, -n                | šálka                |
-| der Teller, -                | tanier               |
-| *die Zeitschrift, -en*       | *časopis*            |
-| die Zigarette, -n            | cigareta             |
-|                              |                      |
+| **Nemecky**                   | **Slovensky**        |
+| ----------------------------- | -------------------- |
+| das Angebot, -e               | ponuka               |
+| *das Arbeitsklima (nur Sg.)*  | *pracovná atmosféra* |
+| das Autohaus, ¨er             | autosalón            |
+| ==*die Bedienung (nur Sg.)*== | ==*obsluha*==        |
+| das Informationsblatt, ¨er    | informačný leták     |
+| *das Labor, -e*               | *laboratórium*       |
+| der Kuli, -s                  | pero                 |
+| die Kosmetik, -a              | kozmetika            |
+| ==*die Regelung, -en*==           | ==*predpis, regulácia*== |
+| der Schlüssel, -              | kľúč                 |
+| das Spülmittel, -             | prostriedok na riad  |
+| die Tasse, -n                 | šálka                |
+| der Teller, -                 | tanier               |
+| *die Zeitschrift, -en*        | *časopis*            |
+| die Zigarette, -n             | cigareta             |
+|                               |                      |
 
 # Verben / Slovesá
 | **Nemecky**                      | **Slovensky**                     |
 | -------------------------------- | --------------------------------- |
-| *ansprechen*                     | *osloviť*                         |
-| *aussehen*                       | *vyzerať*                         |
+| ==*ansprechen*==                 | ==*osloviť*==                     |
+| ==*aussehen*==                   | ==*vyzerať*==                     |
 | sich ärgern, sich über + A       | hnevať sa (na)                    |
 | *beauftragen, jmdn. mit + D*     | *poveriť niekoho*                 |
 | *bekannt machen*                 | *zverejniť, oznámiť*              |

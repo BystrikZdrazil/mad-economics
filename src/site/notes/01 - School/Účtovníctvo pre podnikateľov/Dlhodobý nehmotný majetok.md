@@ -45,16 +45,16 @@ Podľa postupov účtovania goodwill predstavuje kladný rozdiel medzi obstaráv
 
 # Oceňovanie obstaraného DNM
 
-|**Spôsob obstarania DNM**| |
-|---|---|
-|**Obstaraný kúpou**|**OC**|
-|**Darovaný**|**RH**|
-|**Novozistený pri inventarizácií**|**RH**|
-|**Preradený z osobného používania do podnikania**|**RH**|
-|**Vytvorený vlastnou činnosťou**|**VN**|
-|**Získaný zámenou**|**RH**|
-|**Získaný kúpou resp. vkladom podniku alebo jeho časti**|**RH**|
-|**Získaný pri zrušení bez likvidácie**|**RH**|
+| **Spôsob obstarania DNM**                            | **Skratka** |
+| ---------------------------------------------------- | ----------- |
+| *Obstaraný kúpou*                                      | OC          |
+| *Darovaný*                                             | RH          |
+| *Novozistený pri inventarizácií*                       | RH          |
+| *Preradený z osobného používania do podnikania*        | RH          |
+| *Vytvorený vlastnou činnosťou*                         | VN          |
+| *Získaný zámenou*                                      | RH          |
+| *Získaný kúpou resp. vkladom podniku alebo jeho časti* | RH          |
+| *Získaný pri zrušení bez likvidácie*                   | RH          |
 
 # Inventarizácia DNM
 Skutočný stav dlhodobého nehmotného majetku zisťuje účtovná jednotka prostredníctvom **dokladovej inventúry.**
