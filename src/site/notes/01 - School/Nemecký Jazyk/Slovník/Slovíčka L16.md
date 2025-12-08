@@ -24,81 +24,81 @@
 | am App, -s                   | aplikácia                 |
 | die Wartezeit, -en           | čakací čas                |
 | das Taxi, -s / der Taxistand | taxi / stanovište taxíkov |
-| *einsteigen*                 | *nastúpiť*                |
+| ==*einsteigen*==             | ==*nastúpiť*==            |
 | *losfahren*                  | *vyraziť, odísť*          |
 
 # Die Hotelausstattung – Hotelové vybavenie
 
-| **Nemecky**                 | **Slovensky**           |
-| --------------------------- | ----------------------- |
-| das Hotel, -s               | hotel                   |
-| *Hotel Garni*               | *hotel bez reštaurácie* |
-| *ausgestattet sein mit + D* | *byť vybavený niečím*   |
-| die Bar, -s                 | bar                     |
-| die Lobby, -s               | vstupná hala            |
-| die Minibar                 | minibar                 |
-| der Parkplatz, ⸚e           | parkovisko              |
-| *die Tiefgarage, -n*        | *podzemná garáž*        |
-| *der Wellnessbereich*       | *wellness zóna*         |
-| die Sauna, -s               | sauna                   |
-| das Schwimmbad, ⸚er         | bazén                   |
-| der (Haar-) Föhn, -e        | (vlasový) fén           |
-| *der WLAN-Empfang*          | *Wi-Fi signál*          |
-| die Atmosphäre              | atmosféra               |
-| *die Entspannung*             | *relaxácia*               |
-| gratis                      | zadarmo                 |
+| **Nemecky**                     | **Slovensky**             |
+| ------------------------------- | ------------------------- |
+| das Hotel, -s                   | hotel                     |
+| *Hotel Garni*                   | *hotel bez reštaurácie*   |
+| ==*ausgestattet sein mit + D*== | ==*byť vybavený niečím*== |
+| die Bar, -s                     | bar                       |
+| die Lobby, -s                   | vstupná hala              |
+| die Minibar                     | minibar                   |
+| der Parkplatz, ⸚e               | parkovisko                |
+| *die Tiefgarage, -n*            | *podzemná garáž*          |
+| *der Wellnessbereich*           | *wellness zóna*           |
+| die Sauna, -s                   | sauna                     |
+| das Schwimmbad, ⸚er             | bazén                     |
+| der (Haar-) Föhn, -e            | (vlasový) fén             |
+| ==*der WLAN-Empfang*==              | ==*Wi-Fi signál*==            |
+| die Atmosphäre                  | atmosféra                 |
+| *die Entspannung*               | *relaxácia*               |
+| gratis                          | zadarmo                   |
 
 # Die Zimmerreservierung – Rezervácia izby
 
-| **Nemecky**                  | **Slovensky**           |
-| ---------------------------- | ----------------------- |
-| die Onlinesuche              | online vyhľadávanie     |
-| *das Suchergebnis, -se*      | *výsledok vyhľadávania* |
-| reservieren                  | rezervovať              |
-| die Reservierung, -en        | rezervácia              |
-| *anreisen*                   | *pricestovať*           |
-| *die Anreise*                | *príchod*               |
-| *abreisen*                   | *odcestovať*            |
-| *die Abreise*                | *odchod*                |
-| das Zimmer                   | izba                    |
-| Einzelzimmer                 | jednolôžková izba       |
-| Doppelzimmer                 | dvojlôžková izba        |
-| Raucherzimmer                | fajčiarska izba         |
-| Nichtraucherzimmer           | nefajčiarska izba       |
-| *ein Zimmer buchen*          | *rezervovať izbu*       |
-| *die Buchungsbestätigung*    | *potvrdenie rezervácie* |
-| *(komplett) ausgebucht sein* | *byť (úplne) obsadený*  |
-| das Reisedatum               | dátum cesty             |
-| *übernachten*                  | *prenocovať*              |
-| exklusiv (exkl.)             | exkluzívny              |
-| inklusive (inkl.)            | vrátane                 |
+| **Nemecky**                   | **Slovensky**               |
+| ----------------------------- | --------------------------- |
+| die Onlinesuche               | online vyhľadávanie         |
+| ==*das Suchergebnis, -se*==   | ==*výsledok vyhľadávania*== |
+| reservieren                   | rezervovať                  |
+| die Reservierung, -en         | rezervácia                  |
+| *anreisen*                    | *pricestovať*               |
+| *die Anreise*                 | *príchod*                   |
+| *abreisen*                    | *odcestovať*                |
+| *die Abreise*                 | *odchod*                    |
+| das Zimmer                    | izba                        |
+| Einzelzimmer                  | jednolôžková izba           |
+| Doppelzimmer                  | dvojlôžková izba            |
+| Raucherzimmer                 | fajčiarska izba             |
+| Nichtraucherzimmer            | nefajčiarska izba           |
+| *ein Zimmer buchen*           | *rezervovať izbu*           |
+| ==*die Buchungsbestätigung*== | ==*potvrdenie rezervácie*== |
+| *(komplett) ausgebucht sein*  | *byť (úplne) obsadený*      |
+| das Reisedatum                | dátum cesty                 |
+| *übernachten*                 | *prenocovať*                |
+| exklusiv (exkl.)              | exkluzívny                  |
+| inklusive (inkl.)             | vrátane                     |
 
 # An der Hotelrezeption – Na hotelovej recepcii
 
-| **Nemecky**                | **Slovensky**             |
-| -------------------------- | ------------------------- |
-| *einchecken*               | *prihlásiť sa (check-in)* |
-| *das Einchecken*           | *registrácia (check-in)*  |
-| *auschecken*               | *odhlásiť sa*             |
-| *das Auschecken*           | *odhlásenie (check-out)*  |
-| die Schlüsselkarte, -n     | karta od izby             |
-| die Rezeption              | recepcia                  |
-| der Rezeptionist, -en      | recepčný                  |
-| die Rezeptionistin, -nen   | recepčná                  |
-| der Zimmerschlüssel        | kľúč od izby              |
-| die Hotelmanagerin, -nen   | manažérka hotela          |
-| *der Aufenthalt*           | *pobyt*                   |
-| *die Beschwerde, -n*       | *sťažnosť*                |
-| *sich beschweren über + A* | *sťažovať sa na*          |
-| *das Vorgehen*             | *postup*                  |
-| zahlen                     | platiť                    |
-| bar zahlen                 | platiť v hotovosti        |
-| mit Karte zahlen           | platiť kartou             |
-| *eine Rechnung stellen*    | *vystaviť faktúru*        |
-| *die Rechnung bezahlen*    | *zaplatiť účet*           |
-| *eine Rechnung ausstellen* | *vystaviť účet*           |
-| *empfehlen*                | *odporučiť*               |
-| *weiterempfehlen*          | *ďalej odporučiť*         |
+| **Nemecky**                    | **Slovensky**                 |
+| ------------------------------ | ----------------------------- |
+| ==*einchecken*==               | ==*prihlásiť sa (check-in)*== |
+| *das Einchecken*               | *registrácia (check-in)*      |
+| ==*auschecken*==               | ==*odhlásiť sa*==             |
+| *das Auschecken*               | *odhlásenie (check-out)*      |
+| die Schlüsselkarte, -n         | karta od izby                 |
+| die Rezeption                  | recepcia                      |
+| der Rezeptionist, -en          | recepčný                      |
+| die Rezeptionistin, -nen       | recepčná                      |
+| der Zimmerschlüssel            | kľúč od izby                  |
+| die Hotelmanagerin, -nen       | manažérka hotela              |
+| ==*der Aufenthalt*==           | ==*pobyt*==                   |
+| ==*die Beschwerde, -n*==       | ==*sťažnosť*==                |
+| *sich beschweren über + A*     | *sťažovať sa na*              |
+| *das Vorgehen*                 | *postup*                      |
+| zahlen                         | platiť                        |
+| bar zahlen                     | platiť v hotovosti            |
+| mit Karte zahlen               | platiť kartou                 |
+| ==*eine Rechnung stellen*==    | ==*vystaviť faktúru*==        |
+| ==*die Rechnung bezahlen*==    | ==*zaplatiť účet*==           |
+| ==*eine Rechnung ausstellen*== | ==*vystaviť účet*==           |
+| *empfehlen*                    | *odporučiť*                   |
+| *weiterempfehlen*              | *ďalej odporučiť*             |
 
 ---
 
@@ -164,8 +164,8 @@
 | frei haben                      | mať voľno               |
 | Glück haben                     | mať šťastie             |
 | *genießen*                      | *užívať si*             |
-| *melden (sich) bei + D*         | *prihlásiť sa u*        |
-| *nachsehen*                     | *pozrieť, skontrolovať* |
+| ==*melden (sich) bei + D*==         | ==*prihlásiť sa u*==        |
+| ==*nachsehen*==                     | ==*pozrieť, skontrolovať*== |
 | *reichen*                       | *stačiť / podať*        |
 | schließen                       | zatvoriť                |
 | *sich umdrehen*                 | *otočiť sa*             |
@@ -182,15 +182,15 @@
 | *hervorragend*          | *vynikajúci*            |
 | klar                    | jasný                   |
 | leise                   | tichý                   |
-| *höflich / unhöflich*   | *slušný / neslušný*     |
-| *kurzfristig*           | *krátkodobý*            |
-| *lecker*                | *chutný*                |
+| ==*höflich / unhöflich*==   | ==*slušný / neslušný*==     |
+| ==*kurzfristig*==           | ==*krátkodobý*==            |
+| ==*lecker*==                | ==*chutný*==                |
 | nass / trocken          | mokrý / suchý           |
 | pünktlich / unpünktlich | dochvíľny / nedochvíľny |
 | geregelt                | usporiadaný             |
 | *riesig*                | *obrovský*              |
 | sauber / schmutzig      | čistý / špinavý         |
-| *zuverlässig*             | *spoľahlivý*              |
+| *zuverlässig*           | *spoľahlivý*            |
 
 # Adverbien – Príslovky
 

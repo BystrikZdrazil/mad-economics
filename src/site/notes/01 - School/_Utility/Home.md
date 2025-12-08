@@ -21,7 +21,7 @@ To je tá vec *vpravo dole*, kde môžeš vidieť ikonku pre **GitHub**, zmenu *
 Chcel/a by si vedieť, ako toto **celé funguje**? Pozri na môj **GitHub** a môžeš sa dozvedieť viac.
 
 ### Light / dark mode
-Nepáči sa ti **light mode**? Vôbec nevadí, *v toolbare* si vieš prepnúť, či chceš používať **light mode**, **dark mode** alebo dokonca aj **automatický režim**, ktorý sa prispôsobí nastaveniu tvojho zariadenia
+Nepáči sa ti **aktuálne nastavenie**? Vôbec nevadí, *v toolbare* si vieš prepnúť, či chceš používať **light mode**, **dark mode** alebo dokonca aj **automatický režim**, ktorý sa prispôsobí nastaveniu tvojho zariadenia
 
 ### Mail
 Niečo **nefunguje** tak, ako by malo? **Chýbajú poznámky** alebo nie sú celé? Napíš mi mail a ja sa to pokúsim napraviť **čo najskôr**!
