@@ -3,7 +3,7 @@
 ---
 
 >[!warning] INCOMPLETE NOTES
->**These notes aren't complete**. This file still needs to be expanded from other materials.
+>**These notes aren't complete**. This file still needs attention regarding its *content* and/or *formatting*.
 >#incomplete
 
 # Vergleiche – Porovnávania

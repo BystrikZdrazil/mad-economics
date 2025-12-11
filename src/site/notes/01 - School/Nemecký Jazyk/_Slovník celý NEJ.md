@@ -974,7 +974,7 @@ Wissen - vedieť
 | Sich freuen über         | Tesit sa z                            |
 | Der Gebäudereinigung     | Čistenie budov                        |
 | wichtig                  | dolezite                              |
-| Ergebnis                 |                                       |
+| Ergebnis                 | Vysledok                              |
 | zufrieden                | Spokojny                              |
 | erfolg                   | uspech                                |
 | Regelmäßig               | pravidelny                            |
@@ -1045,7 +1045,7 @@ Wissen - vedieť
 | Bummel                   | prechadzka                            |
 | Landen bin               | pristáť v (lietadlom)                 |
 | bald                     | čoskoro                               |
-| Ide Messe                | vystava                               |
+| Die Messe                | vystava                               |
 | ubernachten              | prenocovať / prespať                  |
 | die nachriht             | sprava                                |
 | der bericht              | report (o niečom informovanie)        |

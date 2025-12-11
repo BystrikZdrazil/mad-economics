@@ -4,8 +4,9 @@
 
 # What are attributes in HTML
 >[!warning] INCOMPLETE NOTES
->**These notes aren't complete**. Please add everything relevant to this note from other materials.
+>**These notes aren't complete**. This file still needs attention regarding its *content* and/or *formatting*.
 >#incomplete
+
 
 - Go inside the opening tag
 - Global attributes
