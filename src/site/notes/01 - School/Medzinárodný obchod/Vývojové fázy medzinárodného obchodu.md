@@ -17,10 +17,10 @@
 - Postupný útlm využívania prekážok
 
 # 2. Fáza rastu (1913-1950)
-- Protekcionizmus (link it)
+- Protekcionizmus
 - Hospodárska kríza **1929 až 1933**
 	- **Insider trading** bol legálny, teraz je to **najzávažnejší zločin**, ktorý sa da vykonať (25 rokov väzenia)
-	- Praskla prvá ”prvá finančná bublina”
+	- Praskla prvá ”finančná bublina”
 	- Ceny stúpali rapídne
 	- Prišli obranné mechanizmy
 		- **Ochrana spotrebiteľa**
@@ -161,19 +161,10 @@
 		- Poisťuje veľké projekty
 			- Napríklad čistička vody v Sudáne
 	- ICSID
-		- Keď mame problem s ktoroukolvek z vyššie uvedených inštitúcií, obrátime sa na ICSID
-	- 
-
-# 4. Fáza rastu
-- Špecializácia a kooperácia
-- Vedecko-technický pokrok
-- Rozpad bipolárneho usporiadania
-- Teroristické útoky
-- Mechanizmus vzniku krízy
-	- Lacné úvery -> likvidita -> DHM (nehnuteľnosti) -> nárast cien nehnuteľností -> vzrast úrokovej miery -> nárast dlhovej služby pre domácnosti -> hospodárska recesia -> strata konkurenčnej výhody -> neschopnosť exportu
+		- Keď mame problem s ktoroukoľvek z vyššie uvedených inštitúcií, obrátime sa na ICSID
 
 ## Krízy
-- **Tulipanová kríza**
+- **Tulipánová kríza**
 	- Tulipánové cibuľky boli drahé ako rodinný dom
 - **Dot-com kríza**
 	- Internetové spoločnosti boli populárne pre investorov

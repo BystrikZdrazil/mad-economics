@@ -10,7 +10,7 @@
 - 19\. storočie – MO = hlavná forma MEV
 - Export = rast konkurencieschopnosti, nové zdroje pre investície, rozvoj... ⟶ viac zamestnanosti ⟶ zvýšenie celkovej prosperity krajiny
 - Po vojne – konflikty liberalizácia vs. ochranárstvo (recesia, konkurencia, nerovnováha...)
-- Uruguajské kolo GATT – koniec protekcionistického prehlbovania – vznik WTO
+- Uruguajské kolo GATT – koniec protekcionistického prehlbovania – vznik [[01 - School/Európska Integrácia v Medzinárodnom Obchode/Význam WTO v procese liberalizácie MO a jej úloha v procese MEI\|WTO]]
 - Transfery zahraničných investícií – expanzia na zahraničné trhy – vznik TNK – vysoký podiel ovplyvňovania SH
 - Vyvrcholenie zmien v MO = globalizácia
 
@@ -28,7 +28,7 @@
 - Transfer kapitálu
 - Technologický pokrok a politické rozhodnutia
 - Krytie národných mien zlatom
-- Otázka migrície obyvateľstva
+- Otázka migrácie obyvateľstva
 
 - Zvyšovanie významu svetového hospodárstva a jeho permanentné zmeny (fluktuácia recesie a konjunktúry) = výsledok nasledujúcich faktorov (pôvodných megatrendov):
 
@@ -61,13 +61,13 @@
 Iné: zmeny menových kurzov, zmeny na komoditných trhoch, politická nestabilita, politická reprezentácia...
 
 # Vývoj Medzinárodného Obchodu
-- 8. stor. p.n.l. – právnické osoby chrániace ekonomické záujmy robotníkov
-- 10. stor. – prvé partnerstvá a a. s.
-- 16. stor. – globálne obchodné impériá (Holandská Východoindická spoločnosť, Britská Východoindická spoločnosť)
-- 18. stor. – priemyselná revolúcia (štandardizácia výroby)
+- 8 stor. p.n.l. – právnické osoby chrániace ekonomické záujmy robotníkov
+- 10 stor. – prvé partnerstvá a a. s.
+- 16 stor. – globálne obchodné impériá (Holandská Východoindická spoločnosť, Britská Východoindická spoločnosť)
+- 18 stor. – priemyselná revolúcia (štandardizácia výroby)
 - Po obč. vojne – USA – monopoly vo viacerých odvetviach (ropa, oceliarstvo)
-- 20. stor. – zákaz monopolov, korporácie riadené pracovníkmi
-- 50./60. roky 20. stor. – liberalizačné tendencie, rozpad koloniálneho systému **->** nárast MO aktivít, TNK, rieši sa otázka udržateľnosti a long-term podnikanie
+- 20 stor. – zákaz monopolov, korporácie riadené pracovníkmi
+- 50/60 roky 20 stor. – liberalizačné tendencie, rozpad koloniálneho systému **->** nárast MO aktivít, TNK, rieši sa otázka udržateľnosti a long-term podnikanie
 
 # Svetové hospodárstvo (SH) a jeho transformácia
 - Adaptácia na zmeny v dôsledku globalizácie
@@ -80,6 +80,7 @@ Iné: zmeny menových kurzov, zmeny na komoditných trhoch, politická nestabili
 
 • Prejav technického a vedecko-technického napredovania SH
 
+# Vývojové fázy MO
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-school/medzinarodny-obchod/vyvojove-fazy-medzinarodneho-obchodu/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -101,10 +102,10 @@ Iné: zmeny menových kurzov, zmeny na komoditných trhoch, politická nestabili
 - Postupný útlm využívania prekážok
 
 # 2. Fáza rastu (1913-1950)
-- Protekcionizmus (link it)
+- Protekcionizmus
 - Hospodárska kríza **1929 až 1933**
 	- **Insider trading** bol legálny, teraz je to **najzávažnejší zločin**, ktorý sa da vykonať (25 rokov väzenia)
-	- Praskla prvá ”prvá finančná bublina”
+	- Praskla prvá ”finančná bublina”
 	- Ceny stúpali rapídne
 	- Prišli obranné mechanizmy
 		- **Ochrana spotrebiteľa**
@@ -245,19 +246,10 @@ Iné: zmeny menových kurzov, zmeny na komoditných trhoch, politická nestabili
 		- Poisťuje veľké projekty
 			- Napríklad čistička vody v Sudáne
 	- ICSID
-		- Keď mame problem s ktoroukolvek z vyššie uvedených inštitúcií, obrátime sa na ICSID
-	- 
-
-# 4. Fáza rastu
-- Špecializácia a kooperácia
-- Vedecko-technický pokrok
-- Rozpad bipolárneho usporiadania
-- Teroristické útoky
-- Mechanizmus vzniku krízy
-	- Lacné úvery -> likvidita -> DHM (nehnuteľnosti) -> nárast cien nehnuteľností -> vzrast úrokovej miery -> nárast dlhovej služby pre domácnosti -> hospodárska recesia -> strata konkurenčnej výhody -> neschopnosť exportu
+		- Keď mame problem s ktoroukoľvek z vyššie uvedených inštitúcií, obrátime sa na ICSID
 
 ## Krízy
-- **Tulipanová kríza**
+- **Tulipánová kríza**
 	- Tulipánové cibuľky boli drahé ako rodinný dom
 - **Dot-com kríza**
 	- Internetové spoločnosti boli populárne pre investorov
@@ -302,6 +294,7 @@ Treba dať pozor na technické prekážky, ktoré bránia precleniu niektorých 
 </div></div>
 
 
+# Teórie MO
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-school/medzinarodny-obchod/teorie-medzinarodneho-obchodu/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -309,7 +302,7 @@ Treba dať pozor na technické prekážky, ktoré bránia precleniu niektorých 
 
 
 # Merkantilizmus
-- - 16. – 18. stor.
+- 16 – 18 stor.
     - Rozvoj koloniálneho obchodu + rozvoj technológii ťažby striebra = zvýšenie zásob drahých kovov v Európe (cenová revolúcia)
     - Hlavná myšlienka: zvýšenie prílevu drahých kovov do krajiny s cieľom prechodu z naturálnej na peňažnú ekonomiku
     - Cieľ vytvoriť stabilné a centralizované európske štáty
@@ -320,8 +313,8 @@ Treba dať pozor na technické prekážky, ktoré bránia precleniu niektorých 
     - **_Nový globálny merkantilizmus_** – politika Donalda Trumpa (monetárne opatrenia, clá, obmedzenia, riešenie nerovnováhy, zníženie konkurencie, nepredvídateľné opatrenia...)
 
 # David Hume
-- - Nerovnomerné rozdeľovanie bohatstva = prínos
-    - Pozornosť na obchodnú bilanciu
+- Nerovnomerné rozdeľovanie bohatstva = prínos
+	- Pozornosť na obchodnú bilanciu
     - Prílev drahých kovov = inflácia = nárast cien = horšia cenová konkurencieschopnosť domácich výrobcov = nižšia konkurencieschopnosť krajiny
     - Položil základy Teórie obchodnej bilanci
 
@@ -341,7 +334,7 @@ Treba dať pozor na technické prekážky, ktoré bránia precleniu niektorých 
 - Pokračovanie diel Smitha a Ricarda
 - Medzinárodná hodnota sa utvára v intervale tvorenom národnými nákladmi. Pohybuje sa v závislosti na vzájomnom dopyte
 
-# Heckscher – Ohlinova teória (HOT)**
+# Heckscher – Ohlinova teória (HOT)
 - E. Heckscher + B. Ohlin
 - Rozličné krajiny = rozličná vybavenosť VF
 - Komparatívna výhoda závisí od rozdielneho využitia národných faktorov (práca, pôda, kapitál)
@@ -398,7 +391,7 @@ Treba dať pozor na technické prekážky, ktoré bránia precleniu niektorých 
 - **Tradičná** (nekonečné opakovanie spôsobu výroby a spotreby, zamestnanosť sa nemení; pokles cien = stúpa produkcia tradičných výrobkov; komoditná štruktúra exportu ani jeho cena sa nemení; zmeny v okolitom svete sa ignorujú)
 - **Transformujúca** (vnútorný trh aj domáca ekonomika je v pohybe; výrobcovia aj spotrebitelia vyvíjajú aktivity; vyššie ceny = výroba tohto tovaru priťahuje VF; nižšie ceny = zníženie produkcie; komoditná štruktúra sa neustále mení
 
-# Teória životného cyklu produktu/1 (Neo-neoklasické teórie)
+# Teória životného cyklu produktu (Neo-neoklasické teórie)
 - R. Vernon
 - Pozoroval predaj masovej produkcie nových výrobkov z USA predávaných na americkom trhu
 - 3 štádiá – nový produkt, zrelý produkt, štandardizovaný produkt
@@ -431,6 +424,7 @@ Treba dať pozor na technické prekážky, ktoré bránia precleniu niektorých 
 </div></div>
 
 
+# Funkcie konkurencieschopnosti v MO
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-school/medzinarodny-obchod/funkcie-konkurenciechopnosti-v-medzinarodnom-obchode/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -449,10 +443,16 @@ Treba dať pozor na technické prekážky, ktoré bránia precleniu niektorých 
 - Podstatou je transformácia štruktúry domácej produkcie na štruktúru žiadúcu v oblasti použitia na výrobnú i osobnú spotrebu.
 - **MO teda transformuje (optimalizuje) skladbu domácej produkcie na takú, ktorá zodpovedá vlastnej finálnej spotrebe alebo požiadavkám domáceho dopytu**
 
+>[!summary]+
+>Krajina **prispôsobuje svoju produkciu** tak, aby čo **najefektívnejšie využila zdroje** na medzinárodnom trhu
+
 # Transmisná funkcia
 - Vyšší typ transformačného pôsobenia medzinárodných ekonomických vzťahov na národnú ekonomiku
 - Ak existuje stav, že transformačná funkcia slúži iba ako nástroj substitúcie domácej výroby a zdrojov prostredníctvom dovozu tovarov alebo absorpciou VF zo zahraničia, potom transmisná funkcia sa uplatní v procese prenosu nových informácií, vedecko-technických poznatkov, inovácií, informácií o meniacich sa kritériách a stimuloch vonkajšieho prostredia dôležitých pre rozhodovacie procesy v domácej ekonomike a pod.
 - Proces „učenia sa vo vzťahu k zahraničiu“
+
+>[!summary]+
+>Ide o **prenos informácií medzi krajinami**, aby sa dosahovalo čo najefektívnejšieho pokroku
 
 # Funkcia ekonomického rastu
 - Transformovanie vecnej štruktúry domácej produkcie na štruktúru produktov skutočne využiteľných a žiadaných ⟶ efektívnejšie využívanie disponibilných zdrojov v krajine
@@ -462,30 +462,58 @@ Treba dať pozor na technické prekážky, ktoré bránia precleniu niektorých 
 - Význam funkcie sa zvyšuje aj vo vzťahu k miere adaptácie krajiny na podmienky v rámci medzinárodného trhu
 
 # Parametrická funkcia
-- Veľký význam v súčasnej etape vývoja MO
+- **Veľký význam v súčasnej etape vývoja MO**
 - Hlavný význam = objektívne porovnanie charakteristiky ponúkanej produkcie či cenové podmienky, za ktorých sú tovary ponúkané v rámci MO
-- Rast špecializácie vs. rozširovanie sortimentu T a S na medzinárodných trhoch **\->** konfrontácia týchto parametrov nielen z hľadiska záujmu spotrebiteľov ale v konečnom dôsledku aj z dôvodu vplyvu na medzinárodnú konkurencieschopnosť producentov a celej ekonomiky.
-- Včasný a efektívny prenos informácií do vnútra ekonomiky **\->** podpora vlastných ekonomických pozícií na domácom a svetovom trhu
+- **Rast špecializácie** vs. **rozširovanie sortimentu** T a S na medzinárodných trhoch **->** konfrontácia týchto parametrov nielen z hľadiska záujmu spotrebiteľov ale v konečnom dôsledku aj z dôvodu vplyvu na medzinárodnú konkurencieschopnosť producentov a celej ekonomiky
+- Včasný a efektívny prenos informácií do vnútra ekonomiky **->** podpora vlastných ekonomických pozícií na domácom a svetovom trhu
+
+>[!summary]+
+>Zameriava sa na **dopyt medzinárodného trhu** a **prispôsobenie** sa produkcii, ktorá je **najvýkonnejšia**
 
 # Proporcionalitná funkcia
 - MO = zabezpečenie správnej vyváženosti reprodukčných procesov v ekonomikách
-- Aktívne chápanie MO = podpora exportu na urýchlenie hospodárskeho rozvoja
+- Aktívne chápanie MO = **podpora exportu na urýchlenie hospodárskeho rozvoja**
 - Stratégia vyrábať a exportovať T a S, v ktorých daná krajina dosahuje vlastné komparatívne výhody + dovoz komodít, pri ktorých komparatívne výhody nevyužíva (nedosahuje) = **Dosahovanie optimálnych proporcií medzi zahranično-obchodnými aktivitami a celkovým vývojom domácej ekonomiky**
 
 </div></div>
 
 
+# Terms of Trade
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-school/medzinarodny-obchod/terms-of-trade-1/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-school/medzinarodny-obchod/terms-of-trade/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
+
+
+- Reálne výmenné relácie
+- Pomer medzi indexom vývozných cien a indexom dovozných cien
+- Ukazovateľ kvality zapojenia sa krajiny do MO
+- Príčinný vzťah medzi vývojom cien výrobkov a množstvami
+- $\mathrm{TT}=\frac{P v}{P d}$
+	- **Pv** - Cena vývozu
+	- **Pd** - Cena dovozu
+- Vyjadrujú, ako sa vyvíjajú ceny V a D a aký bude ich výmenný pomer
+- Ak sme úspešná krajina, cena V rastie rýchlejšie ako cena D
+
+>[!example]+
+>- TT > 1 -> za rovnaké množstvo E môžeme doviezť väčšie množstvo I
+>- TT = 1 -> ceny I sa rovnajú cenám E. Za rovnaké množstvo E máme rovnaké množstvo I
+>- TT < 1 -> Za rovnaké množstvo E môžeme doviezť menšie množstvo I. Importu je viac za menší objem E
+
+Ak cenový vývoj komodity, ktorú plánujeme exportovať bude priaznivejší v danom období v porovnaní s cenovým vývojom potenciálne importovanej komodity, tak za rovnaké množstvo E v budúcej obchodnej transakcii získame väčšie množstvo I.
+
+# Štatistické vykazovanie ZO
+- Miera otvorenosti ekonomiky
+- Podiel importu a exportu na HDP
+- Importná náročnosť ekonomiky
+- Pomer importu a HDP
+- Exportná výkonnosť ekonomiky
+- Pomer exportu a HDP
 
 </div></div>
 
 
+# Konkurencieschopnosť v MO a jej indexy
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-school/medzinarodny-obchod/konkurencieschopnost-v-mo-a-indexy-konkurencieschopnosti/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -535,13 +563,15 @@ Treba dať pozor na technické prekážky, ktoré bránia precleniu niektorých 
 
 
 >[!example]+
->Komoditná štruktúra ZO SR – EXPORT 2023 Komoditná štruktúra ZO SR – IMPORT 2023
+>## Komoditná štruktúra ZO SR – EXPORT 2023
 >![konkurencieschopnost_1.png](/img/user/06%20-%20Images/konkurencieschopnost_1.png)
+>## Komoditná štruktúra ZO SR – IMPORT 2023
 >![konkurencieschopnost_2.png](/img/user/06%20-%20Images/konkurencieschopnost_2.png)
 
 </div></div>
 
 
+# Teritoriálna a komoditná štruktúra
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-school/medzinarodny-obchod/teritorialna-a-komoditna-struktura-mo/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 

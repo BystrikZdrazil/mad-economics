@@ -45,6 +45,7 @@
 
 
 >[!example]+
->Komoditná štruktúra ZO SR – EXPORT 2023 Komoditná štruktúra ZO SR – IMPORT 2023
+>## Komoditná štruktúra ZO SR – EXPORT 2023
 >![konkurencieschopnost_1.png](/img/user/06%20-%20Images/konkurencieschopnost_1.png)
+>## Komoditná štruktúra ZO SR – IMPORT 2023
 >![konkurencieschopnost_2.png](/img/user/06%20-%20Images/konkurencieschopnost_2.png)

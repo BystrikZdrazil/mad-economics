@@ -39,7 +39,7 @@
 - Transfer kapitálu
 - Technologický pokrok a politické rozhodnutia
 - Krytie národných mien zlatom
-- Otázka migrície obyvateľstva
+- Otázka migrácie obyvateľstva
 
 - Zvyšovanie významu svetového hospodárstva a jeho permanentné zmeny (fluktuácia recesie a konjunktúry) = výsledok nasledujúcich faktorov (pôvodných megatrendov):
 

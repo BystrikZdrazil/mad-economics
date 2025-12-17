@@ -14,10 +14,16 @@
 - Podstatou je transformácia štruktúry domácej produkcie na štruktúru žiadúcu v oblasti použitia na výrobnú i osobnú spotrebu.
 - **MO teda transformuje (optimalizuje) skladbu domácej produkcie na takú, ktorá zodpovedá vlastnej finálnej spotrebe alebo požiadavkám domáceho dopytu**
 
+>[!summary]+
+>Krajina **prispôsobuje svoju produkciu** tak, aby čo **najefektívnejšie využila zdroje** na medzinárodnom trhu
+
 # Transmisná funkcia
 - Vyšší typ transformačného pôsobenia medzinárodných ekonomických vzťahov na národnú ekonomiku
 - Ak existuje stav, že transformačná funkcia slúži iba ako nástroj substitúcie domácej výroby a zdrojov prostredníctvom dovozu tovarov alebo absorpciou VF zo zahraničia, potom transmisná funkcia sa uplatní v procese prenosu nových informácií, vedecko-technických poznatkov, inovácií, informácií o meniacich sa kritériách a stimuloch vonkajšieho prostredia dôležitých pre rozhodovacie procesy v domácej ekonomike a pod.
 - Proces „učenia sa vo vzťahu k zahraničiu“
+
+>[!summary]+
+>Ide o **prenos informácií medzi krajinami**, aby sa dosahovalo čo najefektívnejšieho pokroku
 
 # Funkcia ekonomického rastu
 - Transformovanie vecnej štruktúry domácej produkcie na štruktúru produktov skutočne využiteľných a žiadaných ⟶ efektívnejšie využívanie disponibilných zdrojov v krajine
@@ -27,12 +33,15 @@
 - Význam funkcie sa zvyšuje aj vo vzťahu k miere adaptácie krajiny na podmienky v rámci medzinárodného trhu
 
 # Parametrická funkcia
-- Veľký význam v súčasnej etape vývoja MO
+- **Veľký význam v súčasnej etape vývoja MO**
 - Hlavný význam = objektívne porovnanie charakteristiky ponúkanej produkcie či cenové podmienky, za ktorých sú tovary ponúkané v rámci MO
-- Rast špecializácie vs. rozširovanie sortimentu T a S na medzinárodných trhoch **\->** konfrontácia týchto parametrov nielen z hľadiska záujmu spotrebiteľov ale v konečnom dôsledku aj z dôvodu vplyvu na medzinárodnú konkurencieschopnosť producentov a celej ekonomiky.
-- Včasný a efektívny prenos informácií do vnútra ekonomiky **\->** podpora vlastných ekonomických pozícií na domácom a svetovom trhu
+- **Rast špecializácie** vs. **rozširovanie sortimentu** T a S na medzinárodných trhoch **->** konfrontácia týchto parametrov nielen z hľadiska záujmu spotrebiteľov ale v konečnom dôsledku aj z dôvodu vplyvu na medzinárodnú konkurencieschopnosť producentov a celej ekonomiky
+- Včasný a efektívny prenos informácií do vnútra ekonomiky **->** podpora vlastných ekonomických pozícií na domácom a svetovom trhu
+
+>[!summary]+
+>Zameriava sa na **dopyt medzinárodného trhu** a **prispôsobenie** sa produkcii, ktorá je **najvýkonnejšia**
 
 # Proporcionalitná funkcia
 - MO = zabezpečenie správnej vyváženosti reprodukčných procesov v ekonomikách
-- Aktívne chápanie MO = podpora exportu na urýchlenie hospodárskeho rozvoja
+- Aktívne chápanie MO = **podpora exportu na urýchlenie hospodárskeho rozvoja**
 - Stratégia vyrábať a exportovať T a S, v ktorých daná krajina dosahuje vlastné komparatívne výhody + dovoz komodít, pri ktorých komparatívne výhody nevyužíva (nedosahuje) = **Dosahovanie optimálnych proporcií medzi zahranično-obchodnými aktivitami a celkovým vývojom domácej ekonomiky**

@@ -3,7 +3,7 @@
 ---
 
 # Merkantilizmus
-- - 16. – 18. stor.
+- 16 – 18 stor.
     - Rozvoj koloniálneho obchodu + rozvoj technológii ťažby striebra = zvýšenie zásob drahých kovov v Európe (cenová revolúcia)
     - Hlavná myšlienka: zvýšenie prílevu drahých kovov do krajiny s cieľom prechodu z naturálnej na peňažnú ekonomiku
     - Cieľ vytvoriť stabilné a centralizované európske štáty
@@ -14,8 +14,8 @@
     - **_Nový globálny merkantilizmus_** – politika Donalda Trumpa (monetárne opatrenia, clá, obmedzenia, riešenie nerovnováhy, zníženie konkurencie, nepredvídateľné opatrenia...)
 
 # David Hume
-- - Nerovnomerné rozdeľovanie bohatstva = prínos
-    - Pozornosť na obchodnú bilanciu
+- Nerovnomerné rozdeľovanie bohatstva = prínos
+	- Pozornosť na obchodnú bilanciu
     - Prílev drahých kovov = inflácia = nárast cien = horšia cenová konkurencieschopnosť domácich výrobcov = nižšia konkurencieschopnosť krajiny
     - Položil základy Teórie obchodnej bilanci
 
@@ -35,7 +35,7 @@
 - Pokračovanie diel Smitha a Ricarda
 - Medzinárodná hodnota sa utvára v intervale tvorenom národnými nákladmi. Pohybuje sa v závislosti na vzájomnom dopyte
 
-# Heckscher – Ohlinova teória (HOT)**
+# Heckscher – Ohlinova teória (HOT)
 - E. Heckscher + B. Ohlin
 - Rozličné krajiny = rozličná vybavenosť VF
 - Komparatívna výhoda závisí od rozdielneho využitia národných faktorov (práca, pôda, kapitál)
@@ -92,7 +92,7 @@
 - **Tradičná** (nekonečné opakovanie spôsobu výroby a spotreby, zamestnanosť sa nemení; pokles cien = stúpa produkcia tradičných výrobkov; komoditná štruktúra exportu ani jeho cena sa nemení; zmeny v okolitom svete sa ignorujú)
 - **Transformujúca** (vnútorný trh aj domáca ekonomika je v pohybe; výrobcovia aj spotrebitelia vyvíjajú aktivity; vyššie ceny = výroba tohto tovaru priťahuje VF; nižšie ceny = zníženie produkcie; komoditná štruktúra sa neustále mení
 
-# Teória životného cyklu produktu/1 (Neo-neoklasické teórie)
+# Teória životného cyklu produktu (Neo-neoklasické teórie)
 - R. Vernon
 - Pozoroval predaj masovej produkcie nových výrobkov z USA predávaných na americkom trhu
 - 3 štádiá – nový produkt, zrelý produkt, štandardizovaný produkt
