@@ -39,8 +39,7 @@ Spôsoby obstarania dlhodobého hmotného majetku sú:
 - **Získanie zámenou -** výmenou za iný majetok (tam kde je podnik sa bude robiť diaľnica)
 
 # Odpisovanie DHM
-**Opotrebenie** predstavuje tú časť hodnoty, ktorú dlhodobý hmotný majetok počas svojho využívania v účtovnej jednotke postupne prenáša na nové výkony, a to v primeranej výške, v akej stráca svoju
- konomickú užitočnosť.
+**Opotrebenie** predstavuje tú časť hodnoty, ktorú dlhodobý hmotný majetok počas svojho využívania v účtovnej jednotke postupne prenáša na nové výkony, a to v primeranej výške, v akej stráca svoju ekonomickú užitočnosť.
 
 >[!info]+
 >Opotrebenie môže byť dvojakého charakteru: **morálne opotrebenie, fyzické opotrebenie.**

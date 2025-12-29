@@ -35,7 +35,7 @@ Náklady a výnosy sa vykazujú v sústave podvojného účtovníctva **vo výka
 
 ## Priamy alebo nepriamy vplyv vzniku nákladu na tok peňažných prostriedkov
 
-![Vznik nakladu.png](/img/user/06%20-%20Images/School/Vznik%20nakladu.png)
+![[Vznik nakladu.png\|Vznik nakladu.png]]
 
 **Náklady** predstavujú zníženie ekonomických úžitkov účtovnej jednotky v účtovnom období, ktoré má za **následok**:
 - **Zníženie majetku** peňažnej aj nepeňažnej povahy

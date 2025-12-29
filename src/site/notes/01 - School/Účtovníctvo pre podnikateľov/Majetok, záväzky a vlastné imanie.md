@@ -233,11 +233,11 @@ Základné imanie sa upravuje o:
 
 ##### Oceňovacie rozdiely z precenenia
 
-##### Výsledok hospodárenia minulých rokov
+###### Výsledok hospodárenia minulých rokov
 - Nerozdelený zisk minulých rokov (+)
 - Neuhradená strata minulých rokov (-)
 
-##### Výsledok hospodárenia za účtovné obdobie po zdanení +/-
+###### Výsledok hospodárenia za účtovné obdobie po zdanení +/-
 - Účtovný zisk (+)
 - Účtovná strata (-)
 

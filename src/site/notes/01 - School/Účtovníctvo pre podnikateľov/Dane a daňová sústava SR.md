@@ -11,13 +11,13 @@
 - **Nepriame dane** sú zahrnuté v cene tovarov a služieb a do štátneho rozpočtu ich odvádza predajca tovaru alebo služby
 
 # Priame dane
-Zaťažujú fyzické a právnické osoby, vyrubujú sa z príjmu alebo majetku osôb - priamo sa platia, týkajú sa konkrétnej osoby or spoločnosti
+Zaťažujú fyzické a právnické osoby, vyrubujú sa z príjmu alebo majetku osôb - priamo sa platia, týkajú sa konkrétnej osoby alebo spoločnosti
 
 > [!important]+
 > Daňovník je prevažne zhodný s platiteľom dane
 
 Patria sem:
-- Daň s príjmov
+- Daň z príjmov
 - Daň z motorových vozidiel
 - Daň z nehnuteľnosti
 - Iné miestne priame dane a poplatky
@@ -27,7 +27,7 @@ Patria sem:
 - Ak vznikne účtovnej jednotke na konci účtovného obdobia daňová povinnosť - vzniká **záväzok** voči správcovi dane a **náklad**
 - Daň sa vyčísluje mimo účtovníctva - výsledok hospodárenia sa upravuje na základ dane prostredníctvom daňového priznania k dani z príjmov​
 - Základná sadzba predstavuje **21%**
-- **Znížená sadzba 15 %,** ktorý dosiahol za zdaňovacie obdobie zdaniteľné príjmy (výnosy) **neprevyšujúce** sumu ustanovenú osobitným predpisom, t**. j. sumu 60'000€ podľa zákona o dani z príjmov.
+- **Znížená sadzba 15 %,** ktorý dosiahol za zdaňovacie obdobie zdaniteľné príjmy (výnosy) **neprevyšujúce** sumu ustanovenú osobitným predpisom, t.j. sumu 60'000€ podľa zákona o dani z príjmov.
 
 Môžu byť:
 - [**daň z nehnuteľností (daň z pozemkov, stavieb, bytov)**](https://www.slovensko.sk/sk/zivotne-situacie/zivotna-situacia/_dan-z-nehnutelnosti-1/)**,**
@@ -40,7 +40,7 @@ Môžu byť:
 - daň za jadrové zariadenie.
 
 # Nepriame dane
-Daňovník a platiteľ dane su väčšinou iné osoby.
+Daňovník a platiteľ dane sú väčšinou iné osoby.
 
 ## Spotrebné dane:
 - Neplatíme ich priamo
@@ -54,7 +54,7 @@ Zákon č. 222/2004 Z. z. Zákon o dani z pridanej hodnoty v znení neskorších
 
 **Predmetom dane:**
 - Dodanie tovaru za protihodnotu v tuzemsku uskutočnené zdaniteľnou osobou, ktorá koná v postavení zdaniteľnej osoby
-- Poskytnutie služby (ďalej len ,,dodanie služby") za protihodnotu v tuzemsku uskutočnené zdaniteľnou osobou, ktorá koná v postavení zdaniteľnej osoby
+- Poskytnutie služby (ďalej len “dodanie služby”) za protihodnotu v tuzemsku uskutočnené zdaniteľnou osobou, ktorá koná v postavení zdaniteľnej osoby
 - Nadobudnutie tovaru za protihodnotu v tuzemsku z iného členského štátu EÚ (členský štát)
 - Dovoz tovaru zo zahraničia
 
@@ -87,7 +87,7 @@ Daň sa vyčísluje mimo účtovníctva - výsledok hospodárenia sa upravuje na
 >1. Spoločnosť A (neplatiteľ DPH) nakupuje tovar od spoločnosti B (neplatiteľ DPH):
 >- Cena za tovar 100 €
 >- Spolu 100 €
->- ![dane_a_danova_sustava_3.png](/img/user/06%20-%20Images/School/dane_a_danova_sustava_3.png)
+>- ![[dane_a_danova_sustava_3.png\|dane_a_danova_sustava_3.png]]
 
 >[!example]+
 >2. Spoločnosť A (platiteľ DPH) nakupuje tovar od spoločnosti B (neplatiteľ DPH):
