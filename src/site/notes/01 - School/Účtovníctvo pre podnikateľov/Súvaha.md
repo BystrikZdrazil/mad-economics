@@ -37,6 +37,6 @@ Tradične i v súčasnosti na Slovensku súvaha:
 - Sa zostavuje v stanovených peňažných jednotkách, od roku 2009 u podnikateľov **v celých eurách**
 
 # Vzor
-![[suvaha-vzor.png\|suvaha-vzor.png]]
+![suvaha-vzor.png](/img/user/06%20-%20Images/School/suvaha-vzor.png)
 
 <iframe src="/img/user/01%20-%20School/%C3%9A%C4%8Dtovn%C3%ADctvo%20pre%20podnikate%C4%BEov/OFFs/S%C3%BAvaha_z%C3%A1kladn%C3%A1_%C5%A1trukt%C3%BAra_s_%C4%8Dlenen%C3%ADm.pdf" width="100%" height="900px" title="Súvaha_základná_štruktúra_s_členením.pdf" style="border:1px solid #ccc;"></iframe>

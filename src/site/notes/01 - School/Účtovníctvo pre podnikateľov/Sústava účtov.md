@@ -8,8 +8,8 @@
 
 ![Sustava-uctov-1.png](/img/user/06%20-%20Images/School/Sustava-uctov-1.png)
 
-## Členenie účtov:
-- **Súvahové účty** (účty aktív,účty pasív)
+## Členenie účtov
+- **Súvahové účty** (účty aktív, účty pasív)
 - **Výsledkové účty** (účty nákladov, účty výnosov)
 - **Uzávierkové účty** (Začiatočný účet súvahový, Konečný účet súvahový, Účet ziskov a strát)
 - **Podsúvahové účty** (ručenie majetku, súdne spory)
@@ -45,7 +45,7 @@ Prevoz konečného zostatku do konečného účtu súvahového
 
 ![Sustava-uctov-6.png](/img/user/06%20-%20Images/School/Sustava-uctov-6.png)
 
-Zápis číselného označenia účtov, na ktorých sa účtovný prípad zaúčtuje sa nazýva **predkontácia** (resp. **účtovací predpis).**
+Zápis číselného označenia účtov, na ktorých sa účtovný prípad zaúčtuje sa nazýva **predkontácia** (resp. **účtovací predpis**).
 
 **Účtovný zápis:**
 - Jednoduchý
@@ -58,7 +58,7 @@ Je to sústava účtov označených názvom a číslom:
 
 ## Rámcová účtovná osnova pre podnikateľov
 - V Slovenskej republike určená Opatrením Ministerstva financií Slovenskej republiky č. 23054/2002-92 zo dňa 16. decembra 2002 (ktorým sa ustanovujú podrobnosti o postupoch účtovania a rámcovej účtovej osnove pre podnikateľov účtujúcich v sústave podvojného účtovníctva v znení neskorších predpisov)
-- Obsahuje zoznam **syntetických účtov s číselným a slovným označením** , usporiadaných podľa ich ekonomického obsahu **do účtových tried** a **do účtových skupín.**
+- Obsahuje zoznam **syntetických účtov s číselným a slovným označením**, usporiadaných podľa ich ekonomického obsahu **do účtových tried** a **do účtových skupín.**
 - Pri triedení účtov sa používa **DEKADICKÝ PRINCÍP** (princíp desiatkovej sústavy)
 - **Všetky účty sú rozdelené do 10 účtových tried (od 0 do 9),**
 - **V každej účtovnej triede môže byť až 10 účtových skupín a**
@@ -85,7 +85,7 @@ Je to sústava účtov označených názvom a číslom:
 
 # Princíp podvojnosti účtovných zápisov
 - **Každý účtovný zápis** na účtoch súvahových a výsledkových **sa musí vykonať na dvoch stranách**
-- musí sa dodržať pri účtovaní v účtovných knihách **od otvorenia účtov** pri vzniku podnikateľského subjektu, resp. **od začiatku účtovného obdobia, až do uzavretia účtov na konci účtovného obdobia**.
+- Musí sa dodržať pri účtovaní v účtovných knihách **od otvorenia účtov** pri vzniku podnikateľského subjektu, resp. **od začiatku účtovného obdobia, až do uzavretia účtov na konci účtovného obdobia**.
 
 Pre tieto podvojné účtovné zápisy sa používajú účty účtovej triedy 7 - Uzávierkové účty a podsúvahové účty.
 
@@ -144,8 +144,8 @@ Pre tieto podvojné účtovné zápisy sa používajú účty účtovej triedy 7
 - Môže mať **formu účtu** alebo **inú formu** (napr. skladové karty, mzdové listy...)
 
 Analytická evidencia k syntetickým účtom sa môže viesť ako:
-- **Jednostupňová,**
-- **Viacstupňová.**
+- **Jednostupňová**
+- **Viacstupňová**
 
 **Pri vytváraní analytických účtov sa zohľadňujú tieto hľadiská:**
 - Členenie majetku podľa druhu, hmotne zodpovedných osôb a miesta umiestnenia majetku; osobitne sa sleduje majetok poskytnutý účtovnej jednotke na zabezpečenie jej pohľadávky, cenné papiere v umorovacom konaní,
@@ -196,8 +196,6 @@ Podľa postupov účtovania sú účty vlastného imania v účtovej triede **4
 
 ## Základné imanie
 **Základné imanie** musí byť vyjadrené peňažnou sumou a to aj v prípade, keď je tvorené nepeňažnými vkladmi. Suma základného imania sa povinne zapisuje do obchodného registra a v účtovníctve sa účtuje na osobitnom súvahovom účte *411 - Základné imanie*.
-
-### 411 - Základné imanie.
 - Základné imanie [[01 - School/Obchodné a Hospodárske Právo/Druhy obchodných spoločností#Spoločnosť s ručením obmedzeným\|s.r.o.]] = 5 000 €
 - Základné imanie [[01 - School/Obchodné a Hospodárske Právo/Druhy obchodných spoločností#Akciová spoločnosť\|a.s.]] = 25 000 €
 

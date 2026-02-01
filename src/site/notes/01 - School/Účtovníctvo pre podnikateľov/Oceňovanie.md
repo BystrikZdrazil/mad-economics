@@ -68,7 +68,7 @@ Oceňovanie majetku a záväzkov v SR upravuje:
 - **Zákon o účtovníctve** (5. časť: Spôsoby oceňovania)
 - **Postupy účtovania** pre podnikateľov
 
-![[Zakon o uctovnictve - ocenovacie veliciny 1.png\|Zakon o uctovnictve - ocenovacie veliciny 1.png]]
+![Zakon o uctovnictve - ocenovacie veliciny 1.png](/img/user/06%20-%20Images/School/Zakon%20o%20uctovnictve%20-%20ocenovacie%20veliciny%201.png)
 
 ![Zakon o uctovnictve - ocenovacie veliciny 2.png](/img/user/06%20-%20Images/School/Zakon%20o%20uctovnictve%20-%20ocenovacie%20veliciny%202.png)
 

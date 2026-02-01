@@ -51,7 +51,7 @@ V organizácii môžeme hovoriť vtedy, keď dochádza k **vzájomnej interakcii
 	- Delegovanie právomocí
 
 ## Proces organizovania
-![[Proces organizovania.canvas|Proces organizovania]]
+![[01 - School/Manažment/Canvases/Proces organizovania.canvas\|Proces organizovania]]
 
 # Organizačná štruktúra
 Je to formálny systém vzťahov v rámci organizácie ktorý umožňuje diferencovať a súčasne integrovať činnosti a pracovníkov vykonávajúcich tieto činnosti do jedného celku
@@ -89,17 +89,17 @@ Je to formálny systém vzťahov v rámci organizácie ktorý umožňuje diferen
 - Malé rozpätie riadenia
 
 #### Funkcionálna organizačná štruktúra
-![[Fuinkcionálna organizačná štruktúra.canvas|Fuinkcionálna organizačná štruktúra]]
+![[01 - School/Manažment/Canvases/Fuinkcionálna organizačná štruktúra.canvas\|Fuinkcionálna organizačná štruktúra]]
 
 ### Plochá (široká) štruktúra
 - Charakteristická malým počtom stupňov
 - Veľké rozpätie riadenia
 
 #### Líniová organizačná štruktúra
-![[Liniova organizacna struktura.canvas|Liniova organizacna struktura]]
+![[01 - School/Manažment/Canvases/Liniova organizacna struktura.canvas\|Liniova organizacna struktura]]
 
 #### Líniovo-štábna organizačná štruktúra
-![[Liniovo-stabna organizacna struktura.canvas|Liniovo-stabna organizacna struktura]]
+![[01 - School/Manažment/Canvases/Liniovo-stabna organizacna struktura.canvas\|Liniovo-stabna organizacna struktura]]
 
 ## Dimenzie organizačnej štruktúry
 - **Stupeň formalizácie**
@@ -143,13 +143,13 @@ Je to formálny systém vzťahov v rámci organizácie ktorý umožňuje diferen
 		- Zákazníka
 
 ### Výrobkový model divíznej organizačnej štruktúry
-![[Výrobkový model divíznej organizačnej Štruktúry.canvas|Výrobkový model divíznej organizačnej Štruktúry]]
+![[01 - School/Manažment/Canvases/Výrobkový model divíznej organizačnej Štruktúry.canvas\|Výrobkový model divíznej organizačnej Štruktúry]]
 
 ### Zákaznícky model divíznej organizačnej štruktúry
-![[Zákaznícky model divíznej organizačnej Štruktúry.canvas|Zákaznícky model divíznej organizačnej Štruktúry]]
+![[01 - School/Manažment/Canvases/Zákaznícky model divíznej organizačnej Štruktúry.canvas\|Zákaznícky model divíznej organizačnej Štruktúry]]
 
 ## Maticová organizačná štruktúra
-![[Maticová organizačná štruktúra.canvas|Maticová organizačná štruktúra]]
+![[01 - School/Manažment/Canvases/Maticová organizačná štruktúra.canvas\|Maticová organizačná štruktúra]]
 
 ## Projektová organizačná štruktúra
-![[Projektová organizačná štruktúra.canvas|Projektová organizačná štruktúra]]
+![[01 - School/Manažment/Canvases/Projektová organizačná štruktúra.canvas\|Projektová organizačná štruktúra]]

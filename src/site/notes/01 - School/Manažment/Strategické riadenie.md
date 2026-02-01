@@ -138,7 +138,7 @@ Zostavili definíciu stratégie, ktora kombinuje tradičné i novšie predstavy 
 	- Sleduje členenie podniku na riadiace úrovne a vyjadruje deľbu právomoci a zodpovednosti, od ktorej sa odvíja hierarchia stratégií
 
 ## Proces strategického riadenia
-![[Proces strategického riadenia.canvas|Proces strategického riadenia]]
+![[01 - School/Manažment/Canvases/Proces strategického riadenia.canvas\|Proces strategického riadenia]]
 
 ### Vízia
 - Čo podnik má a čo by mal robiť
@@ -244,7 +244,7 @@ Zostavili definíciu stratégie, ktora kombinuje tradičné i novšie predstavy 
 </div></div>
 
 
-![[SWOT graf.canvas|SWOT graf]]
+![[01 - School/Manažment/Canvases/SWOT graf.canvas\|SWOT graf]]
 
 # Tvorba stratégie
 - Znamená to zostavovanie strategických variant vymedzenými

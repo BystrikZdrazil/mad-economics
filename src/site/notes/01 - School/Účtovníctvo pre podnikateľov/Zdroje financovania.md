@@ -187,26 +187,26 @@ Vlastné imanie tvoria vlastne zdroje financovania obchodného majetku podnikate
 	- Predstavuje interne zdroje vytvorené vlastnou činnosťou účtovnej jednotky a externe zdroje získané formou príspevkov, dalsimi vkladmi do základného imania alebo ziskanej inou formou
 
 ## Vlastne imanie pri vzniku účtovnej jednotky
-- Vklad
+- **Vklad**
 	- Základne imanie
-- Tvorba
+- **Tvorba**
 	- Zákonný rezervný fond z kapitálových vkladov
 	- Nedelitelny fond z kapitálových vkladov
-- Kladný rozdiel medzi menovitou hodnotou a predajnou cenou akcie
-	- Emisné ážio v akciovej spoločnosti
-- Príspevok od spoločníka
-	- Ostatné kapitálové fondy
+- **Emisné ážio** v akciovej spoločnosti
+	- Kladný rozdiel medzi menovitou hodnotou a predajnou cenou akcie
+- **Ostatné kapitálové fondy**
+	- Príspevok od spoločníka
 
 ## Oceňovanie vlastného imania
-Je definovane ako rozdiel majetku a záväzkov. Jeho hodnota je teda závislá na ocenení jednotlivých položiek.
+Je definované ako rozdiel majetku a záväzkov. Jeho hodnota je teda závislá na ocenení jednotlivých položiek.
 
 ## Inventarizácia vlastného imania
 Dokazuje sa dokladovou inventúrou, kedy sa porovnáva účtovná hodnota vykázaná v účtovníctve a právnych dokumentoch.
 
-Pri vlastnom mini sa neúčtuje inventarizácie rozdiely.
+Pri vlastnom imaní sa neúčtujú inventarizačné rozdiely.
 
 ## Vykazovanie vlastných zdrojov v účtovnej závierke
-Vlastne zdroje financovania sa v účtovnej závierke vykazujú ako vlastne imanie na strane pasív v súvahe v časti A, na riadkoch 80 až 100.
+Vlastné zdroje financovania sa v účtovnej závierke vykazujú ako vlastné imanie na strane pasív v súvahe v časti A, na riadkoch 80 až 100.
 
 # Základné imanie
 Je to peňažné vyjadrenie súhrnu peňažných i nepeňažných vkladov všetkých spoločníkov do spoločnosti.
@@ -222,30 +222,30 @@ Je to peňažné vyjadrenie súhrnu peňažných i nepeňažných vkladov všetk
 **Vkladom spoločníka** je súhrn peňažných prostriedkov a iných peniazmi oceniteľných hodnôt, ktoré spoločník vkladá do spoločnosti a podieľa sa nimi na výsledku podnikania spoločnosti.
 
 > [!info]
-> **Nepeňažným vkladom moze byt len** majetok, ktorého hospodárska hodnota sa da určiť. Musí byt splatený pred vznikom spoločnosti
+> **Nepeňažným vkladom môze byť len** majetok, ktorého hospodárska hodnota sa dá určiť. Musí byt splatený **pred** vznikom spoločnosti
 
-Základne imanie musí byt teda **vyjadrené sumou** a to aj v prípade, ze je tvorené nepeňažnými vkladmi. Suma základného imania sa povinne zapisuje do súvahy.
+Základné imanie musí byt teda **vyjadrené sumou** a to aj v prípade, ze je tvorené nepeňažnými vkladmi. Suma základného imania sa povinne zapisuje do súvahy.
 
 ## Kapitálové fondy
-Sú vlastným zdrojom majetku, najčastejšie sa tvoria zo zdrojov, ktoré plynu do účtovnej jednotky od spoločníkov, napríklad:
-- Vo forme príspevkov
-	- Spoločníkom bezodplatne poskytnutého majetku - tieto sa vykazujú v časti A.III ako **Ostatné kapitálové fondy**, na riadku 86 v súvahe
-- Vo forme vkladu spoločníkov do rezervného fondu pri vzniku účtovnej jednotky
+Sú vlastným zdrojom majetku, **najčastejšie sa tvoria zo zdrojov**, ktoré plynú do účtovnej jednotky od spoločníkov, napríklad:
+- **Vo forme príspevkov**
+	- Spoločníkom bezodplatne poskytnutého majetku - tieto sa vykazujú v časti A.III ako **Ostatné kapitálové fondy**, na riadku 86 v [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|súvahe]]
+- **Vo forme vkladu spoločníkov do rezervného fondu** pri vzniku účtovnej jednotky
 
 ## Fondy tvorené zo zisku
 - Zákonný rezervný fond
-	- Vytvára povinne zo zákona
-	- Výlučne na krytie strát
+	- Vytvára **povinne zo zákona**
+	- Výlučne **na krytie strát**
 - Ďalšie fondy, ktoré si vytvára zo zisku fakultatívne, dobrovoľne nad rámec zákonných povinností
 - Ostatné fondy zo zisku
 
 ## Výsledok hospodárenia za účtovné obdobie
-Vyelsdok hospodárenia je ocenený výsledný efekt činnosti účtovnej jednotky dosiahnutý v účtovnom období. Výsledkom hospodárenia je bud zisk alebo strata.
+Výsledok hospodárenia je ocenený **výsledný efekt činnosti účtovnej jednotky** dosiahnutý v účtovnom období. Výsledkom hospodárenia je buď zisk alebo strata.
 
-Výsledok hospodárenia, ktorý účtovná jednotka dosiahla v danom účtovnom obdobi, sa vykazuje na strane pasív v súvahe.
+Výsledok hospodárenia, ktorý účtovná jednotka dosiahla v danom účtovnom období, sa vykazuje **na strane pasív v súvahe**.
 
 ## Výsledok hospodárenia minulých rokov
-Výsledok hospodárenia minulých rokov, o rozdelení alebo usporiadaní ktorého účtovná jednotka zatial nerozhodla, ako sa rozdelí.
+Výsledok hospodárenia minulých rokov, o rozdelení alebo usporiadaní ktorého účtovná jednotka zatiaľ nerozhodla, ako sa rozdelí.
 
 # Finančné záväzky (cudzie zdroje)
 - Vznikajú pri získavaní **finančných prostriedkov**
@@ -265,4 +265,4 @@ Delia sa na:
 > [!warning]
 > Aj **dlhodobé** sa vykazujú ako **krátkodobé**, ak prešlo dostatok času, aby splatnosť bola menej ako rok v den vypracovania súvahy
 
-- Peniaze sa dajú poziciat od iných subjektov ako od bánk
+- Peniaze sa dajú požičisť od iných subjektov ako od bánk

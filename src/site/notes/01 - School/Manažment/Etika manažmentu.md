@@ -173,7 +173,7 @@ Stakeholderi sa dajú podľa ich významnosti rozdeliť do dvoch skupín:
 - Deskriptívna
 
 *(Graf sa netreba učiť naspamäť ale treba tomu chápať)*
-![[Graf Etiky.canvas|Graf Etiky]]
+![[01 - School/Manažment/Canvases/Graf Etiky.canvas\|Graf Etiky]]
 
 #### Normatívna etika
 - Sústreďuje sa na predikciu, čo by malo byť

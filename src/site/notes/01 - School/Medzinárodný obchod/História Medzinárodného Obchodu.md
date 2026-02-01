@@ -564,9 +564,9 @@ Ak cenový vývoj komodity, ktorú plánujeme exportovať bude priaznivejší v 
 
 >[!example]+
 >## Komoditná štruktúra ZO SR – EXPORT 2023
->![konkurencieschopnost_1.png](/img/user/06%20-%20Images/konkurencieschopnost_1.png)
+>![konkurencieschopnost_1.png](/img/user/06%20-%20Images/School/konkurencieschopnost_1.png)
 >## Komoditná štruktúra ZO SR – IMPORT 2023
->![konkurencieschopnost_2.png](/img/user/06%20-%20Images/konkurencieschopnost_2.png)
+>![konkurencieschopnost_2.png](/img/user/06%20-%20Images/School/konkurencieschopnost_2.png)
 
 </div></div>
 
@@ -590,7 +590,7 @@ Ak cenový vývoj komodity, ktorú plánujeme exportovať bude priaznivejší v 
 - Japonsko
 - India
 
-![teritorialna-struktura_MO_1.png](/img/user/06%20-%20Images/teritorialna-struktura_MO_1.png)
+![teritorialna-struktura_MO_1.png](/img/user/06%20-%20Images/School/teritorialna-struktura_MO_1.png)
 
 # Teritoriálna štruktúra so SR
 ## Štruktúra exportu SR (*údaje z roku 2023*)
@@ -618,7 +618,7 @@ Ak cenový vývoj komodity, ktorú plánujeme exportovať bude priaznivejší v 
 - Francúzsko
 
 # Hodnotové reťazce
-![hodnotove-retazce.png](/img/user/06%20-%20Images/hodnotove-retazce.png)
+![hodnotove-retazce.png](/img/user/06%20-%20Images/School/hodnotove-retazce.png)
 
 ## Globálne hodnotové reťazce
 - Global Value Chains (GVC)

@@ -33,7 +33,7 @@ Pre obchodné právo sú významné najmä nariadenia a smernice.
 
 # Kroky legislatívneho procesu
 
-![[Kroky Legislatívneho Procesu.canvas|Kroky Legislatívneho Procesu]]
+![[01 - School/Európska Únia/Kroky Legislatívneho Procesu.canvas\|Kroky Legislatívneho Procesu]]
 
 ## Zhrnutie
 1. Legislatívny návrh Komisie

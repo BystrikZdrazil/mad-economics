@@ -14,7 +14,7 @@
 - Japonsko
 - India
 
-![teritorialna-struktura_MO_1.png](/img/user/06%20-%20Images/teritorialna-struktura_MO_1.png)
+![teritorialna-struktura_MO_1.png](/img/user/06%20-%20Images/School/teritorialna-struktura_MO_1.png)
 
 # Teritoriálna štruktúra so SR
 ## Štruktúra exportu SR (*údaje z roku 2023*)
@@ -42,7 +42,7 @@
 - Francúzsko
 
 # Hodnotové reťazce
-![hodnotove-retazce.png](/img/user/06%20-%20Images/hodnotove-retazce.png)
+![hodnotove-retazce.png](/img/user/06%20-%20Images/School/hodnotove-retazce.png)
 
 ## Globálne hodnotové reťazce
 - Global Value Chains (GVC)

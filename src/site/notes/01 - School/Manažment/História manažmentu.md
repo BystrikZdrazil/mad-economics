@@ -55,7 +55,7 @@
 - Zásadový
 - Výkonný
 - Mal by mať znalosti o práci
-- Dobrá [[01 - School/Manažment/Komunikácia\|komunikácia]]
+- Dobrá [[01 - School/Manažment/Komunikácia\|01 - School/Manažment/Komunikácia]]
 
 ## Administratívny manažment
 - Henri Fayol

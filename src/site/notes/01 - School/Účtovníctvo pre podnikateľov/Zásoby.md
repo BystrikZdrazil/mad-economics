@@ -9,9 +9,9 @@
 - Krátkodobo likvidný majetok
 
 **Charakteristické pre zásoby:**
-- Jednorazová spotreba
-- Jednorazové použitie
-- Jednorazová premena na inú formu majetku
+- Jednorazová **spotreba**
+- Jednorazové **použitie**
+- Jednorazová **premena na inú formu** majetku
 
 # Členenie zásob
 
@@ -20,10 +20,10 @@
 # Materiál
 Materiál sú zásoby obstarávané účtovnou jednotkou nákupom s cieľom ich spotreby vo výrobnom procese alebo spotreby pri zabezpečovaní vlastnej prevádzkovej činnosti. Ako materiál sa účtujú najmä:
 - Suroviny
-- pomocné látky
-- prevádzkové látky
-- náhradné dielce - šrúby, skrutky
-- obaly - prepravky, obal
+- Pomocné látky
+- Prevádzkové látky
+- Náhradné dielce - šrúby, skrutky
+- Obaly - prepravky, obal
 
 # Zásoby vlastnej výroby
 Zásoby vlastnej výroby je skupina zásob, ktorú tvorí:
@@ -35,7 +35,7 @@ Zásoby vlastnej výroby je skupina zásob, ktorú tvorí:
 Zvieratá charakterizované ako zásoby sú mladé chovné zvieratá, zvieratá vo výkrme, psy, ryby, včelstvá, kŕdle sliepok, kačíc, moriek, prepeličiek a husí na výkrm, kožušinové zvieratá
 
 # Tovar
-Tovar sú zásoby, ktoré účtovná jednotka nakupuje s cieľom ich ďalšieho predaja.
+Tovar sú **zásoby**, ktoré účtovná jednotka **nakupuje s cieľom ich ďalšieho predaja**.
 
 Podmienka zadefinovania konkrétnej zásoby ako tovaru je tá, že účtovná jednotka v období medzi nákupom a predajom týchto zásob nezmení ich podobu, nevykoná na nich žiadne technické zhodnotenie, ani ich nepoužíva, ani neprenajíma.
 
@@ -54,22 +54,22 @@ Pri oceňovaní zásob ku dňu, ku ktorému sa zostavuje účtovná závierka (n
 ![Zasoby_3.png](/img/user/06%20-%20Images/School/Zasoby_3.png)
 
 # Účtovanie zásob
-|**Spôsob nadobudnutia zásob**|**Účtová skupina**|
-|---|---|
-|**Nakúpené zásoby**|**11 - Materiál****13 - Tovar**|
-|**Zásoby vytvorené vlastnou činnosťou**|**12 - Zásoby vlastnej výroby**|
-|**Úprava ocenenia**|**19 - Opravné položky k zásobám**|
+| **Spôsob nadobudnutia zásob**       | **Účtová skupina**             |
+| ----------------------------------- | ------------------------------ |
+| Nakúpené zásoby                     | 11 - Materiál                  |
+|                                     | 13 - Tovar                     |
+| Zásoby vytvorené vlastnou činnosťou | 12 - Zásoby vlastnej výroby    |
+| Úprava ocenenia                     | 19 - Opravné položky k zásobám |
+
+Postupy účtovania uvádzajú dva prístupy k účtovaniu obstarania a úbytku nakúpených zásob. Zásoby môže účtovná jednotka účtovať:
+- **Spôsobom A** (je to spôsob založený na priebežnej evidencii zásob) - každý nákup, každý predaj
+- **Spôsobom B** (je to spôsob založený na periodickej evidencii zásob) - účtuje sa rovno do spotreby a až na konci sa zapíšu
 
 # Účtovanie nakúpených zásob
 | **Účtová skupina** | **Účty**                                                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | *11 - Materiál*  | 111 - Obstaranie materiálu<br>112 - Materiál na sklade<br>119 - Materiál na ceste                                        |
 | *13 - Tovar*     | 131 - Obstaranie tovaru<br>132 - Tovar na sklade a v predajniach<br>133 - Nehnuteľnosť na predaj<br>139 - Tovar na ceste |
-
-# Účtovanie zásob
-Postupy účtovania uvádzajú dva prístupy k účtovaniu obstarania a úbytku nakúpených zásob. Zásoby môže účtovná jednotka účtovať:
-- **Spôsobom A** (je to spôsob založený na priebežnej evidencii zásob) - každý nákup, každý predaj
-- **Spôsobom B** (je to spôsob založený na periodickej evidencii zásob) - účtuje sa rovno do spotreby a až na konci sa zapíšu
 
 # Materiál
 
@@ -96,7 +96,7 @@ Skladová karta zásob obsahuje najčastejšie nasledovné údaje:
 
 |**Účtová skupina**|**Účty**|
 |---|---|
-|**12 - Zásoby vlastnej výroby**|121 - Nedokončená výroba<br>122 - Polotovary vlastnej výroby123 - Výrobky<br>124 - Zvieratá|
+|**12 - Zásoby vlastnej výroby**|121 - Nedokončená výroba<br>122 - Polotovary vlastnej výrob<br>123 - Výrobky<br>124 - Zvieratá|
 
 # Inventarizácia zásob
 Inventarizácia pozostáva z dvoch častí, z:

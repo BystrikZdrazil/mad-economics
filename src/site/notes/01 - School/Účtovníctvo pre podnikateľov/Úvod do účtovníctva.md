@@ -78,7 +78,7 @@ Základnou zásadou podvojného účtovníctva v trhovej ekonomike je **zásada 
 
 ## Účtovné závierky spoločností
 - [[01 - School/Účtovníctvo pre podnikateľov/Súvaha\|Súvaha]]
-- Výkaz ziskov a strát
+- [[01 - School/Účtovníctvo pre podnikateľov/Účtovné výkazy#Výkaz ziskov a strát\|Výkaz ziskov a strát]]
 - Poznámky
 
 ### Ďalšie správy
@@ -131,7 +131,8 @@ Zaoberá sa poskytovaním **ekonomických informácií**, ktoré potrebujú riad
 ## Finančné účtovníctvo
 Zaoberá sa poskytovaním ekonomických informácií, ktoré slúžia primárne na rozhodovanie sa externým používateľom. Sú však užitočné aj pre manažérov.
 
-Finančné účtovníctvo --> Vedenie účtovníctva --(sumarizácia informácii)--> účtovná závierka
+>[!info]+
+>**Finančné účtovníctvo** -> **Vedenie účtovníctva** --(sumarizácia informácii)-> **účtovná závierka**
 
 - **Zahŕňa** vedenie účtovníctva a účtovnú závierku
 - **Má** právne stanovený obsah a formu
