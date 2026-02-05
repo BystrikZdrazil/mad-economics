@@ -32,10 +32,10 @@ K - kreativ
 >Bystrík
 
 ## 9/2a
-- [x] Markus
-- [ ] Inka
-- [ ] Tobias
-- [x] Tina
+- **Markus**
+- Inka
+- Tobias
+- **Tina**
 
 ## 9/2b
 1. B
@@ -50,14 +50,14 @@ Wir können den Gutschein Manuela schenken
 Man kann Manuela die konzertkarten schenken
 
 ## 11/3a
-- [ ] das Geld
-- [x] Der Blumenstrauß
-- [x] Der Kochkurs 
-- [ ] Die Flasche Wein
-- [x] Die Massage
-- [x] Die konzertkarten
-- [x] Das Fotobuch
-- [x] Der Gutschein
+- das Geld
+- **Der Blumenstrauß**
+- **Der Kochkurs** 
+- Die Flasche Wein
+- **Die Massage**
+- **Die konzertkarten**
+- **Das Fotobuch**
+- **Der Gutschein**
 
 ## 10/1d
 1. xxxx
