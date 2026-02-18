@@ -7,7 +7,7 @@
 ## Positivism
 - Quantitative research
 
-## Intrpretivism
+## Interpretivism
 - Qualitative research
 - Learning to interpret things
 

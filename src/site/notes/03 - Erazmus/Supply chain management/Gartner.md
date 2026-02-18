@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/03-erazmus/supply-chain-management/gartner/","tags":["erasmus","eraSCM"]}
 ---
 
->[!warning] INCOMPLETE NOTES
->**These notes aren't complete**. This file still needs attention regarding its *content* and/or *formatting*.
->#incomplete
-
 Gartner is an organisation for business leaders that covers SCM
 
 # Top 25 methodology
@@ -25,7 +21,7 @@ Gartner is an organisation for business leaders that covers SCM
 | *Community opinion* | Peer vote                        | 25%           |
 | *Community opinion* | Gardner expert vote              | 25%           |
 
-![[Pasted image 20260130110044.png\|Pasted image 20260130110044.png]]
+![Gartner_point_system.png](/img/user/06%20-%20Images/Erazmus/Gartner_point_system.png)
 
 The ranking is based on pints awarded for both “business metrics” and “community opinion”
 
@@ -49,4 +45,7 @@ ESG points are awarded for the following:
 # Qualitative [[03 - Erazmus/Supply chain management/Benchmarking\|benchmarking]]
 - It is sometimes difficult to benchmark qualitativel
 	- Paradox between **measurability and qualitative values**
-- … …
+	- Can provide a completely different perspective on one's Supply Chain Management when drawing inspiration from the "best in class"
+
+> [!note]
+> With qualitative benchmarking, it is natural to look outside one's own industry/sector (in contrast to quantitative benchmarking).

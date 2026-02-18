@@ -87,7 +87,7 @@ Daň sa vyčísluje mimo účtovníctva - výsledok hospodárenia sa upravuje na
 >1. Spoločnosť A (neplatiteľ DPH) nakupuje tovar od spoločnosti B (neplatiteľ DPH):
 >- Cena za tovar 100 €
 >- Spolu 100 €
->- ![[dane_a_danova_sustava_3.png\|dane_a_danova_sustava_3.png]]
+>- ![dane_a_danova_sustava_3.png](/img/user/06%20-%20Images/School/dane_a_danova_sustava_3.png)
 
 >[!example]+
 >2. Spoločnosť A (platiteľ DPH) nakupuje tovar od spoločnosti B (neplatiteľ DPH):
