@@ -27,7 +27,6 @@ Scale:
 **Total weighted score**: 93 / 100
 
 # BERI Interpretation
-
 - More than 80 → Highly favourable investment environment (advanced economy)
 
 # Market Size Estimation – Draft Beer (On-Trade)
@@ -46,8 +45,7 @@ Key Indicators to Estimate Market Size
 |Craft beer penetration|Increases tap density and system complexity|
 |Replacement cycle (couplings/regulators)|Recurring demand driver|
 
-# Rough Market Size Logic (Illustrative)
-
+# Rough Market Size Logic
 **Assumptions** (conservative, realistic for Singapore):
 - ~7,000–8,000 on-trade outlets
 - ~30–40% serve draft beer

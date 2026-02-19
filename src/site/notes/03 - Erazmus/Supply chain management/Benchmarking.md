@@ -46,7 +46,7 @@
 
 
 
->[!example]+ Key terms and definitions
+>[!abstract]+ Key terms and definitions
 >**Balanced Scorecard (BSC)**
 >A strategic performance management framework that combines financial and nonfinancial measures across four perspectives: Financial, Customer, Internal Process, and Learning & Growth.
 >
@@ -132,7 +132,7 @@
 - Process and learning/growth represent the “how.”
 
 > [!example]
-> - Better employee skills → improved process quality → on‑time delivery → customer retention → higher ROE.
+>- Better employee skills → improved process quality → on‑time delivery → customer retention → higher ROE.
 >- Discount Airlines: faster ground turnaround → on‑time arrivals + higher aircraft utilization → low prices + revenue growth → higher profits.
 
 # Strategy and the BSC
@@ -172,19 +172,69 @@
 - Some companies adopt the full model; others use modified or simplified versions.
 - BSC is especially useful for aligning large, geographically dispersed organizations (e.g., Pioneer Petroleum case).
 
-# Examples
+>[!example]+
+>**Small manufacturing company**
+>- Strategy: low cost, high quality, on‑time delivery.
+>- Linked objectives:
+>	- Improve process cycle time and quality → on‑time delivery + competitive prices → customer retention → increased ROE.
+>
+>**Discount Airlines**
+>- Strategy: low prices + reliable on‑time performance.
+>- Key process: reduce ground turnaround time.
+>- Learning & Growth: train and motivate ground crew.
+>- Customer: attract and retain customers through low prices and punctuality.
+>- Financial: increase profits, ROI, revenue per mile, and asset utilization.
 
-## Small manufacturing company
-- Strategy: low cost, high quality, on‑time delivery.
-- Linked objectives:
-    - Improve process cycle time and quality → on‑time delivery + competitive prices → customer retention → increased ROE.
+# Dos and don'ts
+## 1. Lack of Management Support
+- The Balanced Scorecard (BSC) is **resource‑intensive** and touches the deepest parts of the organization.
+- Without **visible, active executive sponsorship**, the BSC becomes a side project rather than a strategic driver.
+- Leadership must champion the process, allocate resources, and model commitment.
 
-## Discount Airlines
-- Strategy: low prices + reliable on‑time performance.
-- Key process: reduce ground turnaround time.
-- Learning & Growth: train and motivate ground crew.
-- Customer: attract and retain customers through low prices and punctuality.
-- Financial: increase profits, ROI, revenue per mile, and asset utilization.
+## 2. Treating BSC as a One‑Time Project
+- Many organizations assume BSC is something you “implement and finish.”
+- In reality, it is a **continuous strategic management system** requiring ongoing review, refinement, and alignment.
+- Failure occurs when organizations stop after initial setup.
+
+## 3. Poor Communication
+- Employees often don’t understand _why_ the BSC is being implemented or _how_ it affects them.
+- Lack of communication leads to resistance, confusion, and low engagement.
+- Successful BSC requires **transparent, repeated communication** across all levels.
+
+## 4. Too Many Measures
+- Overloading the Scorecard with dozens of KPIs dilutes focus.
+- The BSC should highlight **critical strategic measures**, not everything that can be measured.
+- Too many KPIs → analysis paralysis and loss of strategic clarity.
+
+## 5. No Clear Strategy Map
+- Some organizations jump straight into KPIs without defining the **cause‑and‑effect logic** of their strategy.
+- A Strategy Map is essential to show how objectives connect across perspectives.
+- Without it, KPIs become disconnected metrics rather than a coherent system.
+
+## 6. Lack of Alignment Across Departments
+- Departments may interpret strategy differently or create their own KPIs that don’t support the enterprise strategy.
+- Cascading must be **structured and consistent**, ensuring alignment from top to bottom.
+- Misalignment leads to siloed efforts and conflicting priorities.
+
+## 7. Infrequent Performance Reviews
+- Quarterly or annual reviews are too slow to drive strategic execution.
+- BSC requires **regular (monthly) review cycles**, with weekly operational check‑ins for key processes.
+- Infrequent reviews cause loss of momentum and delayed corrective action.
+
+## 8. Unclear Metrics & Data Problems
+- KPIs must be clearly defined, measurable, and supported by reliable data.
+- Ambiguous metrics or inconsistent data collection undermine trust in the system.
+- Automating data collection and defining ownership improves reliability.
+
+## 9. Focusing Only on Measurement (Not Strategy Execution)
+- Many organizations mistakenly use the BSC as a **reporting tool** rather than a **strategy execution framework**.
+- The BSC is not about tracking numbers—it is about driving strategic change.
+- Without linking KPIs to decisions, initiatives, and resource allocation, the BSC fails.
+
+## 10. Ignoring Change Management
+- Implementing BSC changes how people plan, measure, and make decisions.
+- Without proper change management—training, communication, stakeholder engagement—resistance grows.
+- Successful BSC requires cultural adoption, not just technical setup.
 
 </div></div>
 
