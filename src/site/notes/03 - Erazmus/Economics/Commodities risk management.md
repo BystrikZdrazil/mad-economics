@@ -28,7 +28,7 @@
 - Integrating new processes vertically into the company
 - Helps stabilise the commodity prices and battle shortages
 
->[!example]-
+>[!example]+
 >Shops are being forced to ration lettuce, courgettes and aubergines after floods and storms ruined crops across the Mediterranean.
 >
 >The problem has become so serious that British wholesalers have taken the unusual step of importing produce from California, despite the high cost of transporting it by air.
