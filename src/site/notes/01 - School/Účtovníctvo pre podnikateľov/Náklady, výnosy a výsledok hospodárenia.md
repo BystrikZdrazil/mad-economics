@@ -35,7 +35,7 @@ Náklady a výnosy sa vykazujú v sústave podvojného účtovníctva **vo výka
 
 ## Priamy alebo nepriamy vplyv vzniku nákladu na tok peňažných prostriedkov
 
-![Vznik nakladu.png](/img/user/06%20-%20Images/School/Vznik%20nakladu.png)
+![[Vznik nakladu.png\|Vznik nakladu.png]]
 
 **Náklady** predstavujú zníženie ekonomických úžitkov účtovnej jednotky v účtovnom období, ktoré má za **následok**:
 - **Zníženie majetku** peňažnej aj nepeňažnej povahy
@@ -220,7 +220,7 @@ Z podstaty uvedenej základnej zásady vyplýva, že pre účtovanie vzniku nák
 ## Náklad vzniká pred výdavkom
 - Výdavok môže nastať alebo nastáva až v nasledujúcom účtovnom období - **náklady nedoplatené**
 
-![Naklady nedoplatene.png](/img/user/06%20-%20Images/School/Naklady%20nedoplatene.png)
+![[Naklady nedoplatene.png\|Naklady nedoplatene.png]]
 
 ## Náklad vzniká po výdavku
 - Môže nastať alebo nastáva až v nasledujúcom účtovnom období - **náklady predplatené**
@@ -274,4 +274,4 @@ Zostavuje sa v stanovených peňažných jednotkách, od roku 2009 u podnikateľ
 ## Základná štruktúra výkazu ziskov a strát
 - Vzor pre podnikateľov výkaz ziskov a strát pre malé a veľké účtovné jednotky
 
-![Zakladna struktura vykazu ziskov a strat.png](/img/user/06%20-%20Images/School/Zakladna%20struktura%20vykazu%20ziskov%20a%20strat.png)
+![[Zakladna struktura vykazu ziskov a strat.png\|Zakladna struktura vykazu ziskov a strat.png]]
