@@ -106,3 +106,92 @@ Part of the latest development is also to incorporate various technologies into 
 > It can both be **general** crises/incidents or something **specific** to happen to a given company
 > 
 > Then upload it [here](https://padlet.com/SEAdk/different-kinds-of-risks-scm-asuied5moekq7kcr)
+
+# Reasons for increased risks
+- Causes of Increased Vulnerability (*Internal Risk*)
+	- Focus on efficiency - combine lean with agility
+	- Globalization of supply chains - increases costs and risks
+	- Centralized distribution - products/units must be transported over longer distances
+	- Outsourcing - relinquishing control
+	- Reduction of suppliers - risk of bottlenecks
+
+## External factors
+- Wars
+- Terrorism
+- Pandemics
+- Natural disasters
+
+# Complexity VS risk
+- Risks are also called “*unmanaged negative complexities*”
+- They can therefore be managed or avoided by changing the strategic platform or by adjusting the organisation
+
+![SCM_risk_management_complexity.jpg](/img/user/06%20Images/SCM_risk_management_complexity.jpg)
+
+# Potential risk / vulnerabilities
+- **Supply risk**
+	- Global sourcing, dependencies on core suppliers, poor supplier management
+- **Demand risk**
+	- Bullwhip effect[^1]
+- **Process risk**
+	- Are there bottlenecks?
+- **Control risk**
+	- Early warning systems?
+- **Environmental risk**
+	- External risks - are there places/areas of the supply chain where it might be relevant?
+
+# How to spot risky suppliers
+![[03 Erazmus/03.11 Supply chain management/How to spot risky suppliers.canvas\|How to spot risky suppliers.canvas]]
+
+# How to work with SCRM
+1. **Understand the supply chain** (*map the supply chain*)
+2. **Improve the supply chain** (*reduce complexities*)
+3. Identify the **critical paths** (*links and nodes – can be long lead times, bottlenecks, infrastructure dependencies*)
+4. Manage det **critical paths** (*cause-effect analysis, remove bottlenecks*)
+5. **Improve network visibility** (*information sharing to create more visibility through the SC*)
+6. Establish a **supply chain continuity team** (*interdisciplinary team to identify potential risks moving forward*)
+7. **Work with suppliers** and customers to improve SCRM procedures (*a collaboration to increase understanding of potential vulnerabilities*)
+
+# Why should you work with risk management?
+According to the article “*preparing for evil*” companies that prepare for crises (*instead of “just” fighting them when they occur*) will experience:
+- **Less crises** (*1990-2001: 21 crises compared to 33 crises for other “non-prepared” companies*)
+- **Survive** 24% **longer**
+- Do **better financially** (*double ROI*)
+- Have **better reputation**
+
+# Risk management through the time
+- **Traditional risk management**: focus on demand and supp
+	- Increased stock
+	- IT and communication tools
+	- Long term contracts
+- **Modern risk management**: more focus on agility
+	- Modular products that are able to be differentiated/adapted
+	- Flexible production and contracts
+	- Fast lead times
+	- Dynamic inventory management
+	- Supply chain visibility/information sharing
+	- Interdisciplinary employees
+
+# Discussion
+
+> [!todo] Task
+> Companies should consider risk management from a cost/benefit perspective. Not all companies need a proactive risk management system.
+>
+> What do you think and why?
+> 
+> ---
+> 
+> [[03 Erazmus/03.11 Supply chain management/Risk management discussion\|Risk management discussion]]
+
+# Wheel of crisis
+![SCM_risk_management_wheel.jpg](/img/user/06%20Images/SCM_risk_management_wheel.jpg)
+
+# Bramidan risk analysis
+
+> [!todo] Assignment
+> - Do a risk analysis of Bramidan using the 6 risks/vulnerabilities from [[#Potential risk / vulnerabilities|Christopher]]
+> 	- How can Bramidan work with these to avoid/improve them?
+> - Should Bramidan have an active SCRM strategy?
+
+---
+
+[^1]: A supply chain phenomenon where small fluctuations in consumer demand cause progressively larger, amplified swings in inventory and orders further up the supply chain (from retailers to manufacturers). It results in inefficiencies like excess inventory, high costs, and stockouts due to poor communication and inaccurate forecasting.

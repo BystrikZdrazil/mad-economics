@@ -127,7 +127,11 @@ There may be various tariff/import regulations that make it sufficiently expensi
 - Disadvantages:
 	- Companies may become overly dependent on agents
 	- This may also be conflicts of interest if agents represent multiple companies
+- Paid by commission to promote as much sales as possible
+- When the company wants to get rid of an agent in the EU, they need to offer them at least some money
 
 ### Distributors
 - Assumes responsibility for placing orders and building and maintaining inventory
+	- Company has little to no control over their distributors
 - Not the first choice for many companies that are relatively new and/or have a strong innovation focus
+- They charge their own margins
