@@ -21,7 +21,7 @@
 
 ---
 
-- [ ] (Insert image from [[03 Erazmus/03.07 Project management/03.07.A Assignments/Stakeholder analysis.canvas\|Stakeholder analysis.canvas]])  [due:: 2026-02-19]
+![[03 Erazmus/03.07 Project management/03.07.A Assignments/Stakeholder analysis.canvas\|Stakeholder analysis.canvas]]
 
 # Communication plan
 

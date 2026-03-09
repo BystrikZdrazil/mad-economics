@@ -10,7 +10,7 @@
 - 19\. storočie – MO = hlavná forma MEV
 - Export = rast konkurencieschopnosti, nové zdroje pre investície, rozvoj... ⟶ viac zamestnanosti ⟶ zvýšenie celkovej prosperity krajiny
 - Po vojne – konflikty liberalizácia vs. ochranárstvo (recesia, konkurencia, nerovnováha...)
-- Uruguajské kolo GATT – koniec protekcionistického prehlbovania – vznik [[01 School/01.04 Európska Integrácia v Medzinárodnom Obchode/Význam WTO v procese liberalizácie MO a jej úloha v procese MEI\|WTO]]
+- Uruguajské kolo GATT – koniec protekcionistického prehlbovania – vznik [[01 School/01.05 Európska Integrácia v Medzinárodnom Obchode/Význam WTO v procese liberalizácie MO a jej úloha v procese MEI\|WTO]]
 - Transfery zahraničných investícií – expanzia na zahraničné trhy – vznik TNK – vysoký podiel ovplyvňovania SH
 - Vyvrcholenie zmien v MO = globalizácia
 
