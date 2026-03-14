@@ -11,9 +11,9 @@ Každý záväzkový právny vzťah, teda aj **obchodný záväzkový vzťah sa 
 
 # Druhy obchodných záväzkových vzťahov
 Obchodné záväzkové vzťahy možno deliť na tieto druhy:
-- [[#Relatívne obchodné záväzkové vzťahy]]
-- [[#Absolútne obchodné záväzkové vzťahy]]
-- [[#Fakultatívne obchodné záväzkové vzťahy]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Relatívne obchodné záväzkové vzťahy\|#Relatívne obchodné záväzkové vzťahy]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Absolútne obchodné záväzkové vzťahy\|#Absolútne obchodné záväzkové vzťahy]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Fakultatívne obchodné záväzkové vzťahy\|#Fakultatívne obchodné záväzkové vzťahy]]
 
 ## Relatívne obchodné záväzkové vzťahy
 Za relatívne obchodné záväzkové vzťahy sa považujú tieto záväzkové vzťahy:
@@ -184,19 +184,19 @@ Dôvody zmeny subjektov záväzku:
 Obchodné záväzkové vzťahy **zanikajú v dôsledku existencie určitých právnych skutočností**, s ktorými právo takýto následok spája.
 
 Obchodný zákonník upravuje tieto **spôsoby zániku** obchodného záväzkového vzťahu:
-- [[#Zánik záväzku splnením|Splnenie]]
-- [[#Zánik záväzku započítaním pohľadávky|Započítaním]]
-- [[#Zánik záväzku odstúpením od zmluvy|Odstúpenie od zmluvy]]
-- [[#Zánik záväzku pre dodatočnú nemožnosť plnenia|Dodatočná nemožnosť plnenia]]
-- [[#Zánik záväzku zaplatením odstupného|Odstupné]]
-- [[#Zánik záväzku zmarením účelu zmluvy|Zmarenie účelu zmluvy]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Zánik záväzku splnením\|Splnenie]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Zánik záväzku započítaním pohľadávky\|Započítaním]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Zánik záväzku odstúpením od zmluvy\|Odstúpenie od zmluvy]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Zánik záväzku pre dodatočnú nemožnosť plnenia\|Dodatočná nemožnosť plnenia]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Zánik záväzku zaplatením odstupného\|Odstupné]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Zánik záväzku zmarením účelu zmluvy\|Zmarenie účelu zmluvy]]
 
 ## Zánik záväzku splnením
 **Splnenie** je právny úkon, ktorý sa považuje za **najprirodzenejší spôsob zániku záväzku**, pri ktorom dochádza k uspokojeniu veriteľa poskytnutím plnenia, ktoré zodpovedá obsahu záväzku.
 
 Záväzok zanikne, ak sa veriteľovi splní včas a riadne, pričom
 - **Ak sa záväzok nesplní včas**, dlžník sa dostáva do omeškania
-- **Ak záväzok nie je splnený riadne**, vzniká [[#Zodpovednosť za vady|zodpovednosť za vady]]
+- **Ak záväzok nie je splnený riadne**, vzniká [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Zodpovednosť za vady\|zodpovednosť za vady]]
 
 ## Zánik záväzku započítaním pohľadávky
 Započítanie je spôsob zániku záväzku v prípade pohľadávok, ktoré sa navzájom kryjú.
@@ -242,10 +242,10 @@ Rozlišujeme:
 Ak niektorá zo zmluvných strán poruší svoju povinnosť vyplývajúcu z právneho predpisu alebo zo zmluvy, **dochádza k vzniku nových práv a povinností**, teda k vzniku zodpovednostného vzťahu.
 
 V rámci porušenia obchodných záväzkových vzťahov rozlišujeme:
-- [[#Zodpovednosť za omeškanie]]
-- [[#Zodpovednosť za škodu]]
-- [[#Zodpovednosť za vady]]
-- [[#Zodpovednosť za bezdôvodné obohatenie]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Zodpovednosť za omeškanie\|#Zodpovednosť za omeškanie]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Zodpovednosť za škodu\|#Zodpovednosť za škodu]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Zodpovednosť za vady\|#Zodpovednosť za vady]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Obchodné záväzkové vzťahy#Zodpovednosť za bezdôvodné obohatenie\|#Zodpovednosť za bezdôvodné obohatenie]]
 
 ## Zodpovednosť za omeškanie
 Obchodný zákonník upravuje

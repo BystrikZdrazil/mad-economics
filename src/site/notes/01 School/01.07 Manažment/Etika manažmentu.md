@@ -117,11 +117,11 @@ Stakeholderi sa dajú podľa ich významnosti rozdeliť do dvoch skupín:
 	- **Sekundárni** - nie sú v každodennom kontakte so spoločnosťou
 
 # Základné pojmy
-- [[#Morálka]]
-- [[#Mravnosť]]
-- [[#Morálka a právo]]
-- [[#Etika]]
-- [[#Etiketa]]
+- [[01 School/01.07 Manažment/Etika manažmentu#Morálka\|#Morálka]]
+- [[01 School/01.07 Manažment/Etika manažmentu#Mravnosť\|#Mravnosť]]
+- [[01 School/01.07 Manažment/Etika manažmentu#Morálka a právo\|#Morálka a právo]]
+- [[01 School/01.07 Manažment/Etika manažmentu#Etika\|#Etika]]
+- [[01 School/01.07 Manažment/Etika manažmentu#Etiketa\|#Etiketa]]
 
 ## Morálka
 - **Je normatívna regulácia, spôsob správania sa a konania**

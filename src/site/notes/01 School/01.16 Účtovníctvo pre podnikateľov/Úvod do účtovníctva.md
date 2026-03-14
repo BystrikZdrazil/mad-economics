@@ -14,7 +14,7 @@
 # Podstata účtovníctva
 - Je to najucelenejší systém ekonomických informácii v [[01 School/01.17 Základy Ekonómie/Peniaze\|peňažnom]] vyjadrení
 - Zaznamenáva a v pravidelných intervaloch poskytuje používateľom na prijímanie rozhodnutí
-- Účtovníctvo sa viaže na [[#Účtovná jednotka|účtovnú jednotku]]
+- Účtovníctvo sa viaže na [[01 School/01.16 Účtovníctvo pre podnikateľov/Úvod do účtovníctva#Účtovná jednotka\|účtovnú jednotku]]
 
 **Cieľom účtovníctva** je prostredníctvom účtovnej závierky **poskytovať informácie o finančnej situácii**, **výnosnosti** (finančnej výkonnosti) a o zmenách vo finančnej situácii účtovnej jednotky vždy **za určité časové obdobie** v [[01 School/01.17 Základy Ekonómie/Peniaze\|peňažnom]] vyjadrení rôznym používateľom, ktorí na ich základe prijímajú ekonomické rozhodnutia.
 

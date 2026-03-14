@@ -8,7 +8,7 @@
 
 # Export modes
 
-![ISM_Export_modes_1.jpg](/img/user/ISM_Export_modes_1.jpg)
+![ISM_Export_modes_1.jpg](/img/user/06%20Images/06.01%20Erazmus/ISM_Export_modes_1.jpg)
 ## Indirect
 - Managed through another person/company
 
@@ -42,7 +42,7 @@
 - Enables the companies to offer a better product
 
 # Intermediate modes
-![ISM_Export_modes_2.jpg](/img/user/ISM_Export_modes_2.jpg)
+![ISM_Export_modes_2.jpg](/img/user/06%20Images/06.01%20Erazmus/ISM_Export_modes_2.jpg)
 
 ## Contract manufacturing
 
@@ -99,7 +99,6 @@
 - Less vulnerable to political risks
 - Foreign companies are quickly and easily oriented to each other’s cultures
 
-
 > [!todo] Task
 > Come up with **examples** of JVs that **collapsed** or **didn’t turn out to be successful**.
 > 
@@ -111,10 +110,47 @@
 > 
 > [[03 Erazmus/03.05 International sales & marketing/03.05.A Assignments/Failed joint-ventures\|Failed joint-ventures]]
 
-
 ### Risks
 - One partner can bring the other down
 - Lack of trust
 - No agreement on profit/deficit distribution
 - Different leadership styles
 - Different perceptions of the strategies
+
+# Hierarchical
+![ISM_export_modes_3.png](/img/user/06%20Images/ISM_export_modes_3.png)
+
+The company owns and controls the activities in the market 100%, otherwise it will be considered export mode or intermediate mode
+- Hiring a person in a foreign country
+	- Reports back to the headquarters
+
+> [!example]
+> Resident sales representative Sales Subsidiary Full company with all activities either greenfield or acquisitions
+
+![ISM_total_sales_and_marketing_costs.png](/img/user/06%20Images/ISM_total_sales_and_marketing_costs.png)
+
+| **Pros**                           | **Cons**                    |
+| ---------------------------------- | --------------------------- |
+| Full control                       | Relatively high fixed costs |
+| Control over the positioning       | High risk                   |
+| All the profit goes to the company |                             |
+
+## Greenfield
+
+| **Pros**                                       | **Cons**                   |
+| ---------------------------------------------- | -------------------------- |
+| You can customise the setup you want           | High set-up costs          |
+| 100% integration with the parent company       | Long term liabilities      |
+| Synchronised processes, procedures and systems | Exposed to political risks |
+| Easy transfer of knowledge                     | Slow penetration strategy  |
+
+## Acquisition of established company
+
+| **Pros**                                                  | **Cons**                                          |
+| --------------------------------------------------------- | ------------------------------------------------- |
+| Quick establishment                                       | Often paying an overcharge                        |
+| Gets a competitor out of the market                       | Risk of cultural clash                            |
+| Access to customers, distributors, employees and know-how | Employee exodus                                   |
+|                                                           | Can be slowed down by the competition authorities |
+|                                                           | Synergies may not be realised                     |
+|                                                           | Problems with integration with existing companies |

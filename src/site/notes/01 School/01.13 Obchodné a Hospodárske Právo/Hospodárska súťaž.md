@@ -41,14 +41,14 @@ Pre **naplnenie skutkovej podstaty** nekalej súťaže **musia byť** zároveň 
 - Takéto konanie musí byť spôsobilé privodiť ujmu iným súťažiteľom alebo spotrebiteľom
 
 ## Skutkové podstaty nekalej súťaže
-- [[#Klamlivá reklama]]
-- [[#Klamlivé označenie tovaru alebo služieb]]
-- [[#Vyvolanie nebezpečenstva zámeny]]
-- [[#Parazitovanie na povesti]] podniku, výrobkov alebo služieb iného súťažiteľa
-- [[#Podplácanie]]
-- [[#Zľahčovanie]]
-- [[#Porušenie obchodného tajomstva]]
-- [[#Ohrozovanie zdravia a životného prostredia]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Hospodárska súťaž#Klamlivá reklama\|#Klamlivá reklama]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Hospodárska súťaž#Klamlivé označenie tovaru alebo služieb\|#Klamlivé označenie tovaru alebo služieb]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Hospodárska súťaž#Vyvolanie nebezpečenstva zámeny\|#Vyvolanie nebezpečenstva zámeny]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Hospodárska súťaž#Parazitovanie na povesti\|#Parazitovanie na povesti]] podniku, výrobkov alebo služieb iného súťažiteľa
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Hospodárska súťaž#Podplácanie\|#Podplácanie]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Hospodárska súťaž#Zľahčovanie\|#Zľahčovanie]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Hospodárska súťaž#Porušenie obchodného tajomstva\|#Porušenie obchodného tajomstva]]
+- [[01 School/01.13 Obchodné a Hospodárske Právo/Hospodárska súťaž#Ohrozovanie zdravia a životného prostredia\|#Ohrozovanie zdravia a životného prostredia]]
 
 ### Klamlivá reklama
 O klamlivú reklamu ide, ak sú naplnené tieto znaky:

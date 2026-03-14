@@ -3,14 +3,14 @@
 ---
 
 # Inštitucionálny trojuhoľník EÚ
-- [[#Európsky parlament (EP)]] (ide im o záujem EÚ)
+- [[01 School/01.06 Európska Únia/Inštitúcie EÚ#Európsky parlament (EP)\|#Európsky parlament (EP)]] (ide im o záujem EÚ)
 	- Názory občanov
 	- 705 predstaviteľov
-- [[#Európska komisia (EK)]] (ide im o záujem EÚ)
+- [[01 School/01.06 Európska Únia/Inštitúcie EÚ#Európska komisia (EK)\|#Európska komisia (EK)]] (ide im o záujem EÚ)
 	- Európske názory
 	- Niečo ako vláda
 	- 27 predstaviteľov
-- [[#Rada EÚ]] (ide im o záujem konkrétneho štátu)
+- [[01 School/01.06 Európska Únia/Inštitúcie EÚ#Rada EÚ\|#Rada EÚ]] (ide im o záujem konkrétneho štátu)
 	- Názory vlád členských štátov
 	- 27 predstaviteľov
 

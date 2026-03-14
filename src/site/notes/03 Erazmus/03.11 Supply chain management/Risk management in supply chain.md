@@ -36,7 +36,7 @@ Applying even more proactive approach:
 - *What s the impact of losing a key supplier/customer?*
 
 > [!todo] Task
-> Watch [this video](https://youtu.be/BLAEuVSAlVM?si=fbawrXcilvVJEd-F) (*or read the [[#Risk management basics]]*) and then,
+> Watch [this video](https://youtu.be/BLAEuVSAlVM?si=fbawrXcilvVJEd-F) (*or read the [[03 Erazmus/03.11 Supply chain management/Risk management in supply chain#Risk management basics\|#Risk management basics]]*) and then,
 >
 > Identify and prioritise at least 3 different risks/vulnerabilities that are important for Cocio to handle
 > 
@@ -125,7 +125,7 @@ Part of the latest development is also to incorporate various technologies into 
 - Risks are also called “*unmanaged negative complexities*”
 - They can therefore be managed or avoided by changing the strategic platform or by adjusting the organisation
 
-![SCM_risk_management_complexity.jpg](/img/user/06%20Images/SCM_risk_management_complexity.jpg)
+![SCM_risk_management_complexity.jpg](/img/user/06%20Images/06.01%20Erazmus/SCM_risk_management_complexity.jpg)
 
 # Potential risk / vulnerabilities
 - **Supply risk**
@@ -183,12 +183,12 @@ According to the article “*preparing for evil*” companies that prepare for c
 > [[03 Erazmus/03.11 Supply chain management/Risk management discussion\|Risk management discussion]]
 
 # Wheel of crisis
-![SCM_risk_management_wheel.jpg](/img/user/06%20Images/SCM_risk_management_wheel.jpg)
+![SCM_risk_management_wheel.jpg](/img/user/06%20Images/06.01%20Erazmus/SCM_risk_management_wheel.jpg)
 
 # Bramidan risk analysis
 
 > [!todo] Assignment
-> - Do a risk analysis of Bramidan using the 6 risks/vulnerabilities from [[#Potential risk / vulnerabilities|Christopher]]
+> - Do a risk analysis of Bramidan using the 6 risks/vulnerabilities from [[03 Erazmus/03.11 Supply chain management/Risk management in supply chain#Potential risk / vulnerabilities\|Christopher]]
 > 	- How can Bramidan work with these to avoid/improve them?
 > - Should Bramidan have an active SCRM strategy?
 

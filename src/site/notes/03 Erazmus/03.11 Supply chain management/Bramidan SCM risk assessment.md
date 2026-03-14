@@ -10,7 +10,7 @@
 # Bramidan risk analysis
 
 > [!todo] Assignment
-> - Do a risk analysis of Bramidan using the 6 risks/vulnerabilities from [[#Potential risk / vulnerabilities|Christopher]]
+> - Do a risk analysis of Bramidan using the 6 risks/vulnerabilities from [[03 Erazmus/03.11 Supply chain management/Bramidan SCM risk assessment#Potential risk / vulnerabilities\|Christopher]]
 > 	- How can Bramidan work with these to avoid/improve them?
 > - Should Bramidan have an active SCRM strategy?
 

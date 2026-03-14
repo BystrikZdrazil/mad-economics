@@ -52,7 +52,7 @@
 </ul>
 ```
 ## List item
-- Used in [[#Ordered lists]] and [[#Unordered lists]] for each item
+- Used in [[02 Programming/02.04 HTML/Most common elements#Ordered lists\|#Ordered lists]] and [[02 Programming/02.04 HTML/Most common elements#Unordered lists\|#Unordered lists]] for each item
 ```html
 <li>A list item</li>
 ```
@@ -66,7 +66,7 @@
 ```
 ## Forms
 - Users can login, create posts, make payments and more
-- Done by wrapping one or more [[#Input]] elements
+- Done by wrapping one or more [[02 Programming/02.04 HTML/Most common elements#Input\|#Input]] elements
 ```html
 <form>
 	<p>Text</p>

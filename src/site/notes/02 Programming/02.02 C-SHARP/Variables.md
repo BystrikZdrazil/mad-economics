@@ -78,7 +78,7 @@ long myBankAccountBalance = 9223372036854775807;
 ## float
 - Precision = around 6-9 digits
 - Size = 4 bytes
-- Needs an **f** to be able to function properly, as without it it would be a [[#double]]
+- Needs an **f** to be able to function properly, as without it it would be a [[02 Programming/02.02 C-SHARP/Variables#double\|#double]]
 - Most common in Unity
 ```Cpp
 float age = 20.4f;
