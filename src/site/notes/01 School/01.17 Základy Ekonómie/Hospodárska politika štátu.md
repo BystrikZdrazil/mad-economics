@@ -27,7 +27,7 @@ Hospodárskou politikou nazývame **všetky opatrenia štátu**, ktorými sa ovp
 # Magický štvoruhoľník
 - Vymyslel ho **N. Kaldor**
 - Ideálne by bolo, keby všetky rohy štvoruhoľníka by sa dotýkali okrajov grafu
-![Magicky stvoruholnik.jpeg|600](/img/user/06%20Images/06.06%20School/Magicky%20stvoruholnik.jpeg)
+![Magicky stvoruholnik.jpeg\|600](/img/user/06%20Images/06.06%20School/Magicky%20stvoruholnik.jpeg)
 
 # Nositelia (vykonávatelia) hospodárskej politiky v Slovenskej Republike
 - Vláda a jednotlivé ministerstvá

@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/export-modes/","tags":["erasmus","eraISM"]}
 ---
 
->[!warning] INCOMPLETE NOTES
->**These notes aren’t complete**. This file still needs attention regarding its *content* and/or *formatting*.
->#incomplete
-
 # Export modes
 
 ![ISM_Export_modes_1.jpg](/img/user/06%20Images/06.01%20Erazmus/ISM_Export_modes_1.jpg)
@@ -154,3 +150,5 @@ The company owns and controls the activities in the market 100%, otherwise it wi
 |                                                           | Can be slowed down by the competition authorities |
 |                                                           | Synergies may not be realised                     |
 |                                                           | Problems with integration with existing companies |
+
+![[03 Erazmus/03.05 International sales & marketing/Stay or leave the country matrix.canvas\|Stay or leave the country matrix.canvas]]
