@@ -17,7 +17,7 @@
 	- Attractive export development or incentive programs
 
 # International strategy
-[[03 Erazmus/03.10 Strategic organisational management/International strategy.canvas\|International strategy.canvas]]
+![[03 Erazmus/03.10 Strategic organisational management/International strategy.canvas\|International strategy.canvas]]
 
 # Cultural dimensions
 - *What differences are there?*
@@ -28,7 +28,7 @@
 
 ## Diversification
 ![[03 Erazmus/03.10 Strategic organisational management/The Ansoff Matrix.canvas\|The Ansoff Matrix.canvas]]
-- Several pitfalls
+- **Several pitfalls**
 	- Chosen based on factors that buyers do not recognize
 	- Customer needs are overfulfiled
 	- Company invests into something easily copied
@@ -50,12 +50,12 @@
 
 
 ## Acquisition & Merger
-- Often occur because of a desire for diversification
+- Often occur because of a **desire for diversification**
 - Important elements to take into account before realising this strategy
-	- (Re)structuring and its impact on people and existing business
-	- Size, risk, valuation and purchase price
-	- Maintaining good relationships with key leaders/employees to ensure they stay with the company
-	- Maintaining momentum and interest for both companies throughout the process
+	- (*Re*)structuring and its impact on people and existing business
+	- **Size**, **risk**, **valuation** and **purchase price**
+	- Maintaining **good relationships with key leaders/employees** to ensure they stay with the company
+	- Maintaining **momentum and interest** for **both companies** throughout the process
 
 ![[03 Erazmus/03.10 Strategic organisational management/Effective acquisition strategies.canvas\|Effective acquisition strategies.canvas]]
 
@@ -76,62 +76,68 @@
 > **Key lesson**: Ignoring organizational culture destroys value.
 
 ## Strategic alliances and joint ventures
-- More of “sharing knowledge” instead of buying it directly
-- It is a kind of partnership using a new independent company that owns both parties
+- More of *“sharing knowledge”* instead of buying it directly
+- It is a **kind of partnership** using a new **independent company that owns both parties**
 - Strategic partnership of a joint venture may involve
-	- Direct competitors
-	- Indirect competitors with complementary capabilities
+	- **Direct competitors**
+	- **Indirect competitors** with **complementary** capabilities
 		- The desire for benchmarking and learning
-	- Related companies that share different skills and competencies
+	- **Related companies** that share **different skills** and competencies
 		- May be in the same value chain
 		- The desire to create synergies
 
 ## Franchising
-- Between a franchisee (granted permission) and a franchiser (providing brand name and business concept)
-- Enables rapid growth for the franchisor
-- Often based on geography or location
+- Between a **franchisee** (*granted permission*) and a **franchiser** (*providing brand name and business concept*)
+- Enables **rapid growth for the franchiser**
+- Often based on **geography** or **location**
 
 ## Licensing
-- Company being ranted the right to produce patented products or services
-- Allows the owners of valuable intellectual capital to earn from their knowledge
+- Company being **rented the right to produce patented products** or **services**
+- Allows the owners of valuable intellectual capital to **earn from their knowledge**
 
 # Market entry modes
-In addition to the precious examples of how companies can grow internationally, they can also choose to “do it themselves” meaning growing without the involvement of other companies.
+In addition to the precious examples of how companies can grow internationally, they can also choose to *“do it themselves”* meaning growing without the involvement of other companies.
 
 The stage model refers to the phases that companies often go through in their internationalization process.
 
 ## Direct entry modes
-In some situations where it may be necessary to skip stages in the stage model, because the markets require larger investments to "accept" the company seeking to enter.
+In some situations where it **may be necessary to skip stages** in the stage model, because the markets require larger investments to *"accept"* the company seeking to enter.
 
-There may be various tariff/import regulations that make it sufficiently expensive to export products directly, instead favouring companies that have subsidiaries or production facilities in the country.
+There may be various **tariff/import regulations** that make it sufficiently expensive to export products directly, instead favouring companies that have subsidiaries or production facilities in the country.
 
 ### Options for direct entry
 
-| Agents         | Generate customers on a commission basis                                                            | Exporter’s control is high, but the method involve close management if market coverages is to be achieved   |
-| -------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Distributors   | Take title of goods and earn a profit fro the mark-up, they handle local distribution and marketing | Low level of initial control but offers rapid coverage                                                      |
-| Direct selling | Supply direct to customers who order through catalogues, online or through trade fairs              | Potentially high level of control but lack of country presence may limit penetration                        |
-| Sales office   | Exporter’s own personnel actively targets customers, office handles all sales functions             | Country presence helps develop sales, but dcoverage may not be sufficient for larger markets such as the US |
-| Subsidiary     | Dedicated sales and operations may range from assemblage to locally sourced manufacturing           | … …                                                                                                         |
+| *Agents*         | Generate customers on a commission basis                                                             | Exporter’s control is high, but the method involves close management if market coverages is to be achieved |
+| ---------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| *Distributors*   | Take title of goods and earn a profit from the mark-up, they handle local distribution and marketing | Low level of initial control but offers rapid coverage                                                     |
+| *Direct selling* | Supply direct to customers who order through catalogues, online or through trade fairs               | Potentially high level of control but lack of country presence may limit penetration                       |
+| *Sales office*   | Exporter’s own personnel actively targets customers, office handles all sales functions              | Country presence helps develop sales, but coverage may not be sufficient for larger markets such as the US |
+| *Subsidiary*     | Dedicated sales and operations may range from assemblage to locally sourced manufacturing            | High potential control but coverage can be limited                                                         |
 
 > [!info] Overview of entry modes
 > Remember that when working with **intermediaries**, the exporting company will not have direct control over the distribution network or the customers
 >
-> This may mean that the company does not have the necessary information to perform well in the market (this is particularly relevant for technology-driven businesses with a strong focus on innovation)
+> This may mean that the company **does not have the necessary information to perform well** in the market (*this is particularly relevant for technology-driven businesses with a strong focus on innovation*)
+
+>[!banana]+
+>What is a disadvantage of using a 'Sales Office' as an international market entry mode?
+>
+>Coverage may be **insufficient for very large markets**
+>A single sales office may **struggle to achieve deep penetration** in massive geographical areas like the United States
 
 ## Agent VS Distributor
 - They both operate within defined territories where they resell the company’s products.
 
 ### Agent
-- Good first choice when seeking to enter a new market
+- **Good first choice** when seeking to enter a new market
 - Disadvantages:
-	- Companies may become overly dependent on agents
-	- This may also be conflicts of interest if agents represent multiple companies
-- Paid by commission to promote as much sales as possible
+	- Companies may **become overly dependent** on agents
+	- This may also be **conflicts of interest** if agents represent multiple companies
+- **Paid by commission** to promote as much sales as possible
 - When the company wants to get rid of an agent in the EU, they need to offer them at least some money
 
 ### Distributors
-- Assumes responsibility for placing orders and building and maintaining inventory
-	- Company has little to no control over their distributors
+- Assumes **responsibility for placing orders** and building and maintaining **inventory**
+	- Company has **little to no control over their distributors**
 - Not the first choice for many companies that are relatively new and/or have a strong innovation focus
-- They charge their own margins
+- They **charge** their own **margins**

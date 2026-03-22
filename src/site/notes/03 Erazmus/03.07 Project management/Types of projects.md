@@ -6,20 +6,20 @@
 
 ## Core Idea
 - Projects differ based on:
-    - How well the goals are defined
-    - How well the methods are defined
+    - How well the **goals are defined**
+    - How well the **methods are defined**
 - This creates a 2×2 matrix with four project types
 
 ## Three Breakdown Structures
 - **PBS** – **Product Breakdown Structure**
-    - hierarchy of deliverables (bill of materials)
-    - defines *what* is produced
+    - Hierarchy of deliverables (*bill of materials*)
+    - Defines *what* is produced
 - **OBS** – **Organization Breakdown Structure**
-    - skill/resource types available
-    - usually the most stable structure
+    - Skill/resource types available
+    - Usually the most stable structure
 - **WBS** – **Work Breakdown Structure**
-    - matrix of tasks: activities × deliverables
-    - defines *how* the work is done
+    - Matrix of tasks: activities × deliverables
+    - Defines *how* the work is done
 
 ## Project, Facility & Purpose
 - **Project** = the work (*WBS + OBS*)
@@ -83,15 +83,15 @@
     - Type 2 - Milestones = known goals
     - Type 3 & 4 - Milestones = decision points to refine goals
 - **Configuration management**:
-    - Controls evolving definitions of -
+    - Controls evolving definitions of
         - Goals (*type 3*)
         - Methods (*type 2*)
         - Both (*type 4*)
     - Four steps:
-        - Identification – define configuration items (pbs elements)
-        - Reviews – compare new definitions to baseline
-        - Control – accept or reject changes
-        - Status accounting – record baselines and reasons for changes
+        - **Identification** – define configuration items (*PBS elements*)
+        - **Reviews** – compare new definitions to baseline
+        - **Control** – accept or reject changes
+        - **Status accounting** – record baselines and reasons for changes
 
 # Sinnaps – Types of Projects
 - General project‑management sense

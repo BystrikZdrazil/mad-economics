@@ -38,7 +38,7 @@
 - Prioritize initiatives and allocate resources accordingly.
 - Outcome: a portfolio of initiatives that drive strategic change.
 
-# Scorecard Rollout (after Step 6)
+## Scorecard Rollout
 - Communicate the enterprise‑level scorecard across the organization.
 - Use the scorecard to build understanding, alignment, and engagement.
 - Outcome: employees understand the strategy and how their work contributes.

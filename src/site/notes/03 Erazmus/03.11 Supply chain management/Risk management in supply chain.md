@@ -180,7 +180,7 @@ According to the article “*preparing for evil*” companies that prepare for c
 > 
 > ---
 > 
-> [[03 Erazmus/03.11 Supply chain management/Risk management discussion\|Risk management discussion]]
+> [[03 Erazmus/03.11 Supply chain management/03.11.A Assigmnents/Risk management discussion\|Risk management discussion]]
 
 # Wheel of crisis
 ![SCM_risk_management_wheel.jpg](/img/user/06%20Images/06.01%20Erazmus/SCM_risk_management_wheel.jpg)

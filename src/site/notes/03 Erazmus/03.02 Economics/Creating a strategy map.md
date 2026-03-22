@@ -11,9 +11,11 @@
 ## Targets
 - Targets specify the required performance level.
 - Should represent excellent performance and create distinctive value for customers and shareholders.
-- Example: Discount Airlines set targets of “30 minutes at the gate” and “90% on‑time departures.”
 
-# Creating a Strategy Map
+>[!example]+
+>Discount Airlines set targets of “30 minutes at the gate” and “90% on‑time departures.”
+
+# Strategy Map
 
 ## Purpose
 - Illustrates causal relationships among strategic objectives across the four perspectives.
@@ -25,13 +27,13 @@
 3. **Process perspective** – which internal processes must excel to deliver customer and financial results.
 4. **Learning & Growth perspective** – skills, systems, and culture required to support the processes.
 
-# Financial Perspective
+### Financial Perspective
 
-## Role
+#### Role
 - Contains the ultimate success measures for profit‑seeking companies.
 - Measures whether strategy and execution increase shareholder value.
 
-## Two main drivers
+#### Two main drivers
 1. **Productivity improvements**
     - Lower direct and indirect costs.
     - Improve asset utilization (e.g., reduce inventory, reduce downtime).
@@ -39,16 +41,16 @@
     - Sell more to existing customers.
     - Introduce new products, enter new markets, attract new customers.
 
-## Common financial objectives
+#### Common financial objectives
 - Increase shareholder value
 - Improve cost structure
 - Increase asset utilization
 - Enhance existing customer value
 - Expand revenue opportunities
 
-# Customer Perspective
+### Customer Perspective
 
-## Purpose
+#### Purpose
 - Defines success with targeted customer segments.
 - Typical outcome objectives:
     - Customer satisfaction and loyalty
@@ -56,11 +58,13 @@
     - Market share
     - Customer profitability
 
-## Importance of segmentation
+#### Importance of segmentation
 - Measures must be applied to the **right** customer segments.
-- Example: Walmart measures satisfaction among price‑sensitive customers; luxury retailers measure satisfaction among high‑income customers.
 
-## Value propositions
+>[!example]+
+>Walmart measures satisfaction among price‑sensitive customers; luxury retailers measure satisfaction among high‑income customers.
+
+#### Value propositions
 Companies must define the specific value they offer customers. Three common types:
 1. **Low Total Cost**
     - Low prices
@@ -77,13 +81,13 @@ Companies must define the specific value they offer customers. Three common type
     - Excellent post‑sale service
     - Personalized relationships
 
-# Process Perspective
+### Process Perspective
 
-## Purpose
+#### Purpose
 - Identifies the key processes that create customer value and support financial goals.
 - Four major process groups:
 
-## 1. Operations Management Processes
+#### Operations Management Processes
 - Produce and deliver products/services.
 - Objectives include:
     - Superior supplier capability
@@ -91,41 +95,43 @@ Companies must define the specific value they offer customers. Three common type
     - Improved asset utilization
     - Responsive delivery
 
-## 2. Customer Management Processes
+#### Customer Management Processes
 - Acquire, retain, and grow customers.
 - Objectives include:
     - Acquire new customers
     - Satisfy and retain existing customers
     - Generate growth with customers (cross‑selling, enhanced services)
 
-## 3. Innovation Processes
+#### Innovation Processes
 - Develop new products, services, and processes.
 - Objectives include:
     - Develop innovative offerings
     - Achieve excellence in R&D
 
-## 4. Regulatory and Social Processes
+#### Regulatory and Social Processes
 - Ensure compliance and build reputation.
 - Areas include:
     - Environment
     - Health and safety
     - Employment practices
     - Community investment
-- Strong performance here supports employee attraction, customer trust, and long‑term value.
 
-# Learning and Growth Perspective
+>[!important]+
+>Strong performance here supports employee attraction, customer trust, and long‑term value.
 
-## Purpose
+### Learning and Growth Perspective
+
+#### Purpose
 - Provides the foundation for improving processes and customer outcomes.
 - Focuses on intangible assets:
 
-## Human Resources
+#### Human Resources
 - Skills, talent, training, motivation.
 
-## Information Technology
+#### Information Technology
 - Systems and data that support processes and decision‑making.
 
-## Organizational Culture and Alignment
+#### Organizational Culture and Alignment
 - Shared vision and values
 - Goal alignment
 - Knowledge sharing

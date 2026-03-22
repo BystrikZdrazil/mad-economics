@@ -100,7 +100,7 @@
     - What **motivates** them
 - Supports better collaboration and conflict management
 
-## 5. Adizes PAEI Model
+## Adizes PAEI Model
 - Four leadership roles:
     - **P – Producer** (results-oriented)
     - **A – Administrator** (structure, processes)

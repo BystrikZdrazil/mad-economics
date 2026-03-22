@@ -18,7 +18,7 @@
 # Import and export
 
 > [!example]
-> A weak currency provides a competitive advantages on the world market, and prezident Donaldom Trump was in no way satisfied that the dollar was the strongers currency on the market.
+> A weak currency provides a competitive advantages on the world market, and president Donald Trump was in no way satisfied that the dollar was the strangest currency on the market.
 >
 > In many ways, having a weak currency can be an advantage in the fight for economic growth. The country with the weakest currency had a competitive edge in the global market. Companies can sell their goods more easily, which in turn increases production and employment.
 

@@ -58,7 +58,7 @@ Long term contracts negotiated between a specific buyer and seller can entail th
 - The market price is determined by supply and demand
 - Futures contracts eliminate credit risk
 - Eliminates credit risk
-- Futures markets uses tho mechanisms to prevent buyers and sellers from walking away
+- Futures markets uses two mechanisms to prevent buyers and sellers from walking away
 	- Margin -> money deposited in a trading account as security for trading futures
 	- Marking to market -> daily settlement of gains/losses according to market price changes
 

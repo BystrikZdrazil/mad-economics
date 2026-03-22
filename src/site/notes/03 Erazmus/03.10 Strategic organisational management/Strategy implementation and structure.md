@@ -81,3 +81,29 @@ A company can adopt several different types of structures. These structures can 
 > A good example is the Danish company **Clever**, which has applied a term called “**co-leadership** (medledelse).
 
 ## Scaling up flat organisational structure
+- As in the example of Clever, flat structures are generally more widely used today than in the past – even in larger companies
+- “Self-direction” can facilitate agility, rapid learning, and resilience
+- Companies with this structure are often more democratic and inclusive
+- But how can a company maintain that structure even as it grows?
+- We have just talked about how a shift in structure often occurs when companies grow or develop
+
+# Key factors in a growth perspective
+- The case in the article points out that there are several factors that are important to keep in mind when a company scales (if the goal is to maintain a flat structure):
+- **Organic modular design**
+	- As an organization grows, it needs to be divided into several smaller modules (or “tribes”), each with a high degree of autonomy
+- **Coordination must be enabled** (for example, 3×2)
+	- “You may make any decision you believe is relevant, as long as it contributes to customers, colleagues, and financial performance (3) both today and tomorrow (2)”
+	- The company sets the overall goals and direction, but each “tribe” has a high degree of freedom in deciding how to achieve these goals
+- **Transparency**
+	- Companies with a high degree of “self-direction” are based on trust and an expectation of fairness and equality.
+	- For example, Futurice shares all financial information (salaries, revenue, forecasts, etc.) with everyone, and all employees have their own credit card
+- **AI**
+	- An important tool for ensuring better information and knowledge sharing.
+	- *“Who knows what”*
+- **Agile learning**
+	- A culture that fosters continuous organizational learning.
+	- It is about seizing as many opportunities as possible, but also about celebrating failures.
+	- *“Failing fast”*
+- **A living history**
+	- Culture is often shaped by the company’s history—its origins, owners, and so on—but it is just as important to ensure the presence of “living” stories, meaning stories from the present.
+	- New cultures are just as important as the original ones.

@@ -43,7 +43,7 @@ Targets are important, as without a clear goal it can not be achieved.
 - We need to develop and prioritize strategic initiatives that can help us reach our targets
 
 # From strategy to action
-![[03 Erazmus/03.02 Economics/Targets_canvas.canvas\|Targets_canvas.canvas]]
+![[03 Erazmus/03.02 Economics/03.02.Z Canvases/Targets_graph.canvas\|Targets_graph.canvas]]
 
 1. **Mission**
 	- Why we exist
@@ -116,4 +116,4 @@ The scorecard is treated as a systems or a consulting project
 
 [[03 Erazmus/03.02 Economics/Balanced scorecard\|BSC]] focuses on profitable customer relations and measures of customer performance under the customer perspective and customer management in the internal perspective à we talked about that in chapter 6.
 
-Superior financial performance is the end goal; that requires knowledge of financial control (budgeting, forecasting, resource allocation, [[03 Erazmus/03.02 Economics/Currency risk management\|Currency risk management]], [[03 Erazmus/03.02 Economics/Commodities risk management\|Commodities risk management]])
+Superior financial performance is the end goal; that requires knowledge of financial control ([[03 Erazmus/03.02 Economics/Budget\|budgeting]], [[03 Erazmus/03.02 Economics/Forecasting\|Forecasting]], resource allocation, [[03 Erazmus/03.02 Economics/Currency risk management\|Currency risk management]], [[03 Erazmus/03.02 Economics/Commodities risk management\|Commodities risk management]])

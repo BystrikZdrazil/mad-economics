@@ -17,18 +17,18 @@
 - They both operate within defined territories where they resell the company’s products.
 
 ### Agent
-- Good first choice when seeking to enter a new market
+- **Good first choice** when seeking to enter a new market
 - Disadvantages:
-	- Companies may become overly dependent on agents
-	- This may also be conflicts of interest if agents represent multiple companies
-- Paid by commission to promote as much sales as possible
+	- Companies may **become overly dependent** on agents
+	- This may also be **conflicts of interest** if agents represent multiple companies
+- **Paid by commission** to promote as much sales as possible
 - When the company wants to get rid of an agent in the EU, they need to offer them at least some money
 
 ### Distributors
-- Assumes responsibility for placing orders and building and maintaining inventory
-	- Company has little to no control over their distributors
+- Assumes **responsibility for placing orders** and building and maintaining **inventory**
+	- Company has **little to no control over their distributors**
 - Not the first choice for many companies that are relatively new and/or have a strong innovation focus
-- They charge their own margins
+- They **charge** their own **margins**
 
 </div></div>
 
