@@ -14,8 +14,6 @@
 > 	- How can Bramidan work with these to avoid/improve them?
 > - Should Bramidan have an active SCRM strategy?
 
----
-
 [^1]: A supply chain phenomenon where small fluctuations in consumer demand cause progressively larger, amplified swings in inventory and orders further up the supply chain (from retailers to manufacturers). It results in inefficiencies like excess inventory, high costs, and stockouts due to poor communication and inaccurate forecasting.
 
 

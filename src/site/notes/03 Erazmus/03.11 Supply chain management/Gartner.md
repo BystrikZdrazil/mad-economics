@@ -6,10 +6,10 @@ Gartner is an organisation for business leaders that covers SCM
 
 # Top 25 methodology
 - To be considered for Gartner’s Top 25
-	- Companies that appear on the most recent Fortune Global 500 or Forbes 2000 lists
-	- Companies that generate at least 50% of their revenue from physical products
-	- A minimum annual revenue of USD 15 billion
-	- A minimum ESG score requirement (S&P Global ESG score) in order to be considered
+	- Companies that **appear** on the most **recent Fortune Global 500** or **Forbes 2000** lists
+	- Companies that generate **at least 50%** of their **revenue** from **physical products**
+	- A **minimum** annual **revenue** of **USD 15 billion**
+	- A **minimum ESG score** requirement (*S&P Global ESG score*) in order to be considered
 
 | **Category**        | **Criteria**                     | **Weighting** |
 | ------------------- | -------------------------------- | ------------- |
@@ -43,9 +43,9 @@ ESG points are awarded for the following:
 > - What developments in the criteria do you expect to become relevant over the next 10 years?
 
 # Qualitative [[03 Erazmus/03.11 Supply chain management/Benchmarking\|Benchmarking]]
-- It is sometimes difficult to benchmark qualitativel
+- It is sometimes difficult to benchmark qualitatively
 	- Paradox between **measurability and qualitative values**
-	- Can provide a completely different perspective on one's Supply Chain Management when drawing inspiration from the "best in class"
+	- Can provide a completely different perspective on one's Supply Chain Management when drawing inspiration from the *"best in class"*
 
 > [!note]
-> With qualitative benchmarking, it is natural to look outside one's own industry/sector (in contrast to quantitative benchmarking).
+> With qualitative benchmarking, it is natural to look outside one's own industry/sector (*in contrast to quantitative benchmarking*).

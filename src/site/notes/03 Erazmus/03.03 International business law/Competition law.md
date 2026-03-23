@@ -3,7 +3,7 @@
 ---
 
 
-> [!important] Exam Q
+> [!important] Exam Questions
 > TFEU article **101** (*examples and concerns*) and **102** (*killing competitors and charging a very high markup*)
 > - Need to be able to explain these on the test
 >

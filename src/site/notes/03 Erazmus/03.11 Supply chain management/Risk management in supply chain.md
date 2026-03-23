@@ -6,8 +6,8 @@
 **Risk management** is an intuitive and natural process that can be applied to any situation, from personal decisions to complex organizational projects. Rather than being a strictly bureaucratic or statistical exercise, it is built around asking and answering **six basic questions**:
 1. **What are we trying to achieve?** This first step involves **objective setting**, where you define the scope, context, and environment of your goal.
 2. **What might affect us?** This is **risk identification**, focusing on future uncertainties that could either hinder your progress or provide helpful opportunitie.
-3. **Which are the most important?** During **risk assessment**, you prioritize risks based on two dimensions: how likely they are to happen and what effect (positive or negative) they would have on your goals.
-4. **What should we do about it?** This involves **designing responses**. For "bad risks" (threats), you aim to avoid or minimize them; for "good risks" (opportunities), you look for ways to exploit or maximize them.
+3. **Which are the most important?** During **risk assessment**, you prioritize risks based on two dimensions: how likely they are to happen and what effect (*positive or negative*) they would have on your goals.
+4. **What should we do about it?** This involves **designing responses**. For *"bad risks"* (*threats*), you aim to avoid or minimize them; for *"good risks"* (*opportunities*), you look for ways to exploit or maximize them.
 5. **Did it work?** Because planned actions don't always achieve the intended result, you must monitor your progress and **modify your approach** if necessary.
 6. **What has changed?** Projects and businesses are dynamic, so it is vital to continuously spot **new risks** that have arisen since the last time you took action.
 
@@ -47,7 +47,7 @@ Applying even more proactive approach:
 > [[03 Erazmus/03.11 Supply chain management/03.11.A Assigmnents/Cocio risk management\|Cocio risk management]]
 
 # Supply chain risk management
-It refers to the strategies that companies/supply chains use to identify and manage risk in the supply chain.
+It refers to the **strategies** that companies/supply chains use to **identify** and **manage risk** in the supply chain.
 
 > [!example]
 > **Increased visibility** between suppliers and customers through information sharing
@@ -83,7 +83,7 @@ It refers to the strategies that companies/supply chains use to identify and man
 |                        |                                         | Uncertainty about the payment cycle              | Non-compliance or extensions in payment cycles that can cause delays in the firm’s short-term commitments                                                            |
 |                        |                                         | Uncertainty about the firm’s financial health    | Incomplete or out-of-date financial and accounting records, with low information quality                                                                             |
 
-> [!quote] Title
+> [!quote]
 > There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns – the ones we don’t know we don’t know…
 >
 > - *Donald Rumsfeld, 2002*
@@ -108,12 +108,12 @@ Part of the latest development is also to incorporate various technologies into 
 > Then upload it [here](https://padlet.com/SEAdk/different-kinds-of-risks-scm-asuied5moekq7kcr)
 
 # Reasons for increased risks
-- Causes of Increased Vulnerability (*Internal Risk*)
-	- Focus on efficiency - combine lean with agility
-	- Globalization of supply chains - increases costs and risks
-	- Centralized distribution - products/units must be transported over longer distances
-	- Outsourcing - relinquishing control
-	- Reduction of suppliers - risk of bottlenecks
+- Causes of **Increased Vulnerability** (*Internal Risk*)
+	- **Focus on efficiency** - combine lean with agility
+	- **Globalization of supply chains** - increases costs and risks
+	- **Centralized distribution** - products/units must be transported over longer distances
+	- **Outsourcing** - relinquishing control
+	- **Reduction of suppliers** - risk of bottlenecks
 
 ## External factors
 - Wars
@@ -122,8 +122,8 @@ Part of the latest development is also to incorporate various technologies into 
 - Natural disasters
 
 # Complexity VS risk
-- Risks are also called “*unmanaged negative complexities*”
-- They can therefore be managed or avoided by changing the strategic platform or by adjusting the organisation
+- Risks are also called *“unmanaged negative complexities”*
+- They can therefore be **managed or avoided** by changing the **strategic** platform or by **adjusting the organisation**
 
 ![SCM_risk_management_complexity.jpg](/img/user/06%20Images/06.01%20Erazmus/SCM_risk_management_complexity.jpg)
 
@@ -146,20 +146,20 @@ Part of the latest development is also to incorporate various technologies into 
 1. **Understand the supply chain** (*map the supply chain*)
 2. **Improve the supply chain** (*reduce complexities*)
 3. Identify the **critical paths** (*links and nodes – can be long lead times, bottlenecks, infrastructure dependencies*)
-4. Manage det **critical paths** (*cause-effect analysis, remove bottlenecks*)
+4. Manage the **critical paths** (*cause-effect analysis, remove bottlenecks*)
 5. **Improve network visibility** (*information sharing to create more visibility through the SC*)
 6. Establish a **supply chain continuity team** (*interdisciplinary team to identify potential risks moving forward*)
 7. **Work with suppliers** and customers to improve SCRM procedures (*a collaboration to increase understanding of potential vulnerabilities*)
 
 # Why should you work with risk management?
-According to the article “*preparing for evil*” companies that prepare for crises (*instead of “just” fighting them when they occur*) will experience:
+According to the article *“preparing for evil”* companies that **prepare for crises** (*instead of “just” fighting them when they occur*) will experience:
 - **Less crises** (*1990-2001: 21 crises compared to 33 crises for other “non-prepared” companies*)
 - **Survive** 24% **longer**
 - Do **better financially** (*double ROI*)
 - Have **better reputation**
 
 # Risk management through the time
-- **Traditional risk management**: focus on demand and supp
+- **Traditional risk management**: focus on demand and supply
 	- Increased stock
 	- IT and communication tools
 	- Long term contracts
@@ -191,7 +191,5 @@ According to the article “*preparing for evil*” companies that prepare for c
 > - Do a risk analysis of Bramidan using the 6 risks/vulnerabilities from [[03 Erazmus/03.11 Supply chain management/Risk management in supply chain#Potential risk / vulnerabilities\|Christopher]]
 > 	- How can Bramidan work with these to avoid/improve them?
 > - Should Bramidan have an active SCRM strategy?
-
----
 
 [^1]: A supply chain phenomenon where small fluctuations in consumer demand cause progressively larger, amplified swings in inventory and orders further up the supply chain (from retailers to manufacturers). It results in inefficiencies like excess inventory, high costs, and stockouts due to poor communication and inaccurate forecasting.
