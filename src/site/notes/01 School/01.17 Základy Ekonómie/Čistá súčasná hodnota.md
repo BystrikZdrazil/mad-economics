@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/cista-sucasna-hodnota/","tags":["year1","winterSemester","uniZEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/cista-sucasna-hodnota/","tags":["year1","winterSemester","uniZEK"],"dg-note-properties":{"Date":"2024-12-24","Schoolyear":1,"Semester":"Winter","Class":"Economy Basics","tags":["year1","winterSemester","uniZEK"]}}
 ---
 
 
@@ -11,11 +11,11 @@
 # Súčasná hodnota
 Osviežme si teda výpočet súčasnej hodnoty €100 ktorý obdržíme o jeden rok, pri predpoklade úrokovej sadzby (diskontná sadzba, či výnos obetovanej príležitosti) 5%:
 
-$SH = 100/1.05 = 95.24$
+$$SH = 100/1.05 = 95.24$$
 
 Aká bude súčasná hodnota €100 ktoré obdržíme o dva roky pri nezmenenej úrokovej sadzbe 5%?
 
-$SH = 100/(1.05*1.05) = 100/1.05² = 90.7$
+$$SH = 100/(1.05*1.05) = 100/1.05² = 90.7$$
 
 €100 musíme deliť diskontnou sadzbou dva krát, lebo 1.05² (čo je 1.1025) je úroková sadzba za obdobie dvoch rokov, ktorú dostaneme od banky za predpokladu 5% p.a. Keď sme „ročný cash-flow diskontovali ročnou sadzbou (5%), musíme „dvojročný“ cash-flow diskontovať dvojročnou sadzbou (10.25%). V tomto momente je nám jasné, akú hodnotu má cenný papier (či iné aktívum), ktoré nám vygeneruje €100 o rok a €100 o dva roky; €95.24 + €90.7 = €185.94
 
@@ -23,7 +23,7 @@ $SH = 100/(1.05*1.05) = 100/1.05² = 90.7$
 
 Mohli by sme podobným spôsobom oceňovať aktíva generujúce cash-flow tri, štyri, či viac rokov:
 
-$SH = C1/(1+r) + C2/(1+r)² + C3/(1+r)³ +...$
+$$SH = C1/(1+r) + C2/(1+r)² + C3/(1+r)³ +...$$
 
 Túto techniku nazývame **diskontovaný cash-flow**, inak povedané počítame súčasnú hodnotu každého budúceho cash-flow, po čom ich možme jednoducho spočítať. Aby sme sčítavali jablká s jablkami, musíme najprv nájsť hodnotu všetkých cash-flow plynúcich v rôznych obdobiach, v istom čase a až po tom ich sčítať. **V našom prípade môžme povedať, že pri 5% ročnom úroku nám je prakticky jedno či dostaneme € 185.94 dnes alebo € 100 o rok a € 100 o dva roky.**
 
@@ -38,14 +38,14 @@ Vidíme, že pri dnešnej investícii do pozemku €50,000, nákladoch €410,00
 
 Predpokladajme teda opäť ročný úrok v banke 5%, čiže máme možnosť si svoje [[01 School/01.17 Základy Ekonómie/Peniaze\|Peniaze]] vložiť do banky za tento úrok alebo kúpiť prasiatko. K oceneniu takéhoto prasiatka (aktíva) nám pomôže jednoduchá otázka: „Akú sumu by som musel vložiť do banky, aby mi z tohoto vkladu každý rok plynulo €100?“. Odpoveď na túto otazku je vlastne odpoveďou na našu pôvodnú: „Akú hodnotu má naše prasiatko?“. Hodnota našej perpetuity je teda €2,000. Predstavme si vklad €2,000 do banky pri úroku 5%, pričom s istinou nebudeme hýbať a ročné úroky si zakaždým zoberieme domov. O rok dostaneme úrok €100, ktoré si vyberiem a istinu nechám v banke ďalej pracovať, o dva roky inkasujem opäť €100 atď., až „do nekonečna“. Za prasiatko sme teda ochotní zaplatiť €2,000.
 
-$SH = cash-flow / r (diskontná sadzba)$
+$$SH = cash-flow / r (diskontná sadzba)$$
 
 Pre náš prípad: SH = €100 / 0.05 = €2,000. Opäť, pri 5% úroku p.a. je nám jedno či dostaneme €2,000 dnes alebo €100 každý rok do nekonečna.
 
 # Anuita
 **Anuita je tok nemenného cash-flow, ktorý plynie počas ohraničeného obdobia**. Klasický príklad anuity je hypotéka (ku ktorej sa ešte vrátime), kde platíme fixnú čiastku počas niekoľkých rokov (x 12 mesiacov). Anuita je ale napríklad aj splátka auta, pri tretinovom financovaní, o čom sme hovorili úplne na začiatku našej debaty. Ako na všetko, aj na anuitu máme vzorec, ktorého hlavnou úlohou je, aby nám uľahčil výpočet – namiesto diskontovania povedzme desiatich cash-flow počas 10 rokov, použijeme jednoducho vzorec:
 
-$SH anuity = {1/r – 1/(r(1+r)ª)} * cashflow$
+$$SH anuity = {1/r – 1/(r(1+r)ª)} * cashflow$$
 
 a – počet periód počas ktorých nám plynie cash-flow
 

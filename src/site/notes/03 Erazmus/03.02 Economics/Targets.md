@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-02-economics/targets/","tags":["erasmus","eraECO"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-02-economics/targets/","tags":["erasmus","eraECO"],"dg-note-properties":{"Date":"2026-02-02","Class":"Economics","tags":["erasmus","eraECO"]}}
 ---
 
 What is measured usually is also achieved easier. Targets establish the level of performance or rate of improvement required for a measure (KPI)
@@ -43,7 +43,7 @@ Targets are important, as without a clear goal it can not be achieved.
 - We need to develop and prioritize strategic initiatives that can help us reach our targets
 
 # From strategy to action
-![[03 Erazmus/03.02 Economics/03.02.Z Canvases/Targets_graph.canvas\|Targets_graph.canvas]]
+![[Targets_graph.canvas\|Targets_graph.canvas]]
 
 1. **Mission**
 	- Why we exist

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-04-html/correct-html/"}
+{"dg-publish":true,"permalink":"/02-programming/02-04-html/correct-html/","dg-note-properties":{}}
 ---
 
 # How does a correct HTML document look like

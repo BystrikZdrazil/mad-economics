@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/europska-zelena-dohoda/","tags":["year1","winterSemester","uniEU"]}
+{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/europska-zelena-dohoda/","tags":["year1","winterSemester","uniEU"],"dg-note-properties":{"Date":"2024-11-05","Schoolyear":1,"Semester":"Winter","Class":"European Union","tags":["year1","winterSemester","uniEU"]}}
 ---
 
 Je to dohoda medzi všetkými štátmi EU o dosahovaní čo najnižších emisií a ochrane životného prostredia.

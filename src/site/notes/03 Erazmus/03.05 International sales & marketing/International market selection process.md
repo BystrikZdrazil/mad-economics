@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/international-market-selection-process/","tags":["erasmus","eraISM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/international-market-selection-process/","tags":["erasmus","eraISM"],"dg-note-properties":{"Date":"2026-02-04","Class":"International sales & marketing","tags":["erasmus","eraISM"]}}
 ---
 
 - [[03 Erazmus/03.05 International sales & marketing/Internationalisation\|Internationalisation]] is a structured process
@@ -33,18 +33,18 @@
 | *Professional services & contractors*     | 0.5        |                  |                    |
 
 # Market attractiveness matrix
-![ISM_market_attractiveness_matrix.png](/img/user/06%20Images/ISM_market_attractiveness_matrix.png)
+![ISM_market_attractiveness_matrix.png](/img/user/06%20Images/06.01%20Erazmus/ISM_market_attractiveness_matrix.png)
 
-![ISM_macro_to_micro_market_selection.png](/img/user/06%20Images/ISM_macro_to_micro_market_selection.png)
+![ISM_macro_to_micro_market_selection.png](/img/user/06%20Images/06.01%20Erazmus/ISM_macro_to_micro_market_selection.png)
 
-![ISM_international_market_screening_process.png](/img/user/06%20Images/ISM_international_market_screening_process.png)
+![ISM_international_market_screening_process.png](/img/user/06%20Images/06.01%20Erazmus/ISM_international_market_screening_process.png)
 
 >[!example]+
 >**Bosh security systems in the Middle East**
->![ISM_bosch_security_systems_funnel.png](/img/user/06%20Images/ISM_bosch_security_systems_funnel.png)
->![ISM_bosch_security_systems_table_1.png](/img/user/06%20Images/ISM_bosch_security_systems_table_1.png)
->![ISM_bosch_security_systems_table_2.png](/img/user/06%20Images/ISM_bosch_security_systems_table_2.png)
->![ISM_bosch_security_systems_table_3.png](/img/user/06%20Images/ISM_bosch_security_systems_table_3.png)
+>![ISM_bosch_security_systems_funnel.png](/img/user/06%20Images/06.01%20Erazmus/ISM_bosch_security_systems_funnel.png)
+>![ISM_bosch_security_systems_table_1.png](/img/user/06%20Images/06.01%20Erazmus/ISM_bosch_security_systems_table_1.png)
+>![ISM_bosch_security_systems_table_2.png](/img/user/06%20Images/06.01%20Erazmus/ISM_bosch_security_systems_table_2.png)
+>![ISM_bosch_security_systems_table_3.png](/img/user/06%20Images/06.01%20Erazmus/ISM_bosch_security_systems_table_3.png)
 
 >[!todo]+ Task
 > Micro – Matic is the world leader in keg couplings and regulators for beverages such as wine, beer and soft drinks.

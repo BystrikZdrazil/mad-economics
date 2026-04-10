@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/project-manager/","tags":["erasmus","eraPM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/project-manager/","tags":["erasmus","eraPM"],"dg-note-properties":{"Date":"2026-02-02","Class":"Project Management","tags":["erasmus","eraPM"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/03-05-a-assignments/failed-joint-ventures/","tags":["erasmus"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/03-05-a-assignments/failed-joint-ventures/","tags":["erasmus"],"dg-note-properties":{"Date":"2026-03-02","Class":"International sales & marketing","tags":["erasmus"]}}
 ---
 
 Joint ventures (JVs) are a lot like corporate marriages: they start with high hopes and expensive champagne, but often end in a messy, public divorce. When two massive entities try to share a toothbrush, friction is almost inevitable.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-08-marketing/produkt-a-znacka/","tags":["year1","winterSemester","uniMRK"]}
+{"dg-publish":true,"permalink":"/01-school/01-08-marketing/produkt-a-znacka/","tags":["year1","winterSemester","uniMRK"],"dg-note-properties":{"Date":"2024-11-04","Schoolyear":1,"Semester":"Winter","Class":"Marketing","tags":["year1","winterSemester","uniMRK"]}}
 ---
 
 > [!note]

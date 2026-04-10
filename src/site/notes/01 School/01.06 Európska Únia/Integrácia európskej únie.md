@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/integracia-europskej-unie/","tags":["year1","winterSemester","uniEU"]}
+{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/integracia-europskej-unie/","tags":["year1","winterSemester","uniEU"],"dg-note-properties":{"Date":"2024-09-30","Schoolyear":1,"Semester":"Winter","Class":"European Union","tags":["year1","winterSemester","uniEU"]}}
 ---
 
 # Prečo začala integrácia v Európe?

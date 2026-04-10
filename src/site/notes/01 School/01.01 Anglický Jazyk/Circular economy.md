@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/circular-economy/","tags":["year1","winterSemester","uniANJ"]}
+{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/circular-economy/","tags":["year1","winterSemester","uniANJ"],"dg-note-properties":{"Date":"2024-11-05","Schoolyear":1,"Semester":"Winter","Class":"English","tags":["year1","winterSemester","uniANJ"]}}
 ---
 
 In the European Union, the concept of the circular economy has gained significant traction in recent years, and various partnerships and projects have been created to foster collaboration and advance circular practices across different industries. These initiatives often focus on sustainability, resource efficiency, waste reduction, and promoting the reuse and recycling of materials. Here are some notable partnerships and projects that support collaboration within circular economies in the EU:

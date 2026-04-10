@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/trhovy-mechanizmus/","tags":["year1","winterSemester","uniZEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/trhovy-mechanizmus/","tags":["year1","winterSemester","uniZEK"],"dg-note-properties":{"Date":"2024-09-26","Schoolyear":1,"Semester":"Winter","Class":"Economy Basics","tags":["year1","winterSemester","uniZEK"]}}
 ---
 
 Ekonómia je veda ktorá skúma ako spoločnosť využíva vzácne zdroje na výrobu tovarov alebo na poskytovanie služieb a ako tieto tovary rozdeľuje medzi skupiny v spoločnosti.

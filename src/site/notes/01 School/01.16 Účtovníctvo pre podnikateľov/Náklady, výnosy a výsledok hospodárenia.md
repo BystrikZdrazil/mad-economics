@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-16-uctovnictvo-pre-podnikatelov/naklady-vynosy-a-vysledok-hospodarenia/","tags":["year2","winterSemester","uniUpP"]}
+{"dg-publish":true,"permalink":"/01-school/01-16-uctovnictvo-pre-podnikatelov/naklady-vynosy-a-vysledok-hospodarenia/","tags":["year2","winterSemester","uniUpP"],"dg-note-properties":{"Date":"2025-10-01","Schoolyear":2,"Semester":"Winter","Class":"Accounting for Entrepreneurs","tags":["year2","winterSemester","uniUpP"]}}
 ---
 
 **Náklady** podniku predstavujú vynaloženie ekonomických zdrojov za účelom vytvorenia finálnych výkonov (výrobkov, prác, služieb) v peňnžnom vyjadrení.

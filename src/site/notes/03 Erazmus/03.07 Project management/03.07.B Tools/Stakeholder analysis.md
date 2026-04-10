@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/03-07-b-tools/stakeholder-analysis/","tags":["erasmus","eraPM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/03-07-b-tools/stakeholder-analysis/","tags":["erasmus","eraPM"],"dg-note-properties":{"Date":"2026-02-18","Class":"Project Management","tags":["erasmus","eraPM"]}}
 ---
 
 # Purpose

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/competition-and-collaboration/","tags":["erasmus","eraISM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/competition-and-collaboration/","tags":["erasmus","eraISM"],"dg-note-properties":{"Date":"2026-02-13","Class":"International sales & marketing","tags":["erasmus","eraISM"]}}
 ---
 
 # Collaboration vs. Competition
 - Competition = desirable - It leads to innovation, promotion of growth and creativity, lowers prices, improves the quality of products and services
-- Collaboration = relationship between two or more competing companies with the purpose of gaining a benefit (all parties)
-    - Increasingly common - Even for hypercompetitive companies (**e.g. Musk & bezos**)
+- Collaboration = relationship between two or more competing companies with the purpose of gaining a benefit (*all parties*)
+    - Increasingly common - Even for hypercompetitive companies (*e.g. Musk & bezos*)
     - Can be a smart strategy, but also a double-edged sword → competition doesn’t eliminate competition, it reframes the landscape so all parties can gain
     - All parties give and take
     - All parties benefit without compromising each other’s competitive position in the industry
@@ -18,7 +18,7 @@
     - **e.g. Airline networks**
 - Meeting customer requirements → customers often demand integrated solutions that require cooperation between rivals
     - **e.g. Sap running on oracle infrastructure**
-- Sharing risk → large & complex projects (**e.g. National infrastructure**) are too big for one company to handle
+- Sharing risk → large & complex projects (*e.g. National infrastructure*) are too big for one company to handle
 - Gain insight into the partner’s business model and strategies
 - Strengthen competitive advantages or core competencies
 - Collaboration makes sense when it creates value for all the parties and involves non-differentiating processes
@@ -52,6 +52,6 @@ Both partners' **market size and power are modest** compared to the industry's l
 - Socialize before collaborating
 - Agree on clear rules for the collaboration & ‘swim lanes’ → where we compete and where we cooperate
 - Set escalation paths for conflict resolution
-- Enable information flow (controlled)
+- Enable information flow (*controlled*)
 - Align internal stakeholders early → avoiding sabotage
 - Build trust

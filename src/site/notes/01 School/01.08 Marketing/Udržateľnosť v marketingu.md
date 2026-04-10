@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-08-marketing/udrzatelnost-v-marketingu/","tags":["year1","winterSemester","uniMRK"]}
+{"dg-publish":true,"permalink":"/01-school/01-08-marketing/udrzatelnost-v-marketingu/","tags":["year1","winterSemester","uniMRK"],"dg-note-properties":{"Date":"2024-11-25","Schoolyear":1,"Semester":"Winter","Class":"Marketing","tags":["year1","winterSemester","uniMRK"]}}
 ---
 
 # Produktová filozofia (1950 - 1970)

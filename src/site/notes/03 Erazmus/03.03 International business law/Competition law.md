@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-03-international-business-law/competition-law/","tags":["erasmus"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-03-international-business-law/competition-law/","tags":["erasmus"],"dg-note-properties":{"Date":"2026-01-28","Class":"International business law","tags":["erasmus"]}}
 ---
 
 

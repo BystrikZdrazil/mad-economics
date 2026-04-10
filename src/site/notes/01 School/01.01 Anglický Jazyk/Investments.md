@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/investments/","tags":["year1","winterSemester","uniANJ"]}
+{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/investments/","tags":["year1","winterSemester","uniANJ"],"dg-note-properties":{"Date":"2024-12-03","Schoolyear":1,"Semester":"Winter","Class":"English","tags":["year1","winterSemester","uniANJ"]}}
 ---
 
 # Investment ideas for the **youth**

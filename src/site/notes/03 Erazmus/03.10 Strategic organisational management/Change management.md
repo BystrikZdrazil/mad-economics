@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-10-strategic-organisational-management/change-management/","tags":["erasmus","eraSOM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-10-strategic-organisational-management/change-management/","tags":["erasmus","eraSOM"],"dg-note-properties":{"Date":"2026-03-04","Class":"Strategic organisational management","tags":["erasmus","eraSOM"]}}
 ---
 
 Change management is a research field, and there are a lot of theories related to it. The ones we draw on hee are therefore only a small glimpse into a very large field.

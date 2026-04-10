@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-11-medzinarodny-obchod/uvod-mo/","tags":["year2","winterSemester","uniMO"]}
+{"dg-publish":true,"permalink":"/01-school/01-11-medzinarodny-obchod/uvod-mo/","tags":["year2","winterSemester","uniMO"],"dg-note-properties":{"Date":"2025-09-15","Schoolyear":2,"Semester":"Winter","Class":"International Trade","tags":["year2","winterSemester","uniMO"]}}
 ---
 
 - Prednášky su klucove ku skúške

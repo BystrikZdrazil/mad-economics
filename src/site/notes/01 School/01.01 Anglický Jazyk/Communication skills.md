@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/communication-skills/","tags":["year1","summerSemester","uniANJ"]}
+{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/communication-skills/","tags":["year1","summerSemester","uniANJ"],"dg-note-properties":{"Date":"2025-02-18","Schoolyear":1,"Semester":"Summer","Class":"English","tags":["year1","summerSemester","uniANJ"]}}
 ---
 
 Data-driven - fully complying to customer feedback

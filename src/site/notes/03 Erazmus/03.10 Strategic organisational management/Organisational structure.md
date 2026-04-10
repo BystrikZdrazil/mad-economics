@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-10-strategic-organisational-management/organisational-structure/","tags":["erasmus","eraSOM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-10-strategic-organisational-management/organisational-structure/","tags":["erasmus","eraSOM"],"dg-note-properties":{"Date":"2026-02-04","Class":"Strategic organisational management","tags":["erasmus","eraSOM"]}}
 ---
 
 It is essential that a company’s **strategy** and **structure** are aligned. They are crucial for how the company can translate its vision into action.

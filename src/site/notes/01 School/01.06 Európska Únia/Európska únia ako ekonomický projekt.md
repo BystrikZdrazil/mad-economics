@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/europska-unia-ako-ekonomicky-projekt/","tags":["year1","winterSemester","uniEU"]}
+{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/europska-unia-ako-ekonomicky-projekt/","tags":["year1","winterSemester","uniEU"],"dg-note-properties":{"Date":"2024-10-21","Schoolyear":1,"Semester":"Winter","Class":"European Union","tags":["year1","winterSemester","uniEU"]}}
 ---
 
 *Balassa veril, že vytváraním národných spoločných trhov s voľným pohybom výrobných faktorov sa prirodzene vytvára dopyt po ďalšej forme integrácie, a to nielen ekonomickej, ale aj politickej.*

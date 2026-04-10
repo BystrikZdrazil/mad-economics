@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/portfolio-management/","tags":["erasmus","eraPM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/portfolio-management/","tags":["erasmus","eraPM"],"dg-note-properties":{"Date":"2026-03-09","Class":"Project Management","tags":["erasmus","eraPM"]}}
 ---
 
 Portfolio management is a **dynamic decision process** where a business’s list of active projects is continuously updated, evaluated, selected, prioritized, accelerated, killed, or resourced

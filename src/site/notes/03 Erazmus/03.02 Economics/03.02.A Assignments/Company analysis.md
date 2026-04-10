@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-02-economics/03-02-a-assignments/company-analysis/","tags":["erasmus","eraECO"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-02-economics/03-02-a-assignments/company-analysis/","tags":["erasmus","eraECO"],"dg-note-properties":{"Date":"2026-01-19","Class":"Economics","tags":["erasmus","eraECO"]}}
 ---
 
 # Our company
@@ -20,7 +20,6 @@
 	- Goodwill
 	- Investments
 	- Income taxes
-	- …
 - Auditors report
 - Controls and procedures
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-11-medzinarodny-obchod/globalizacia-v-ramci-medzinardneho-podnikania/","tags":["year2","winterSemester","uniMO"]}
+{"dg-publish":true,"permalink":"/01-school/01-11-medzinarodny-obchod/globalizacia-v-ramci-medzinardneho-podnikania/","tags":["year2","winterSemester","uniMO"],"dg-note-properties":{"Date":"2025-09-17","Schoolyear":2,"Semester":"Winter","Class":"International Trade","tags":["year2","winterSemester","uniMO"]}}
 ---
 
 [[Globalizácia vo Svetovom hospodárstve\|Globalizácia vo Svetovom hospodárstve]]

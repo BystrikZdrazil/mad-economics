@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-14-podpora-zahranicneho-obchodu/uvod-pzo/","tags":["year2","winterSemester","uniPZO"]}
+{"dg-publish":true,"permalink":"/01-school/01-14-podpora-zahranicneho-obchodu/uvod-pzo/","tags":["year2","winterSemester","uniPZO"],"dg-note-properties":{"Date":"2025-09-15","Schoolyear":2,"Semester":"Winter","Class":"Support for International Trade","tags":["year2","winterSemester","uniPZO"]}}
 ---
 
 # Prezentácia

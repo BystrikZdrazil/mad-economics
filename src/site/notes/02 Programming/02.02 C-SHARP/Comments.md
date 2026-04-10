@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/comments/"}
+{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/comments/","dg-note-properties":{}}
 ---
 
 Comments are a great way to describe a piece of code that we may need to explain to others or to ourselves later.

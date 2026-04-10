@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/programming-basics/"}
+{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/programming-basics/","dg-note-properties":{}}
 ---
 
 # What are C-SHARP programming basics

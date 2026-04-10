@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-08-marketing/marketingove-prostredie/","tags":["year1","winterSemester","uniMRK"]}
+{"dg-publish":true,"permalink":"/01-school/01-08-marketing/marketingove-prostredie/","tags":["year1","winterSemester","uniMRK"],"dg-note-properties":{"Date":"2024-10-07","Schoolyear":1,"Semester":"Winter","Class":"Marketing","tags":["year1","winterSemester","uniMRK"]}}
 ---
 
 - Marketing realizujú firmy v komplexnom prostredí, ktoré podlieha neustálym zmenám
@@ -141,7 +141,7 @@ Demografia sa zaoberá charakteristikou obyvateľstva a jeho **veku, pohlavia, p
 - Hospodárska situácia štátu
 - Hospodárska situácia regiónu v ktorom firma pôsobí
 - Ekonomické prostredie sa skladá z faktorov, ktoré ovplyvňujú kúpnu silu obyvateľov a štruktúru ich výdavkov
-	- HDP
+	- [[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|HDP]]
 	- Nezamestnanosť
 	- Inflácia
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-12-nemecky-jazyk/01-11-b-gramatika/gramatika-l15/","tags":["year2","winterSemester","uniNEJ","madeByAI"]}
+{"dg-publish":true,"permalink":"/01-school/01-12-nemecky-jazyk/01-11-b-gramatika/gramatika-l15/","tags":["year2","winterSemester","uniNEJ","madeByAI"],"dg-note-properties":{"Date":"2025-12-08","Schoolyear":2,"Semester":"Winter","Class":"German","tags":["year2","winterSemester","uniNEJ","madeByAI"]}}
 ---
 
 # Temporale Nebensätze mit „wenn“ – prítomnosť alebo budúcnosť

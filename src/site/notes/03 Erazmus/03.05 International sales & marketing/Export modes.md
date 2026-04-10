@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/export-modes/","tags":["erasmus","eraISM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/export-modes/","tags":["erasmus","eraISM"],"dg-note-properties":{"Date":"2026-03-02","Class":"International sales & marketing","tags":["erasmus","eraISM"]}}
 ---
 
 # Export modes
@@ -114,7 +114,7 @@
 - Different perceptions of the strategies
 
 # Hierarchical
-![ISM_export_modes_3.png](/img/user/06%20Images/ISM_export_modes_3.png)
+![ISM_export_modes_3.png](/img/user/06%20Images/06.01%20Erazmus/ISM_export_modes_3.png)
 
 The company owns and controls the activities in the market 100%, otherwise it will be considered export mode or intermediate mode
 - Hiring a person in a foreign country
@@ -123,7 +123,7 @@ The company owns and controls the activities in the market 100%, otherwise it wi
 > [!example]
 > Resident sales representative Sales Subsidiary Full company with all activities either greenfield or acquisitions
 
-![ISM_total_sales_and_marketing_costs.png](/img/user/06%20Images/ISM_total_sales_and_marketing_costs.png)
+![ISM_total_sales_and_marketing_costs.png](/img/user/06%20Images/06.01%20Erazmus/ISM_total_sales_and_marketing_costs.png)
 
 | **Pros**                           | **Cons**                    |
 | ---------------------------------- | --------------------------- |

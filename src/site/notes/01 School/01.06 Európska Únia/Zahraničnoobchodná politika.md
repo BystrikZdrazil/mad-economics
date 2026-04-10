@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/zahranicnoobchodna-politika/","tags":["year1","winterSemester","uniEU"]}
+{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/zahranicnoobchodna-politika/","tags":["year1","winterSemester","uniEU"],"dg-note-properties":{"Date":"2024-10-29","Schoolyear":1,"Semester":"Winter","Class":"European Union","tags":["year1","winterSemester","uniEU"]}}
 ---
 
 Je to jedna z najdôležitejších politík. Krajiny sa postupne začali otvárať a prehlboval vzájomnú spoluprácu, kedy zistili, že je to benefičné pre obe strany väčšinu času.

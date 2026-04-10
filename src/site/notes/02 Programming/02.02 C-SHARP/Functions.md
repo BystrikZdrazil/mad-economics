@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/functions/"}
+{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/functions/","dg-note-properties":{}}
 ---
 
 # How to use functions?

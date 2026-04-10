@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-11-supply-chain-management/gartner/","tags":["erasmus","eraSCM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-11-supply-chain-management/gartner/","tags":["erasmus","eraSCM"],"dg-note-properties":{"Date":"2026-01-30","Class":"Supply chain management","tags":["erasmus","eraSCM"]}}
 ---
 
 Gartner is an organisation for business leaders that covers SCM
@@ -21,7 +21,7 @@ Gartner is an organisation for business leaders that covers SCM
 | *Community opinion* | Peer vote                        | 25%           |
 | *Community opinion* | Gardner expert vote              | 25%           |
 
-![Gartner_point_system.png](/img/user/06%20Images/06.01%20Erazmus/Gartner_point_system.png)
+![ISM_Gartner_point_system.png](/img/user/06%20Images/06.01%20Erazmus/ISM_Gartner_point_system.png)
 
 The ranking is based on pints awarded for both “business metrics” and “community opinion”
 

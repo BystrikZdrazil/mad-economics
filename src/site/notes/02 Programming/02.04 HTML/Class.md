@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-04-html/class/"}
+{"dg-publish":true,"permalink":"/02-programming/02-04-html/class/","dg-note-properties":{}}
 ---
 
 # What is a class in HTML

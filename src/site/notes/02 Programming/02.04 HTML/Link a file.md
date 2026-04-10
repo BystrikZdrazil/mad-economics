@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-04-html/link-a-file/"}
+{"dg-publish":true,"permalink":"/02-programming/02-04-html/link-a-file/","dg-note-properties":{}}
 ---
 
 # How to link a file in HTML

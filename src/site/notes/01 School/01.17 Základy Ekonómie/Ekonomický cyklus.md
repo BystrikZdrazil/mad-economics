@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/ekonomicky-cyklus/","tags":["year1","winterSemester","uniZEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/ekonomicky-cyklus/","tags":["year1","winterSemester","uniZEK"],"dg-note-properties":{"Date":"2024-11-21","Schoolyear":1,"Semester":"Winter","Class":"Economy Basics","tags":["year1","winterSemester","uniZEK"]}}
 ---
 
 # Rast ekonomiky
 ![rast ekonomiky.jpeg](/img/user/06%20Images/06.06%20School/rast%20ekonomiky.jpeg)
-HDP má výkyvy z rôznych príčin. Kolísanie HDP okolo rastúceho potenciálneho produktu sa nazýva cyklicky vývoj ekonomiky. Ekonomicky cyklus predstavuje pravidelné striedanie vzostupných a zostupných fáz vývoja ekonomiky.
+[[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|Hrubý domáci produkt]] má výkyvy z rôznych príčin. Kolísanie HDP okolo rastúceho potenciálneho produktu sa nazýva cyklicky vývoj ekonomiky. Ekonomicky cyklus predstavuje pravidelné striedanie vzostupných a zostupných fáz vývoja ekonomiky.
 # Model ekonomického cyklu
 ![model ekonomickeho cyklu.jpeg](/img/user/06%20Images/06.06%20School/model%20ekonomickeho%20cyklu.jpeg)
 Priamka znázorňuje **mierne stúpajúci** potenciálny produkt, okolo ktorého **kolíska** skutočný produkt.

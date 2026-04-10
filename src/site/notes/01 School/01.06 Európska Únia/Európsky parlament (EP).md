@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/europsky-parlament-ep/","tags":["year1","winterSemester","uniEU"]}
+{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/europsky-parlament-ep/","tags":["year1","winterSemester","uniEU"],"dg-note-properties":{"Date":"2025-01-08","Schoolyear":1,"Semester":"Winter","Class":"European Union","tags":["year1","winterSemester","uniEU"]}}
 ---
 
 - **Úloha**: Priamo volený orgán EÚ s legislatívnou, kontrolnou a rozpočtovou zodpovednosťou

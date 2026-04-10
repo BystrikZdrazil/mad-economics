@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/hruby-domaci-produkt/","tags":["year1","winterSemester","uniZEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/hruby-domaci-produkt/","tags":["year1","winterSemester","uniZEK"],"dg-note-properties":{"Date":"2024-11-07","Schoolyear":1,"Semester":"Winter","Class":"Economy Basics","tags":["year1","winterSemester","uniZEK"]}}
 ---
 
 Má naturálno-vecné vymedzenie a hodnotové vymedzenie.

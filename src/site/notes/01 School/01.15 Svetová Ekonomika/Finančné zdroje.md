@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/financne-zdroje/","tags":["year1","summerSemester","uniSEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/financne-zdroje/","tags":["year1","summerSemester","uniSEK"],"dg-note-properties":{"Date":"2025-04-30","Schoolyear":1,"Semester":"Summer","Class":"World Economy","tags":["year1","summerSemester","uniSEK"]}}
 ---
 
 - **Jeden z hlavných motorov globalizácie**
@@ -92,7 +92,7 @@
 - **Obchodovanie 24/7 v reálnom** čase vo všetkých časových pásmach
 - **Koncentrovaná aktivita** (*VB*, *USA*, *Japonsko*)
 - Priemerný denný obrat 7,5 bil USD (2022)
-	- HDP bežné ceny = 101 bil USD
+	- [[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|HDP]] bežné ceny = 101 bil USD
 	- Za dva týždne bol zobchodovaný svetový HDP
 
 ## Kapitálový

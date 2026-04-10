@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-12-nemecky-jazyk/rozhovor/","tags":["year2","winterSemester","uniNEJ"]}
+{"dg-publish":true,"permalink":"/01-school/01-12-nemecky-jazyk/rozhovor/","tags":["year2","winterSemester","uniNEJ"],"dg-note-properties":{"Date":"2025-10-07","Schoolyear":2,"Semester":"Winter","Class":"German","tags":["year2","winterSemester","uniNEJ"]}}
 ---
 
 B: Guten Tag, Gebaudereinigug Hans, Herr Zdražil am Apparat.

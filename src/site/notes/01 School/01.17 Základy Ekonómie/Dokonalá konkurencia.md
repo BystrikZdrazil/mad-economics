@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/dokonala-konkurencia/","tags":["year1","winterSemester","uniZEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/dokonala-konkurencia/","tags":["year1","winterSemester","uniZEK"],"dg-note-properties":{"Date":"2024-10-17","Schoolyear":1,"Semester":"Winter","Class":"Economy Basics","tags":["year1","winterSemester","uniZEK"]}}
 ---
 
 Slide 13 - je to kvôli optimalizácii produkcie, firma hľadá optimálne množstvo zamestnancov

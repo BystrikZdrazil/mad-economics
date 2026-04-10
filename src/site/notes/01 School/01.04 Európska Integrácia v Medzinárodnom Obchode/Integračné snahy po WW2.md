@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-04-europska-integracia-v-medzinarodnom-obchode/integracne-snahy-po-ww-2/","tags":["year1","summerSemester","uniEIvMO"]}
+{"dg-publish":true,"permalink":"/01-school/01-04-europska-integracia-v-medzinarodnom-obchode/integracne-snahy-po-ww-2/","tags":["year1","summerSemester","uniEIvMO"],"dg-note-properties":{"Date":"2025-03-04","Schoolyear":1,"Semester":"Summer","Class":"European Integration in International Business","tags":["year1","summerSemester","uniEIvMO"]}}
 ---
 
 - Európske hospodárstvo v troskách

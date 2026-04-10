@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-13-obchodne-a-hospodarske-pravo/nadnarodne-pravne-formy-podnikania/","tags":["year1","winterSemester","uniOaHPR"]}
+{"dg-publish":true,"permalink":"/01-school/01-13-obchodne-a-hospodarske-pravo/nadnarodne-pravne-formy-podnikania/","tags":["year1","winterSemester","uniOaHPR"],"dg-note-properties":{"Date":"2024-11-10","Schoolyear":1,"Semester":"Winter","Class":"Business Law","tags":["year1","winterSemester","uniOaHPR"]}}
 ---
 
 Nadnárodné právne formy podnikania sú upravené v týchto nariadeniach:

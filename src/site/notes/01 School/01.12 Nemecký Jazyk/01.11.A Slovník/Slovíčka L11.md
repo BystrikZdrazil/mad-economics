@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-12-nemecky-jazyk/01-11-a-slovnik/slovicka-l11/","tags":["year1","summerSemester","uniNEJ"]}
+{"dg-publish":true,"permalink":"/01-school/01-12-nemecky-jazyk/01-11-a-slovnik/slovicka-l11/","tags":["year1","summerSemester","uniNEJ"],"dg-note-properties":{"Date":"2025-03-20","Schoolyear":1,"Semester":"Summer","Class":"German","tags":["year1","summerSemester","uniNEJ"]}}
 ---
 
 # Pozvánka / Die Einladung

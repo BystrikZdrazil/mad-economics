@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/priemysel/","tags":["year1","summerSemester","uniSEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/priemysel/","tags":["year1","summerSemester","uniSEK"],"dg-note-properties":{"Date":"2025-04-28","Schoolyear":1,"Semester":"Summer","Class":"World Economy","tags":["year1","summerSemester","uniSEK"]}}
 ---
 
 # Základná charakteristika
 - Je základom svetového hospodárstva
-- V PVK klesá podiel na vyprodukovanom HDP
+- V PVK klesá podiel na vyprodukovanom [[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|HDP]]
 	- OECD (2022) – 13% (14 % v 2019)
 	- LDC (2022) – 15% (11 % v 2019)
 	- Pravidlo: **↑ vyspelosti ekonomiky** = **↓ významu priemyslu** + **↑ významu služieb**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/needs-english/","tags":["year1","winterSemester","uniZEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/needs-english/","tags":["year1","winterSemester","uniZEK"],"dg-note-properties":{"Date":"2024-10-16","Schoolyear":1,"Semester":"Winter","Class":"Economy Basics","tags":["year1","winterSemester","uniZEK"]}}
 ---
 
 * **Individual Needs:** These are the basic requirements that each person needs to survive and thrive. They are often considered **primary needs** and include things like:

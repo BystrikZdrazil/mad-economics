@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/variable-type-conversion/"}
+{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/variable-type-conversion/","dg-note-properties":{}}
 ---
 
 # How to convert variable types?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/03-07-a-assignments/the-role-of-the-project-manager/","tags":["erasmus","eraPM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/03-07-a-assignments/the-role-of-the-project-manager/","tags":["erasmus","eraPM"],"dg-note-properties":{"Date":"2026-02-02","Class":"Project Management","tags":["erasmus","eraPM"]}}
 ---
 
 # What does a project manager do?

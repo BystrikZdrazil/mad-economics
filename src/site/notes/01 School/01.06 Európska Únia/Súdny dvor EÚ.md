@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/sudny-dvor-eu/","tags":["year1","winterSemester","uniEU"]}
+{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/sudny-dvor-eu/","tags":["year1","winterSemester","uniEU"],"dg-note-properties":{"Date":"2025-01-08","Schoolyear":1,"Semester":"Winter","Class":"European Union","tags":["year1","winterSemester","uniEU"]}}
 ---
 
 - **Úloha**: Zabezpečovanie rovnakého výkladu a uplatňovanie právnych predpisov EÚ v každej krajine EÚ, zabezpečovanie dodržiavania právnych predpisov EÚ zo strany krajín a inštitúcií EÚ.

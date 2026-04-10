@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-08-marketing/marketingove-orientacie/","tags":["year1","winterSemester","uniMRK"]}
+{"dg-publish":true,"permalink":"/01-school/01-08-marketing/marketingove-orientacie/","tags":["year1","winterSemester","uniMRK"],"dg-note-properties":{"Date":"2024-11-01","Schoolyear":1,"Semester":"Winter","Class":"Marketing","tags":["year1","winterSemester","uniMRK"]}}
 ---
 
 # [[01 School/01.08 Marketing/Marketingový manažment\|Marketingový manažment]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-08-marketing/marketingovy-informacny-system/","tags":["year1","winterSemester","uniMRK"]}
+{"dg-publish":true,"permalink":"/01-school/01-08-marketing/marketingovy-informacny-system/","tags":["year1","winterSemester","uniMRK"],"dg-note-properties":{"Date":"2024-10-14","Schoolyear":1,"Semester":"Winter","Class":"Marketing","tags":["year1","winterSemester","uniMRK"]}}
 ---
 
 MIS tvoria **ľudia, zariadenia a postupy**, ktorými sa zhromažďujú, triedia, analyzujú, hodnotia a distribuujú. Čím viac činností podnik vykonáva, tým sofistikovanejší MIS potrebuje.

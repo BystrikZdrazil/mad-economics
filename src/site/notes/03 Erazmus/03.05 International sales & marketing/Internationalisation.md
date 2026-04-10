@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/internationalisation/","tags":["erasmus","eraISM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/internationalisation/","tags":["erasmus","eraISM"],"dg-note-properties":{"Date":"2026-02-20","Class":"International sales & marketing","tags":["erasmus","eraISM"]}}
 ---
 
 **Entry mode decision** is a critical part of an organization's **internationalization process**. This decision occurs after a company selects a foreign market but before it defines its final marketing mix (the 4 or 7 Ps).

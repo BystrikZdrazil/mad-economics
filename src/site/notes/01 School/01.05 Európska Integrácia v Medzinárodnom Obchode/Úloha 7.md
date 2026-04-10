@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-05-europska-integracia-v-medzinarodnom-obchode/uloha-7/","tags":["year1","summerSemester","uniEIvMO"]}
+{"dg-publish":true,"permalink":"/01-school/01-05-europska-integracia-v-medzinarodnom-obchode/uloha-7/","tags":["year1","summerSemester","uniEIvMO"],"dg-note-properties":{"Date":"2025-03-18","Schoolyear":1,"Semester":"Summer","Class":"European Integration in International Business","tags":["year1","summerSemester","uniEIvMO"]}}
 ---
 
 **British Commonwealth of Nations** (neskôr známy ako **Commonwealth of Nations**) bol historický politický a kultúrny zväzok krajín, ktorý vznikol ako dôsledok britskej kolonizácie. Tento zväzok zahŕňal bývalé britské kolónie, domíniá a ďalšie nezávislé krajiny, ktoré si zachovali symbolickú väzbu na britskú monarchiu, ale mali autonómnu vládu.

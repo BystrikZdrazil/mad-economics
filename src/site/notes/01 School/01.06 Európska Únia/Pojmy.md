@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/pojmy/","tags":["year1","winterSemester","uniEU"]}
+{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/pojmy/","tags":["year1","winterSemester","uniEU"],"dg-note-properties":{"Date":"2024-09-24","Schoolyear":1,"Semester":"Winter","Class":"European Union","tags":["year1","winterSemester","uniEU"]}}
 ---
 
 - Výrobne faktory - práca, pôda, kapitál, technológie, vedomosti
-- HDP - všetko čo sa v danej ekonomike vyrobí
+- [[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|HDP]] - všetko čo sa v danej ekonomike vyrobí
 - Uzavretá ekonomika - keď štát neobchoduje s inými krajinami (taktiež **autarkia**)
 - Otvorená ekonomika - keď štát obchoduje so zahraničím
 - Absolútne výhody - keď ma nejaká krajina výhodu v produkcii nejakého tovaru

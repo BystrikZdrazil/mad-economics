@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/europsky-dvor-auditorov/","tags":["year1","winterSemester","uniEU"]}
+{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/europsky-dvor-auditorov/","tags":["year1","winterSemester","uniEU"],"dg-note-properties":{"Date":"2025-01-08","Schoolyear":1,"Semester":"Winter","Class":"European Union","tags":["year1","winterSemester","uniEU"]}}
 ---
 
 - **Úloha**: kontrolovať, či sa finančné prostriedky EÚ správne vyberajú a používajú, a pomáhať zlepšovať finančné hospodárenie EÚ

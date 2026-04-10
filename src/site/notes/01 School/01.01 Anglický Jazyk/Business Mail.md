@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/business-mail/","tags":["year1","summerSemester","uniANJ"]}
+{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/business-mail/","tags":["year1","summerSemester","uniANJ"],"dg-note-properties":{"Date":"2025-03-16","Schoolyear":1,"Semester":"Summer","Class":"English","tags":["year1","summerSemester","uniANJ"]}}
 ---
 
 # Homework 

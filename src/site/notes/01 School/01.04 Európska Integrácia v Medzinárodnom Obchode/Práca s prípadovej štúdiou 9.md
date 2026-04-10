@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-04-europska-integracia-v-medzinarodnom-obchode/praca-s-pripadovej-studiou-9/","tags":["year1","summerSemester","uniEIvMO"]}
+{"dg-publish":true,"permalink":"/01-school/01-04-europska-integracia-v-medzinarodnom-obchode/praca-s-pripadovej-studiou-9/","tags":["year1","summerSemester","uniEIvMO"],"dg-note-properties":{"Date":"2025-04-15","Schoolyear":1,"Semester":"Summer","Class":"European Integration in International Business","tags":["year1","summerSemester","uniEIvMO"]}}
 ---
 
 Donald Trump odvolal účasť Spojených štátov amerických na Transpacifickom partnerstve (TPP) krátko po nástupe do úradu prezidenta v januári 2017. Urobil tak prostredníctvom exekutívneho príkazu ako jeden zo svojich prvých krokov vo funkcii. Dôvody, ktoré Trump a jeho administratíva uvádzali na obhajobu tohto rozhodnutia, boli nasledovné:

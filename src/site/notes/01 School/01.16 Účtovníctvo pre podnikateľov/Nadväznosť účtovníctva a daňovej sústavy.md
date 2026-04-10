@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-16-uctovnictvo-pre-podnikatelov/nadvaeznost-uctovnictva-a-danovej-sustavy/","tags":["year2","winterSemester","uniUpP"]}
+{"dg-publish":true,"permalink":"/01-school/01-16-uctovnictvo-pre-podnikatelov/nadvaeznost-uctovnictva-a-danovej-sustavy/","tags":["year2","winterSemester","uniUpP"],"dg-note-properties":{"Date":"2025-12-02","Schoolyear":2,"Semester":"Winter","Class":"Accounting for Entrepreneurs","tags":["year2","winterSemester","uniUpP"]}}
 ---
 
 # Nadväznosť účtovníctva a daňovej sústavy v SR

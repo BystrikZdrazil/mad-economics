@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/project-management-triangle/","tags":["erasmus","eraPM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/project-management-triangle/","tags":["erasmus","eraPM"],"dg-note-properties":{"Date":"2026-01-28","Class":"Project Management","tags":["erasmus","eraPM"]}}
 ---
 
 # What Is the Project Management Triangle?

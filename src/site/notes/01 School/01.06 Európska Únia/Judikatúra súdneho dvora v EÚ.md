@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/judikatura-sudneho-dvora-v-eu/","tags":["year1","winterSemester","uniEU"]}
+{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/judikatura-sudneho-dvora-v-eu/","tags":["year1","winterSemester","uniEU"],"dg-note-properties":{"Date":"2024-10-28","Schoolyear":1,"Semester":"Winter","Class":"European Union","tags":["year1","winterSemester","uniEU"]}}
 ---
 
 **Prejudiciálne konanie** - keď štát žiada EÚ o to, aby to skúsili vyriešiť, a následne to podľa tohoto riešenia vyriešia aj doma.

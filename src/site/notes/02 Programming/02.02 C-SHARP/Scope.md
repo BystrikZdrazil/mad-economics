@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/scope/"}
+{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/scope/","dg-note-properties":{}}
 ---
 
 Defined variables are accessible **only in the block where they have been defined** or in child blocks.

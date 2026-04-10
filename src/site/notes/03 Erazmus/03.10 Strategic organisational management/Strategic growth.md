@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-10-strategic-organisational-management/strategic-growth/","tags":["erasmus","eraSOM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-10-strategic-organisational-management/strategic-growth/","tags":["erasmus","eraSOM"],"dg-note-properties":{"Date":"2026-01-23","Class":"Strategic organisational management","tags":["erasmus","eraSOM"]}}
 ---
 
 - Research has shown that companies struggle to meet the growth expectations

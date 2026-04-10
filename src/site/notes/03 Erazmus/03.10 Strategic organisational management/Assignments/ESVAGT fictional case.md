@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-10-strategic-organisational-management/assignments/esvagt-fictional-case/","tags":["erasmus","eraSOM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-10-strategic-organisational-management/assignments/esvagt-fictional-case/","tags":["erasmus","eraSOM"],"dg-note-properties":{"Date":"2026-03-04","Class":"Strategic organisational management","tags":["erasmus","eraSOM"]}}
 ---
 
 

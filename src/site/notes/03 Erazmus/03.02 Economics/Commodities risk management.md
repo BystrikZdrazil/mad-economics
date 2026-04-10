@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-02-economics/commodities-risk-management/","tags":["erasmus","eraECO"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-02-economics/commodities-risk-management/","tags":["erasmus","eraECO"],"dg-note-properties":{"Date":"2026-02-16","Class":"Economics","tags":["erasmus","eraECO"]}}
 ---
 
 # Commodity price risk
@@ -38,7 +38,7 @@
 >It is therefore not suffering from shortages in broccoli and iceberg lettuce, but has still had to introduce a cap on sales because other businesses, such as independent cafes and restaurants, have been desperately trying to snap up the vegetables in bulk.
 
 > [!important]
-> ![commodity_risk_management_hedging_graph.png](/img/user/06%20Images/06.01%20Erazmus/commodity_risk_management_hedging_graph.png)
+> ![SOM_commodity_risk_management_hedging_graph.png](/img/user/06%20Images/06.01%20Erazmus/SOM_commodity_risk_management_hedging_graph.png)
 
 # Hedging with contracts
 - Hedging can increase or reduce a company’s profit

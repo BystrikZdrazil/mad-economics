@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-02-economics/currency-risk-management/","tags":["erasmus","eraECO"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-02-economics/currency-risk-management/","tags":["erasmus","eraECO"],"dg-note-properties":{"Date":"2026-02-16","Class":"Economics","tags":["erasmus","eraECO"]}}
 ---
 
 # Exchange rate basics
@@ -56,7 +56,7 @@
 > [!example]
 > A company needs euros in one year. The forward exchange rate at that time is 1.2 dollars per euro. Instead, they can choose to buy a call option, which gives them the right to purchase euros at a maximum price.
 
-![currency_risk_hedging_graph.png](/img/user/06%20Images/06.01%20Erazmus/currency_risk_hedging_graph.png)
+![SOM_currency_risk_hedging_graph.png](/img/user/06%20Images/06.01%20Erazmus/SOM_currency_risk_hedging_graph.png)
 
 ## Options vs forwards
 A company may choose to use options instead of forwards if:

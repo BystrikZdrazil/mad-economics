@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/cvicenie-anj/","tags":["year2","winterSemester","uniANJ"]}
+{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/cvicenie-anj/","tags":["year2","winterSemester","uniANJ"],"dg-note-properties":{"Date":"2025-10-07","Schoolyear":2,"Semester":"Winter","Class":"English","tags":["year2","winterSemester","uniANJ"]}}
 ---
 
 # Problems

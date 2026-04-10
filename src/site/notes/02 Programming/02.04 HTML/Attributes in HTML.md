@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-04-html/attributes-in-html/"}
+{"dg-publish":true,"permalink":"/02-programming/02-04-html/attributes-in-html/","dg-note-properties":{}}
 ---
 
 # What are attributes in HTML

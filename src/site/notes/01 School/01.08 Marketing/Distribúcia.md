@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-08-marketing/distribucia/","tags":["year1","winterSemester","uniMRK"]}
+{"dg-publish":true,"permalink":"/01-school/01-08-marketing/distribucia/","tags":["year1","winterSemester","uniMRK"],"dg-note-properties":{"Date":"2024-12-16","Schoolyear":1,"Semester":"Winter","Class":"Marketing","tags":["year1","winterSemester","uniMRK"]}}
 ---
 
 Je to súbor operácií, ktorými sa tovar (produkt) alebo služba z oblasti výroby odovzdáva k dispozícii konečnému spotrebiteľovi alebo používateľovi **v správnom množstve, kvalite, cene, mieste a čase**.

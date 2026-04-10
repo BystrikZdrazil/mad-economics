@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-00-utility/wikilinks/"}
+{"dg-publish":true,"permalink":"/01-school/01-00-utility/wikilinks/","dg-note-properties":{"Date":"2025-08-19"}}
 ---
 
 Wikilink je interný odkaz v rámci tej istej wiki (alebo databázy), ktorý smeruje na inú stránku alebo sekciu v rámci tej istej wiki. Je to základný prvok pre budovanie prepojeného obsahu v systémoch ako je [Wikipedia](https://en.wikipedia.org/wiki/Help:Link) alebo iných platformách s wiki funkcionalitou. 

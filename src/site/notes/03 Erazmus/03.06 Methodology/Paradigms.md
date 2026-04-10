@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-06-methodology/paradigms/","tags":["erasmus","eraMET"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-06-methodology/paradigms/","tags":["erasmus","eraMET"],"dg-note-properties":{"Date":"2026-02-18","Class":"Methodology","tags":["erasmus","eraMET"]}}
 ---
 
 For larger projects, people often choose to take a realistic approach using the paradigm [[03 Erazmus/03.06 Methodology/Research onion#Pragmatism\|pragmatism]]

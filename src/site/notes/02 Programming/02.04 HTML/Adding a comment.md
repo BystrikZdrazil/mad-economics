@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-04-html/adding-a-comment/"}
+{"dg-publish":true,"permalink":"/02-programming/02-04-html/adding-a-comment/","dg-note-properties":{}}
 ---
 
 # How to add a comment to HTML code

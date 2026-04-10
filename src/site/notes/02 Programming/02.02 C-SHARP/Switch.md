@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/switch/"}
+{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/switch/","dg-note-properties":{}}
 ---
 
 Switch is used for checking for [[02 Programming/02.02 C-SHARP/If statements and conditions\|comparisons]] against multiple possible cases. Normally, we could do it like this:

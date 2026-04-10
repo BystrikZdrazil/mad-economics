@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/globalizacia-svetoveho-hospodarstva/","tags":["year1","summerSemester","uniSEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/globalizacia-svetoveho-hospodarstva/","tags":["year1","summerSemester","uniSEK"],"dg-note-properties":{"Date":"2025-04-23","Schoolyear":1,"Semester":"Summer","Class":"World Economy","tags":["year1","summerSemester","uniSEK"]}}
 ---
 
 Opis procesu zmien v spoločnosti počas posledných dekád 20 storočia, ktoré su výsledkom neustáleho rozširovania, prehlbovania a zrýchľovania celosvetových prepojení.

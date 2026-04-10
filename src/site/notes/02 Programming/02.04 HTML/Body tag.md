@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-04-html/body-tag/"}
+{"dg-publish":true,"permalink":"/02-programming/02-04-html/body-tag/","dg-note-properties":{}}
 ---
 
 # What does a body tag contain

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/historicky-vyvoj/","tags":["year1","summerSemester","uniSEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/historicky-vyvoj/","tags":["year1","summerSemester","uniSEK"],"dg-note-properties":{"Date":"2025-02-12","Schoolyear":1,"Semester":"Summer","Class":"World Economy","tags":["year1","summerSemester","uniSEK"]}}
 ---
 
 # Typy ekonomík zo svetového hľadiska
@@ -259,7 +259,7 @@ Vnútorne rozporný a heterogénny komplex ekonomík jednotlivých štátnych al
 - Pred industrializáciou
 - Vysoká miera natality
 
-# Fertilita VS HDP
+# Fertilita VS [[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|HDP]]
 - Negatívny vzťah
 - Zmena v čase:
 	- Pri danej veľkosti HDP p.c. Fertilita klesá

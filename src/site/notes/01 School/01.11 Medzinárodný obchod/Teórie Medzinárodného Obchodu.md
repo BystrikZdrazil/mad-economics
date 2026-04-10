@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-11-medzinarodny-obchod/teorie-medzinarodneho-obchodu/","tags":["year2","winterSemester"]}
+{"dg-publish":true,"permalink":"/01-school/01-11-medzinarodny-obchod/teorie-medzinarodneho-obchodu/","tags":["year2","winterSemester"],"dg-note-properties":{"Date":null,"Schoolyear":2,"Semester":"Winter","Class":null,"tags":["year2","winterSemester"]}}
 ---
 
 # Merkantilizmus

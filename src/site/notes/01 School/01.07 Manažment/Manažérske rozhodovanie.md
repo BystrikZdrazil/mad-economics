@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-07-manazment/manazerske-rozhodovanie/","tags":["year1","summerSemester","uniMNZ"]}
+{"dg-publish":true,"permalink":"/01-school/01-07-manazment/manazerske-rozhodovanie/","tags":["year1","summerSemester","uniMNZ"],"dg-note-properties":{"Date":"2025-02-27","Schoolyear":1,"Semester":"Summer","Class":"Management","tags":["year1","summerSemester","uniMNZ"]}}
 ---
 
 # Čo je rozhodovanie?

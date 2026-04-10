@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/03-07-b-tools/gantt/","tags":["erasmus","eraPM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/03-07-b-tools/gantt/","tags":["erasmus","eraPM"],"dg-note-properties":{"Date":"2026-03-03","Class":"Project Management","tags":["erasmus","eraPM"]}}
 ---
 
 Think of a **Gantt chart** as the visual "heartbeat" of a project. While a simple to-do list tells you _what_ needs to be done, a Gantt chart tells you _when_, in what _order_, and _how_ tasks overlap.

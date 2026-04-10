@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-03-international-business-law/employment-law/","tags":["erasmus","eraIBL"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-03-international-business-law/employment-law/","tags":["erasmus","eraIBL"],"dg-note-properties":{"Date":"2026-02-04","Class":"Business Law","tags":["erasmus","eraIBL"]}}
 ---
 
 # Purpose & Background

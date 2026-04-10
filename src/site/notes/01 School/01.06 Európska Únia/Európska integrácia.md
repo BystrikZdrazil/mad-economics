@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/europska-integracia/","tags":["year1","winterSemester","uniEU"]}
+{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/europska-integracia/","tags":["year1","winterSemester","uniEU"],"dg-note-properties":{"Date":"2024-11-18","Schoolyear":1,"Semester":"Winter","Class":"European Union","tags":["year1","winterSemester","uniEU"]}}
 ---
 
 - **Koniec vojen** a konfliktov, presadzovanie mieru

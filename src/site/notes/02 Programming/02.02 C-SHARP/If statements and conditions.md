@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/if-statements-and-conditions/"}
+{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/if-statements-and-conditions/","dg-note-properties":{}}
 ---
 
 # How to use conditions in C-SHARP

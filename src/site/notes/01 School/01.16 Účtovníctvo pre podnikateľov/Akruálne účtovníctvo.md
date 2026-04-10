@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-16-uctovnictvo-pre-podnikatelov/akrualne-uctovnictvo/","tags":["year2","winterSemester","uniUpP"]}
+{"dg-publish":true,"permalink":"/01-school/01-16-uctovnictvo-pre-podnikatelov/akrualne-uctovnictvo/","tags":["year2","winterSemester","uniUpP"],"dg-note-properties":{"Date":"2025-10-05","Schoolyear":2,"Semester":"Winter","Class":"Accounting for Entrepreneurs","tags":["year2","winterSemester","uniUpP"]}}
 ---
 
 Akruálne účtovníctvo je **účtovníctvo s tzv. časovým rozlíšením**. Čo to ale znamená? Odpoveďou na otázku, čo je akruálne účtovníctvo, je smernica a definícia, ktorá hovorí, že táto účtovná metóda spočíva v zaznamenávaní príjmov a výdavkov v čase ich nastatia, čiže **nie až v čase ich peňažnej úhrady**. Pri akruálnom účtovníctve dochádza k účtovaniu tak nákladov ako aj výnosov naraz a to do účtovného obdobia, s ktorým časovo a vecne súvisia.

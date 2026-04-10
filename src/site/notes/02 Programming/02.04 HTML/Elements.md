@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-04-html/elements/"}
+{"dg-publish":true,"permalink":"/02-programming/02-04-html/elements/","dg-note-properties":{}}
 ---
 
 # What is an element in HTML

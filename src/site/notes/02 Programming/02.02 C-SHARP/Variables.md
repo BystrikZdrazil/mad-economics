@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/variables/"}
+{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/variables/","dg-note-properties":{}}
 ---
 
 # What are variables in C-SHARP

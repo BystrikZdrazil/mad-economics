@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-11-supply-chain-management/benchmarking/","tags":["erasmus","eraSCM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-11-supply-chain-management/benchmarking/","tags":["erasmus","eraSCM"],"dg-note-properties":{"Date":"2026-01-23","Class":"Supply chain management","tags":["erasmus","eraSCM"]}}
 ---
 
 - **Evaluating** and **assessing** how and organisation’s development has progressed

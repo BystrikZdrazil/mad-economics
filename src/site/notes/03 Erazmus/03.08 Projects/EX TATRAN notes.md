@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-08-projects/ex-tatran-notes/","tags":["erasmus","eraPM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-08-projects/ex-tatran-notes/","tags":["erasmus","eraPM"],"dg-note-properties":{"Date":"2026-03-18","Class":"Project Management","tags":["erasmus","eraPM"]}}
 ---
 
 # WBS

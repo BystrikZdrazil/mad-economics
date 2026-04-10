@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/03-05-a-assignments/magna-analysis/","tags":["erasmus","eraISM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/03-05-a-assignments/magna-analysis/","tags":["erasmus","eraISM"],"dg-note-properties":{"Date":"2026-03-02","Class":"International sales & marketing","tags":["erasmus","eraISM"]}}
 ---
 
 

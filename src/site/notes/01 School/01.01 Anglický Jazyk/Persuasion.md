@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/persuasion/","tags":["year1","summerSemester","uniANJ"]}
+{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/persuasion/","tags":["year1","summerSemester","uniANJ"],"dg-note-properties":{"Date":"2025-02-11","Schoolyear":1,"Semester":"Summer","Class":"English","tags":["year1","summerSemester","uniANJ"]}}
 ---
 
 ## 51/5

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/converstaion/","tags":["year1","summerSemester","uniANJ"]}
+{"dg-publish":true,"permalink":"/01-school/01-01-anglicky-jazyk/converstaion/","tags":["year1","summerSemester","uniANJ"],"dg-note-properties":{"Date":"2025-10-07","Schoolyear":1,"Semester":"Summer","Class":"English","tags":["year1","summerSemester","uniANJ"]}}
 ---
 
 M: There a Lot of people here!

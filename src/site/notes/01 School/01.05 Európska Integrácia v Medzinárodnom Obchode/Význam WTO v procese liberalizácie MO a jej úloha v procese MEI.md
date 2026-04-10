@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-05-europska-integracia-v-medzinarodnom-obchode/vyznam-wto-v-procese-liberalizacie-mo-a-jej-uloha-v-procese-mei/","tags":["year1","summerSemester","uniEIvMO"]}
+{"dg-publish":true,"permalink":"/01-school/01-05-europska-integracia-v-medzinarodnom-obchode/vyznam-wto-v-procese-liberalizacie-mo-a-jej-uloha-v-procese-mei/","tags":["year1","summerSemester","uniEIvMO"],"dg-note-properties":{"Date":"2025-02-18","Schoolyear":1,"Semester":"Summer","Class":"European Integration in International Business","tags":["year1","summerSemester","uniEIvMO"]}}
 ---
 
 - Začala v období po 2. Svetovej vojne

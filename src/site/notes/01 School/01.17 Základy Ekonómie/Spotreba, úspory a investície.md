@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/spotreba-uspory-a-investicie/","tags":["year1","winterSemester","uniZEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/spotreba-uspory-a-investicie/","tags":["year1","winterSemester","uniZEK"],"dg-note-properties":{"Date":"2024-11-14","Schoolyear":1,"Semester":"Winter","Class":"Economy Basics","tags":["year1","winterSemester","uniZEK"]}}
 ---
 
 Vzťah medzi agregátnou spotrebou, agregátnymi úsporami a investíciami v ekonomike.
-Vplyv agregátnych úspor a investícií na vývoj HDP.
+Vplyv agregátnych úspor a investícií na vývoj [[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|HDP]].
 **Úspory** sú [[01 School/01.17 Základy Ekonómie/Peniaze\|Peniaze]] alebo iné peňažné prostriedky, ktoré majú ľudia ušetrené na neskoršie využitie. Uložené [[01 School/01.17 Základy Ekonómie/Peniaze\|Peniaze]] v bankách alebo zainvestované **sa používajú v ekonomike naďalej prostredníctvom financovania** firiem a bánk.
 **Negatívne úspory** nastávajú, keď ľudia míňajú viac, ako je ich disponibilný dôchodok.
 **Pozitívne úspory** nastávajú vtedy, keď ľudia míňajú menej, ako je ich disponibilný dôchodok.

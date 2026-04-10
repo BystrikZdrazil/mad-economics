@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/market-entry-strategy/","tags":["erasmus","eraISM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-05-international-sales-and-marketing/market-entry-strategy/","tags":["erasmus","eraISM"],"dg-note-properties":{"Date":"2026-02-19","Class":"International sales & marketing","tags":["erasmus","eraISM"]}}
 ---
 
 - Companies can choose between three approaches when selecting an entry strategy

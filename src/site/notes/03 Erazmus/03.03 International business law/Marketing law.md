@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-03-international-business-law/marketing-law/","tags":["erasmus","eraIBL"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-03-international-business-law/marketing-law/","tags":["erasmus","eraIBL"],"dg-note-properties":{"Date":"2026-03-11","Class":"International business law","tags":["erasmus","eraIBL"]}}
 ---
 
 >[!warning] INCOMPLETE NOTES

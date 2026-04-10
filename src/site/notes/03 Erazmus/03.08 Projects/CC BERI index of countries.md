@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-08-projects/cc-beri-index-of-countries/","tags":["erasmus"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-08-projects/cc-beri-index-of-countries/","tags":["erasmus"],"dg-note-properties":{"Date":null,"Class":null,"tags":["erasmus"]}}
 ---
 
 # Slovakia

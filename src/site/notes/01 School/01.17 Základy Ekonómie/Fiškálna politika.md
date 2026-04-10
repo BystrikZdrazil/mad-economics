@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/fiskalna-politika/","tags":["year1","winterSemester","uniZEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/fiskalna-politika/","tags":["year1","winterSemester","uniZEK"],"dg-note-properties":{"Date":"2024-12-12","Schoolyear":1,"Semester":"Winter","Class":"Economy Basics","tags":["year1","winterSemester","uniZEK"]}}
 ---
 
 Je to **využívanie verejných rozpočtov** (*štátny rozpočet* a *rozpočet samospráv*) na dosiahnutie stanovených **makroekonomických** cieľov.
@@ -24,7 +24,7 @@ Môže ísť o transferované platby, výdavky na nákup tovarov a služieb, mzd
 - **Deficitný** štátny rozpočet
 
 # Ciele fiškálnej politiky
-- Rast **produktu** (*reálneho HDP*)
+- Rast **produktu** (*reálneho [[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|HDP]]*)
 - Rast **zamestnanosti** (*pokles nezamestnanosti*)
 
 # Nástroje fiškálnej politiky

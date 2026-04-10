@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-07-manazment/organizovanie/","tags":["year1","summerSemester","uniMNZ"]}
+{"dg-publish":true,"permalink":"/01-school/01-07-manazment/organizovanie/","tags":["year1","summerSemester","uniMNZ"],"dg-note-properties":{"Date":"2025-03-20","Schoolyear":1,"Semester":"Summer","Class":"Management","tags":["year1","summerSemester","uniMNZ"]}}
 ---
 
 V organizácii môžeme hovoriť vtedy, keď dochádza k **vzájomnej interakcii ľudí**, ktorých zámerom je dosiahnuť určitý cieľ.

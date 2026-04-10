@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-12-nemecky-jazyk/cvicenia/","tags":["year1","summerSemester","uniNEJ"]}
+{"dg-publish":true,"permalink":"/01-school/01-12-nemecky-jazyk/cvicenia/","tags":["year1","summerSemester","uniNEJ"],"dg-note-properties":{"Date":"2025-02-06","Schoolyear":1,"Semester":"Summer","Class":"German","tags":["year1","summerSemester","uniNEJ"]}}
 ---
 
 B - bilingual

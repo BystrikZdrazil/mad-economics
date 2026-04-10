@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-11-medzinarodny-obchod/ps-centralizovana-globalna-mena/","tags":["year2","winterSemester","uniMO"]}
+{"dg-publish":true,"permalink":"/01-school/01-11-medzinarodny-obchod/ps-centralizovana-globalna-mena/","tags":["year2","winterSemester","uniMO"],"dg-note-properties":{"Date":"2025-11-06","Schoolyear":2,"Semester":"Winter","Class":"International Trade","tags":["year2","winterSemester","uniMO"]}}
 ---
 
 # Výhody

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-11-supply-chain-management/risk-management-in-supply-chain/","tags":["erasmus","eraSCM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-11-supply-chain-management/risk-management-in-supply-chain/","tags":["erasmus","eraSCM"],"dg-note-properties":{"Date":"2026-02-20","Class":"Supply chain management","tags":["erasmus","eraSCM"]}}
 ---
 
 # Risk management basics

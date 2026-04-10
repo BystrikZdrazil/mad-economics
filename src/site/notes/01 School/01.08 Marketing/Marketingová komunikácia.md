@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-08-marketing/marketingova-komunikacia/","tags":["year1","winterSemester","uniMRK"]}
+{"dg-publish":true,"permalink":"/01-school/01-08-marketing/marketingova-komunikacia/","tags":["year1","winterSemester","uniMRK"],"dg-note-properties":{"Date":"2024-11-11","Schoolyear":1,"Semester":"Winter","Class":"Marketing","tags":["year1","winterSemester","uniMRK"]}}
 ---
 
 Komunikácia je výmena informácií s určitým zámerom. Úlohou je dať čo najpravdivejšie informacie druhej strane. Marketingová komunikácia napomáha **budovať imidž spoločnosti** a modelovať **konkurenčnú výhodu**.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-08-marketing/podnikove-strategie/","tags":["year1","winterSemester","uniMRK"]}
+{"dg-publish":true,"permalink":"/01-school/01-08-marketing/podnikove-strategie/","tags":["year1","winterSemester","uniMRK"],"dg-note-properties":{"Date":"2024-12-15","Schoolyear":1,"Semester":"Winter","Class":"Marketing","tags":["year1","winterSemester","uniMRK"]}}
 ---
 
 **Podniková stratégia** predstavuje stratégiu podniku, ktorý sa skladá z viacerých **podnikateľských jednotiek** pôsobiacich v rozličných odvetviach. Jej obsahom je riadenie portfólia (súboru) podnikaní.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-10-strategic-organisational-management/assignments/cultural-differences/","tags":["erasmus","eraSOM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-10-strategic-organisational-management/assignments/cultural-differences/","tags":["erasmus","eraSOM"],"dg-note-properties":{"Date":"2026-01-23","Class":"Strategic organisational management","tags":["erasmus","eraSOM"]}}
 ---
 
 # Denmark score

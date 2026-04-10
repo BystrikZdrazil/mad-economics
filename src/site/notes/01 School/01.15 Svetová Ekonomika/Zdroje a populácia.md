@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/zdroje-a-populacia/","tags":["year1","summerSemester","uniSEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/zdroje-a-populacia/","tags":["year1","summerSemester","uniSEK"],"dg-note-properties":{"Date":"2025-02-26","Schoolyear":1,"Semester":"Summer","Class":"World Economy","tags":["year1","summerSemester","uniSEK"]}}
 ---
 
 - **Úživnosť** (carrying capacity) a **preľudnenosť**

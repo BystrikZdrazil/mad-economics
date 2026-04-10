@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-11-supply-chain-management/sustainability-and-circular-economy/","tags":["erasmus","eraSCM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-11-supply-chain-management/sustainability-and-circular-economy/","tags":["erasmus","eraSCM"],"dg-note-properties":{"Date":"2026-03-11","Class":"Supply chain management","tags":["erasmus","eraSCM"]}}
 ---
 
-# Key challenges and opportunities
+s# Key challenges and opportunities
 - Traditionally there is **lean production**, in more recent times combined with agile and green philosophy
 - There are more and **more technologies introduced**
 	- This means rising **complexity**, **volatility** and **speed**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/03-07-a-assignments/project-strategy-nordisk/","tags":["erasmus","eraPM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/03-07-a-assignments/project-strategy-nordisk/","tags":["erasmus","eraPM"],"dg-note-properties":{"Date":"2026-03-05","Class":"Project Management","tags":["erasmus","eraPM"]}}
 ---
 
 # What is a project strategy?

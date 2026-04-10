@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/arrays-and-lists/"}
+{"dg-publish":true,"permalink":"/02-programming/02-02-c-sharp/arrays-and-lists/","dg-note-properties":{}}
 ---
 
 # Arrays

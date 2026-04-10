@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-13-obchodne-a-hospodarske-pravo/obchodne-spolocnosti/","tags":["year1","winterSemester","uniOaHPR"]}
+{"dg-publish":true,"permalink":"/01-school/01-13-obchodne-a-hospodarske-pravo/obchodne-spolocnosti/","tags":["year1","winterSemester","uniOaHPR"],"dg-note-properties":{"Date":"2024-10-29","Schoolyear":1,"Semester":"Winter","Class":"Business Law","tags":["year1","winterSemester","uniOaHPR"]}}
 ---
 
 Obchodná spoločnosť je zákonom definovaná ako **právnická osoba založená za účelom podnikania**. Obchodný zákonník upravuje **päť právnych foriem** obchodných spoločností. Jednotlivými právnymi formami obchodných spoločností sú:

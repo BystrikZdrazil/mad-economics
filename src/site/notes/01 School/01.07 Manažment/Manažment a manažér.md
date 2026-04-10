@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-07-manazment/manazment-a-manazer/","tags":["year1","summerSemester","uniMNZ"]}
+{"dg-publish":true,"permalink":"/01-school/01-07-manazment/manazment-a-manazer/","tags":["year1","summerSemester","uniMNZ"],"dg-note-properties":{"Date":"2025-02-13","Schoolyear":1,"Semester":"Summer","Class":"Management","tags":["year1","summerSemester","uniMNZ"]}}
 ---
 
 Manažment je ucelený súbor činností, ktorými riadiaci sa subjekt cieľavedome **pôsobí na riadne objekt za účelom dosiahnutia čo najvyššej hodnoty** pre vlastníkov, zamestnancov a zákazníkov.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-06-methodology/research-onion/","tags":["erasmus","eraMET"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-06-methodology/research-onion/","tags":["erasmus","eraMET"],"dg-note-properties":{"Date":"2026-01-21","Class":"Methodology","tags":["erasmus","eraMET"]}}
 ---
 
 # Philosophy

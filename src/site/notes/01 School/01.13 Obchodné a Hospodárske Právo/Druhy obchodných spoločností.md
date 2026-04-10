@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-13-obchodne-a-hospodarske-pravo/druhy-obchodnych-spolocnosti/","tags":["year1","winterSemester","uniOaHPR"]}
+{"dg-publish":true,"permalink":"/01-school/01-13-obchodne-a-hospodarske-pravo/druhy-obchodnych-spolocnosti/","tags":["year1","winterSemester","uniOaHPR"],"dg-note-properties":{"Date":"2024-11-03","Schoolyear":1,"Semester":"Winter","Class":"Business Law","tags":["year1","winterSemester","uniOaHPR"]}}
 ---
 
 # Verejná obchodná spoločnosť

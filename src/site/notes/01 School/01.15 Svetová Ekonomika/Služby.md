@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/sluzby/","tags":["year1","summerSemester","uniSEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/sluzby/","tags":["year1","summerSemester","uniSEK"],"dg-note-properties":{"Date":"2025-04-28","Schoolyear":1,"Semester":"Summer","Class":"World Economy","tags":["year1","summerSemester","uniSEK"]}}
 ---
 
 # Základná charakteristika
 - Štatistiky týkajúce sa SH potvrdzujú, že sektor služieb je v súčasnosti najdôležitejším a najdynamickejšie rastúcim sektorom v SH
-- V súčasnosti služby predstavujú zhruba dve tretiny svetového HDP (66,6 % v 2022) + 22 % na sv. obchode
+- V súčasnosti služby predstavujú zhruba dve tretiny svetového [[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|HDP]] (66,6 % v 2022) + 22 % na sv. obchode
 - Podiel služieb na tvorbe HDP rastie zároveň s hospodárskou rozvinutosťou národných ekonomík
 - **PVK** = najväčší producenti služieb; podiel služieb na HDP cca 75 % (2023):
 	- Luxemburg = 1. miesto (výroba) = 88,3 % HDP

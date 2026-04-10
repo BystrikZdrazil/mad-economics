@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-16-uctovnictvo-pre-podnikatelov/uctovne-vykazy/","tags":["year2","winterSemester","uniUpP"]}
+{"dg-publish":true,"permalink":"/01-school/01-16-uctovnictvo-pre-podnikatelov/uctovne-vykazy/","tags":["year2","winterSemester","uniUpP"],"dg-note-properties":{"Date":"2025-09-25","Schoolyear":2,"Semester":"Winter","Class":"Accounting for Entrepreneurs","tags":["year2","winterSemester","uniUpP"]}}
 ---
 
 # Výkaz ziskov a strát

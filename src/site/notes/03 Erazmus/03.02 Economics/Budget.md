@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-02-economics/budget/","tags":["erasmus","eraECO"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-02-economics/budget/","tags":["erasmus","eraECO"],"dg-note-properties":{"Date":"2026-03-02","Class":"Economics","tags":["erasmus","eraECO"]}}
 ---
 
 # Budgets vs Forecasts
@@ -27,7 +27,7 @@ The budget provides the foundation for:
 - Serves as a communication tool to share short‑term goals with employees
 
 # The budgeting process
-![[03 Erazmus/03.02 Economics/03.02.Z Canvases/The budgeting process graph.canvas\|The budgeting process graph.canvas]]
+![[03 Erazmus/03.02 Economics/The budgeting process graph.canvas\|The budgeting process graph.canvas]]
 
 # Elements of budgeting
 Forecasting the need for four types of resources across different time horizons:
@@ -50,7 +50,7 @@ Consists of two main components:
 - **Financial budget** – financial outcomes of operating activities: income statement, cash flow (liquidity budget) and balance sheet
 
 ## Financial statements / operating budget
-![[03 Erazmus/03.02 Economics/03.02.Z Canvases/Operating budget.canvas\|Operating budget.canvas]]
+![[03 Erazmus/03.02 Economics/03.02.C Canvases/Operating budget.canvas\|Operating budget.canvas]]
 
 ## What-if analysis
 The master budget provides the foundation for what‑if analyses:

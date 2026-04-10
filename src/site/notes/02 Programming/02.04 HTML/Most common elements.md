@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-04-html/most-common-elements/"}
+{"dg-publish":true,"permalink":"/02-programming/02-04-html/most-common-elements/","dg-note-properties":{}}
 ---
 
 # What are the most common elements in HTML

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-13-obchodne-a-hospodarske-pravo/zivnostenske-podnikanie/","tags":["year1","winterSemester","uniOaHPR"]}
+{"dg-publish":true,"permalink":"/01-school/01-13-obchodne-a-hospodarske-pravo/zivnostenske-podnikanie/","tags":["year1","winterSemester","uniOaHPR"],"dg-note-properties":{"Date":"2024-10-22","Schoolyear":1,"Semester":"Winter","Class":"Business Law","tags":["year1","winterSemester","uniOaHPR"]}}
 ---
 
 Základným prameňom právnej úpravy živnostenského podnikania je **zákon č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon)**

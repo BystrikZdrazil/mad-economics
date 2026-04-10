@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-00-utility/case-competition-timeline/","tags":["erasmus"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-00-utility/case-competition-timeline/","tags":["erasmus"],"dg-note-properties":{"Date":"2026-02-19","Class":"ERASMUS","tags":["erasmus"]}}
 ---
 
 

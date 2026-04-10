@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-02-economics/03-02-a-assignments/microsoft-commodities-risk/","tags":["erasmus","eraECO","madeByAI"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-02-economics/03-02-a-assignments/microsoft-commodities-risk/","tags":["erasmus","eraECO","madeByAI"],"dg-note-properties":{"Date":"2026-02-16","Class":"Economics","tags":["erasmus","eraECO","madeByAI"]}}
 ---
 
 # Which commodities are especially important for Microsoft?

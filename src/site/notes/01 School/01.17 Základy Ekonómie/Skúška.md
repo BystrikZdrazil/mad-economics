@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/skuska/"}
+{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/skuska/","dg-note-properties":{}}
 ---
 
 

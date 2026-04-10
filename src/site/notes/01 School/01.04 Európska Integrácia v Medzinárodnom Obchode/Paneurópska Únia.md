@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-04-europska-integracia-v-medzinarodnom-obchode/paneuropska-unia/","tags":["year1","summerSemester","uniEIvMO"]}
+{"dg-publish":true,"permalink":"/01-school/01-04-europska-integracia-v-medzinarodnom-obchode/paneuropska-unia/","tags":["year1","summerSemester","uniEIvMO"],"dg-note-properties":{"Date":"2025-02-25","Schoolyear":1,"Semester":"Summer","Class":"European Integration in International Business","tags":["year1","summerSemester","uniEIvMO"]}}
 ---
 
 1. ———

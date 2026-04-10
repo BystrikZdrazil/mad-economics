@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-00-utility/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-school/01-00-utility/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 ![MAD ECONOMICS.png](/img/user/06%20Images/06.06%20School/MAD%20ECONOMICS.png)

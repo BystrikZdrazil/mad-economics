@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/globalizacia-a-eu/","tags":["year1","winterSemester","uniEU"]}
+{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/globalizacia-a-eu/","tags":["year1","winterSemester","uniEU"],"dg-note-properties":{"Date":"2024-11-04","Schoolyear":1,"Semester":"Winter","Class":"European Union","tags":["year1","winterSemester","uniEU"]}}
 ---
 
 # Globalizácia podľa Friedmana (2006)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/stupne-integracie-podla-b-balassu/","tags":["year1","winterSemester","uniEU"]}
+{"dg-publish":true,"permalink":"/01-school/01-06-europska-unia/stupne-integracie-podla-b-balassu/","tags":["year1","winterSemester","uniEU"],"dg-note-properties":{"Date":"2024-10-28","Schoolyear":1,"Semester":"Winter","Class":"European Union","tags":["year1","winterSemester","uniEU"]}}
 ---
 
 # Level 1 - pásmo voľného obchodu

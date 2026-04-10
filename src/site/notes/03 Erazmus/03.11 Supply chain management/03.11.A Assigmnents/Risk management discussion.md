@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-11-supply-chain-management/03-11-a-assigmnents/risk-management-discussion/","tags":["erasmus","eraSCM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-11-supply-chain-management/03-11-a-assigmnents/risk-management-discussion/","tags":["erasmus","eraSCM"],"dg-note-properties":{"Date":"2026-03-05","Class":"Supply chain management","tags":["erasmus","eraSCM"]}}
 ---
 
 

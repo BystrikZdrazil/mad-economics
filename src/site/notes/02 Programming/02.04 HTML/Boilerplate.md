@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-programming/02-04-html/boilerplate/"}
+{"dg-publish":true,"permalink":"/02-programming/02-04-html/boilerplate/","dg-note-properties":{}}
 ---
 
 # What is a boilerplate

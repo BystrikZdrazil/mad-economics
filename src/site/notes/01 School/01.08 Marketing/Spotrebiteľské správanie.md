@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-08-marketing/spotrebitelske-spravanie/","tags":["year1","winterSemester","uniMRK"]}
+{"dg-publish":true,"permalink":"/01-school/01-08-marketing/spotrebitelske-spravanie/","tags":["year1","winterSemester","uniMRK"],"dg-note-properties":{"Date":"2024-10-21","Schoolyear":1,"Semester":"Winter","Class":"Marketing","tags":["year1","winterSemester","uniMRK"]}}
 ---
 
 Znamená správanie konečných spotrebiteľov – jednotlivcov a domácností, ktorí kupujú tovary a služby pre osobnú spotrebu – v čase pred, počas a po nákupe. Spotrebiteľský trh je tvorený všetkými konečnými spotrebiteľmi. Spotrebiteľ je osoba, ktorá využíva statky na **svoju vlastnú spotrebu**.

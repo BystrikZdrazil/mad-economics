@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-13-obchodne-a-hospodarske-pravo/prijimanie-zakonov/","tags":["year1","winterSemester","uniOaHPR"]}
+{"dg-publish":true,"permalink":"/01-school/01-13-obchodne-a-hospodarske-pravo/prijimanie-zakonov/","tags":["year1","winterSemester","uniOaHPR"],"dg-note-properties":{"Date":"2024-10-02","Schoolyear":1,"Semester":"Winter","Class":"Business Law","tags":["year1","winterSemester","uniOaHPR"]}}
 ---
 
 # Proces prijímania zákonov
@@ -25,8 +25,8 @@ Delí sa na:
 - Osobitnú časť
 
 # Účtovníctvo
-- Jednotlivci - jednoduché účtovníctvo
-- Firmy - podvojné účtovníctvo
+- Jednotlivci - [[01 School/01.16 Účtovníctvo pre podnikateľov/Úvod do účtovníctva\|jednoduché účtovníctvo]]
+- Firmy - [[01 School/01.16 Účtovníctvo pre podnikateľov/Úvod do účtovníctva\|podvojné účtovníctvo]]
 
 # Právne systémy
 - Anglo-americký

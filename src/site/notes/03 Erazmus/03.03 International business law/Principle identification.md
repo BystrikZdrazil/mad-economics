@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-03-international-business-law/principle-identification/","tags":["erasmus","eraIBL","madeByAI"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-03-international-business-law/principle-identification/","tags":["erasmus","eraIBL","madeByAI"],"dg-note-properties":{"Date":"2026-03-11","Class":"International business law","tags":["erasmus","eraIBL","madeByAI"]}}
 ---
 
 > [!todo]

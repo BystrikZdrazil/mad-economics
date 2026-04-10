@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-12-nemecky-jazyk/01-11-b-gramatika/gramatika-l16/","tags":["year2","winterSemester","uniNEJ"]}
+{"dg-publish":true,"permalink":"/01-school/01-12-nemecky-jazyk/01-11-b-gramatika/gramatika-l16/","tags":["year2","winterSemester","uniNEJ"],"dg-note-properties":{"Date":"2025-12-08","Schoolyear":2,"Semester":"Winter","Class":"German","tags":["year2","winterSemester","uniNEJ"]}}
 ---
 
 >[!warning] INCOMPLETE NOTES

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/peniaze/","tags":["year1","winterSemester","uniZEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/peniaze/","tags":["year1","winterSemester","uniZEK"],"dg-note-properties":{"Date":"2024-11-28","Schoolyear":1,"Semester":"Winter","Class":"Economy Basics","tags":["year1","winterSemester","uniZEK"]}}
 ---
 
 Je to osobitný statok, ktorý slúži na vyjadrovanie cien iných tovarov a služieb, na ich kúpu a predaj a na realizáciu rôznych potrieb.
@@ -62,7 +62,7 @@ $$M * V = P * Y$$
 - Vzniklo tu peňažné pravidlo
 	- Formulovali ho ****
 	- Je konštantný počet peňazí v krajine
-	- Množstvo peňazí v ekonomike by sa malo zvýšiť len, ak sa zvyšuje HDP
+	- Množstvo peňazí v ekonomike by sa malo zvýšiť len, ak sa zvyšuje [[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|HDP]]
 # Banková sústava
 - Je **dvojstupňová**
 	- Centrálna banka

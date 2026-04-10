@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-09-matematika-a-statistika/statistika3/","tags":["year2","winterSemester","uniVKzMaS"]}
+{"dg-publish":true,"permalink":"/01-school/01-09-matematika-a-statistika/statistika3/","tags":["year2","winterSemester","uniVKzMaS"],"dg-note-properties":{"Date":"2025-09-29","Schoolyear":2,"Semester":"Winter","Class":"Math and Statistics","tags":["year2","winterSemester","uniVKzMaS"]}}
 ---
 
 

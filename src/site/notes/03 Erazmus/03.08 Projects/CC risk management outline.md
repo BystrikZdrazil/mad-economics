@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-08-projects/cc-risk-management-outline/","tags":["erasmus","eraCC"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-08-projects/cc-risk-management-outline/","tags":["erasmus","eraCC"],"dg-note-properties":{"Date":"2026-02-23","Class":"Case Competition","tags":["erasmus","eraCC"]}}
 ---
 
 

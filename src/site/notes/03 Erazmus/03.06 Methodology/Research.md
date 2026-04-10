@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-06-methodology/research/","tags":["erasmus","eraMET"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-06-methodology/research/","tags":["erasmus","eraMET"],"dg-note-properties":{"Date":"2026-01-21","Class":"Methodology","tags":["erasmus","eraMET"]}}
 ---
 
 - **Research** -> **data** -> **analysis**
@@ -64,7 +64,7 @@
 - How do the factors relate?
     - Are they connected, substituting… → short-list of factors to be included (clean them up so no factor is doubled)
 
-![Screenshot 2026-01-21 110129.png](/img/user/06%20Images/06.01%20Erazmus/Screenshot_2026-01-21_110129.png)
+![Screenshot 2026-01-21 110129.png](/img/user/06%20Images/06.01%20Erazmus/MET_research_framework.png)
 
 1. The report problem
 2. 2-3 headlines → individual factors, type of education, culture

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-11-medzinarodny-obchod/konkurencieschopnost-v-mo-a-indexy-konkurencieschopnosti/","tags":["year2","winterSemester","uniMO"]}
+{"dg-publish":true,"permalink":"/01-school/01-11-medzinarodny-obchod/konkurencieschopnost-v-mo-a-indexy-konkurencieschopnosti/","tags":["year2","winterSemester","uniMO"],"dg-note-properties":{"Date":"2025-12-11","Schoolyear":2,"Semester":"Winter","Class":"International Trade","tags":["year2","winterSemester","uniMO"]}}
 ---
 
 # Konkurencieschopnosť v MO

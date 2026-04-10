@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/inflacia/","tags":["year1","winterSemester","uniZEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-17-zaklady-ekonomie/inflacia/","tags":["year1","winterSemester","uniZEK"],"dg-note-properties":{"Date":"2024-11-28","Schoolyear":1,"Semester":"Winter","Class":"Economy Basics","tags":["year1","winterSemester","uniZEK"]}}
 ---
 
 Je to znehodnocovanie peňazí a vzrast celkovej cenovej hladiny.
@@ -14,7 +14,7 @@ Je to znehodnocovanie peňazí a vzrast celkovej cenovej hladiny.
 - Cenové indexy
 	- Index spotrebiteľských cien (CPI)
 	- Index cien priemyselných výrobcov
-	- Deflátor HDP
+	- Deflátor [[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|HDP]]
 	- Miera inflácie
 
 ## Index spotrebiteľských cien (CPI)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/polnohospodarstvo/","tags":["year1","summerSemester","uniSEK"]}
+{"dg-publish":true,"permalink":"/01-school/01-15-svetova-ekonomika/polnohospodarstvo/","tags":["year1","summerSemester","uniSEK"],"dg-note-properties":{"Date":"2025-03-12","Schoolyear":1,"Semester":"Summer","Class":"World Economy","tags":["year1","summerSemester","uniSEK"]}}
 ---
 
 # Historický vývoj poľnohospodárstva

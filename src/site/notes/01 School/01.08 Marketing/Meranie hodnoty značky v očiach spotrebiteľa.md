@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-school/01-08-marketing/meranie-hodnoty-znacky-v-ociach-spotrebitela/","tags":["year1","winterSemester","uniMRK"]}
+{"dg-publish":true,"permalink":"/01-school/01-08-marketing/meranie-hodnoty-znacky-v-ociach-spotrebitela/","tags":["year1","winterSemester","uniMRK"],"dg-note-properties":{"Date":"2024-11-27","Schoolyear":1,"Semester":"Winter","Class":"Marketing","tags":["year1","winterSemester","uniMRK"]}}
 ---
 
 Značky nie sú len značky **produktov**, ale aj značky **služieb**, **zamestnávateľa** a iných.

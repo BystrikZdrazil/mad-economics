@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/types-of-projects/","tags":["erasmus","eraPM"]}
+{"dg-publish":true,"permalink":"/03-erazmus/03-07-project-management/types-of-projects/","tags":["erasmus","eraPM"],"dg-note-properties":{"Date":"2026-01-28","Class":"Project Management","tags":["erasmus","eraPM"]}}
 ---
 
 # Turner & Cochrane – Goals‑and‑Methods Matrix
