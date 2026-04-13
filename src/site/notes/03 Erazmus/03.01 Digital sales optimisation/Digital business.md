@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/03-erazmus/03-01-digital-sales-optimisation/digital-business/","tags":["erasmus","eraDSO"],"dg-note-properties":{"Date":"2026-04-10","Class":"Digital Sales Optimisation","tags":["erasmus","eraDSO"]}}
 ---
 
+>[!warning] INCOMPLETE NOTES
+>**These notes aren't complete**. This file still needs attention regarding its *content* and/or *formatting*.
+>#incomplete
+
 # Key elements
 1. Digital products or services
 	- It can be fully digital (*apps, streaming, SaaS*) or digitally enhanced (*online banking, e-commerce*)
