@@ -7,9 +7,9 @@
 **Dynamics and components**: How much control does the company have over the factors that affect them
 Can the past predict the future?
 
-![ECO_forecasting_1.png](/img/user/06%20Images/ECO_forecasting_1.png)
+![ECO_forecasting_1.png](/img/user/06%20Images/06.01%20Erazmus/ECO_forecasting_1.png)
 
-![ECO_forecasting_2.png](/img/user/06%20Images/ECO_forecasting_2.png)
+![ECO_forecasting_2.png](/img/user/06%20Images/06.01%20Erazmus/ECO_forecasting_2.png)
 
 # 3 overall types
 1. **Qualitative** (*judgement/counting*) techniques
@@ -56,7 +56,7 @@ Can the past predict the future?
 - **Monitoring approaches**
 
 # Use of different methods
-![ECO_forecasting_3.png](/img/user/06%20Images/ECO_forecasting_3.png)
+![ECO_forecasting_3.png](/img/user/06%20Images/06.01%20Erazmus/ECO_forecasting_3.png)
 
 # Predictive / forecasting analysis
 - Predictive / forecasting analysis
@@ -78,20 +78,20 @@ Can the past predict the future?
 # Why forecast?
 - Affects both **customer service** and **liquidity** -> link to [[03 Erazmus/03.02 Economics/Balanced scorecard\|BSC]]
 
-![ECO_forecasting_4.png](/img/user/06%20Images/ECO_forecasting_4.png)
+![ECO_forecasting_4.png](/img/user/06%20Images/06.01%20Erazmus/ECO_forecasting_4.png)
 
 # Forecasting / goals / budgets
 
-![ECO_forecasting_5.png](/img/user/06%20Images/ECO_forecasting_5.png)
+![ECO_forecasting_5.png](/img/user/06%20Images/06.01%20Erazmus/ECO_forecasting_5.png)
 
-![ECO_forecasting_6.png](/img/user/06%20Images/ECO_forecasting_6.png)
+![ECO_forecasting_6.png](/img/user/06%20Images/06.01%20Erazmus/ECO_forecasting_6.png)
 
 # Bias in forecasting
 Bias/misunderstandings:
 - **Wishful thinking**, looking for signs supporting what you already believe will happen
 - **Pressure to deliver** convincing **forecasts** rather than realistic scenarios
 
-![ECO_forecasting_7.png](/img/user/06%20Images/ECO_forecasting_7.png)
+![ECO_forecasting_7.png](/img/user/06%20Images/06.01%20Erazmus/ECO_forecasting_7.png)
 
 # Improving forecasting
 - Combine different forecast types

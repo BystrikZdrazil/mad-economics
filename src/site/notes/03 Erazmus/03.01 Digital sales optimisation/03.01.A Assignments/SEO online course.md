@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/03-erazmus/03-01-digital-sales-optimisation/03-01-a-assignments/seo-online-course/","tags":["erasmus","eraDSO"],"dg-note-properties":{"Date":"2026-04-15","Class":"Digital Sales Optimisation","tags":["erasmus","eraDSO"]}}
 ---
 
-![madmarketingfinal.png](/img/user/06%20Images/madmarketingfinal.png)
+![DSO_madmarketingfinal.png](/img/user/06%20Images/06.01%20Erazmus/DSO_madmarketingfinal.png)
 
 # Page title
 Attract through uniqueness | Mad Marketing

@@ -82,7 +82,7 @@ Targets are important, as without a clear goal it can not be achieved.
 - Prioritize remaining initiatives (rank them to make resource allocation decisions)
 
 ## Assessing and selecting initiatives
-![ECO_initiative_assessment.png](/img/user/06%20Images/ECO_initiative_assessment.png)
+![ECO_initiative_assessment.png](/img/user/06%20Images/06.01%20Erazmus/ECO_initiative_assessment.png)
 
 # Cascading a balance scorecard
 It means developing a [[03 Erazmus/03.02 Economics/Balanced scorecard\|balanced scorecard]] at each level of an organisation
