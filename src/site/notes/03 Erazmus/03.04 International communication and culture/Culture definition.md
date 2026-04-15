@@ -18,7 +18,7 @@
 	- Religion
 	- Language
 	- Family
-- The idea that culture can be **divided into elements**, which you can relate to in an objective way (*Like ”Hofsteede”*)
+- The idea that culture can be **divided into elements**, which you can relate to in an objective way (*Like [[03 Erazmus/03.04 International communication and culture/Hofstede's cultural dimensions\|Hofstede]]*)
 - Culture can be measured (*Objective*)
 
 ## Interpretive/Emic approach
@@ -139,7 +139,7 @@ Based on:
 	- Economic competition
 
 >[!info]+
->**Danish culture**
+>[[03 Erazmus/03.04 International communication and culture/Danish culture\|Danish culture]]
 >- Extremely egalitarian
 >- Shy of conflicts (focusing on consensus)
 >- Direct/non-formal

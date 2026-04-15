@@ -17,14 +17,19 @@ data:
     serie: Slovakia
   - label: " Individualism"
     value: 52
+    serie: Slovakia
   - label: " Masculinity"
     value: 100
+    serie: Slovakia
   - label: " Uncertainty avoidance"
     value: 51
+    serie: Slovakia
   - label: " Long term orientation"
     value: 77
+    serie: Slovakia
   - label: " Indulgence"
     value: 28
+    serie: Slovakia
 
 #-----------------#
 #- chart options -#

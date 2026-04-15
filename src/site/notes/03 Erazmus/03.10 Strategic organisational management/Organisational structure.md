@@ -52,7 +52,7 @@ A company can adopt several different types of structures. These structures can 
 - Characterised by companies that **produce a limited range** of related products or services
 - The **strategic direction** can be **centralised**, as business **areas are similar**
 - Best in **stable environment**
-- Culture is often **less entrepreneurial** compared to more decentralised structures
+- [[03 Erazmus/03.04 International communication and culture/Culture definition\|Culture]] is often **less entrepreneurial** compared to more decentralised structures
 
 ### Divisional structure
 - This structure can be **divided in different ways**
