@@ -56,3 +56,7 @@
 > - Discuss how the use of [[03 Erazmus/03.04 International communication and culture/Trompenaar’s cultural dimensions\|Trompenaar’s cultural dimensions]] and Schwartz cultural dimensions can supplement Hofstede?
 > 
 > ![ICC_cultural_problems_exercise.jpeg](/img/user/06%20Images/06.01%20Erazmus/ICC_cultural_problems_exercise.jpeg)
+> 
+> ---
+> 
+> [[03 Erazmus/03.04 International communication and culture/03.04.A Assignments/Cultural problems Slovakia\|Cultural problems Slovakia]]

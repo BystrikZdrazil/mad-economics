@@ -26,7 +26,7 @@ Depends on:
 |*Medium*|Positioned as a separate function, e.g. within the logistics department or the finance function|Purchasing activities are typically not directly included in the company's strategic considerations, and purchasing is therefore not represented in the executive management team. Tasks performed are typically related to the logistics function or cover parts of the company's purchasing of indirect goods as part of the finance|
 |*Low*|Positioned as a department under e.g. production or warehousing|Purchasing is an operational function, often placed with direct reference to the function that has the need to purchase. More strategic purchasing tasks are often handled by functional managers, while the purchasing function's tasks are, for example, to order goods based on production or inventory requirements.|
 
-![[03 Erazmus/03.09 Purchasing/Linear and operational function graph.canvas\|Linear and operational function graph.canvas]]
+![[03 Erazmus/03.09 Purchasing/03.09.C Canvases/Linear and operational function graph.canvas\|Linear and operational function graph.canvas]]
 
 # 3 levels of strategy in an organisation
 1. Corporate

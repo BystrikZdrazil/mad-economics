@@ -27,3 +27,10 @@ The circle structure **doesn’t just delineate** these three axis. Cultures nor
 	- Easy to depict correctly in a graph
 	1. **Traditional VS secular** values
 	2. **Survival VS self-expression** values
+
+# Meyers culture map
+- Examines the range of cultural differences in communication, leadership, decision-making, and giving feedback
+- Helps leaders and teams develop cultural intelligence, improve communication and enhance collaboration across diverse . . .
+
+## The eight scales
+- . . .
