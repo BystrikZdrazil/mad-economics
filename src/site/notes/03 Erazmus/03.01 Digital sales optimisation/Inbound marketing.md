@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/03-erazmus/03-01-digital-sales-optimisation/inbound-marketing/","tags":["erasmus","eraDSO"],"dg-note-properties":{"Date":"2026-05-01","Class":"Digital Sales Optimisation","tags":["erasmus","eraDSO"]}}
 ---
 
->[!warning] INCOMPLETE NOTES
->**These notes aren't complete**. This file still needs attention regarding its *content* and/or *formatting*.
->#incomplete
-
 - Customer-centric digital marketing approach
 - Launched by HubSpot in 2006
 - Attracting customers "*naturally*"
@@ -13,12 +9,10 @@
 - Permission based (*e-mail, cookies,...*)
 - Earns attention instead of buying it
 
-- It is ongoging
-- Behavior‑driven . . .
-
-•Data‑based
-
-•Focused on lifetime value
+- It is ongoing
+- Behavior‑driven
+- Data-based
+- Focused on lifetime value
 
 The right mindset for inbound marketing is to shift from selling to helping
 

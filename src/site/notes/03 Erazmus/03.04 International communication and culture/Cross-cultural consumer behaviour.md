@@ -46,10 +46,10 @@
 
 ## Family decision making and culture
 
-|               | **Feminine**                                                                                            | **Masculine**                                                                                          |
-| ------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| *Individualist* | - Gender roles overlap<br>- Individual freedom<br>- *Denmark, Norway and Sweden*                        | - Gender-role differences, less equality<br>- Individual freedom<br>- *Australia, Germany, US and USA* |
-| *Collectivist*  | - Gender roles overlap<br>- Less autonomy, more family influence<br>- *Chile, South Korea and Thailand* | - Gender-role differences, less equality<br>- . . .                                                    |
+|                 | **Feminine**                                                                                            | **Masculine**                                                                                                         |
+| --------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| *Individualist* | - Gender roles overlap<br>- Individual freedom<br>- *Denmark, Norway and Sweden*                        | - Gender-role differences, less equality<br>- Individual freedom<br>- *Australia, Germany, US and USA*                |
+| *Collectivist*  | - Gender roles overlap<br>- Less autonomy, more family influence<br>- *Chile, South Korea and Thailand* | - Gender-role differences, less equality<br>- Less autonomy, more family influence<br>- *Hong-Kong, Japan and Mexico* |
 
 # Self-concepts or mindsets
 - **Independent**
