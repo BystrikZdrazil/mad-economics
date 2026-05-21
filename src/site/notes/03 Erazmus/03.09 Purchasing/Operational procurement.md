@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/03-erazmus/03-09-purchasing/operational-procurement/","tags":["erasmus","eraPUR"],"dg-note-properties":{"Date":"2026-05-05","Class":"Purchasing","tags":["erasmus","eraPUR"]}}
 ---
 
->[!warning] INCOMPLETE NOTES
->**These notes aren't complete**. This file still needs attention regarding its *content* and/or *formatting*.
->#incomplete
-
 - *What should be ordered?*
 - *When?*
 - *What are the specs?*
@@ -19,7 +15,7 @@
 - **Non-standard items**
 	- Create contracts and framework agreements
 
-# Other 
+# Other
 - Who are the best suppliers? 
 - Which factors are most important when selecting a supplier? 
 - How is the competition among suppliers? 
@@ -59,7 +55,7 @@ Purchase types affect the purchasing process
 Using a real-world supermarket case study (*barcode scanners for warehouse operations*), you'll see exactly how procurement professionals apply these stages in practice.
 
 # Help challenge
->[!todo]+
+>[!todo]+ Assignment
 >CSR & ESG & sustainability
 >- Discuss how the above areas influence Boozt?
 >- List some main focus areas of Boozt today?
@@ -70,5 +66,29 @@ Using a real-world supermarket case study (*barcode scanners for warehouse opera
 >
 >---
 >
->[[03 Erazmus/03.09 Purchasing/03.09.A Assignments/Boozt\|Boozt]]
+>[[03 Erazmus/03.09 Purchasing/03.09.A Assignments/Boozt CSR & ESG\|Boozt CSR & ESG]]
 
+# Boozt procurement
+>[!todo]+ Task
+>Imagine that you work in Boozt’s procurement department
+>
+>Identify areas of improvements for Boozt and what the company can do to support **CSR**, **ESG** & **Sustainability initiatives** event better tomorrow
+>
+>**Procurement planning**
+>Make a specific procurement plan with your areas of improvements = make them operational = make a specific plan ”what to do” = procurement planning
+>
+>**Goal** = what to do in procurement department from June 1, 2026
+>
+>Can you and the team identify areas of concern in the procurement plan?
+>
+>**Example**
+>Use green energy = Find a new supplier of energy = identify relevant suppliers, evaluate suppliers and their products, decide that 75% of energy must be green
+>
+>*In short, a plan “as detailed as possible” with some suggestions*
+>
+>**Time**: 60 minutes
+>**Product**: Word document
+>
+>---
+>
+>[[03 Erazmus/03.09 Purchasing/03.09.A Assignments/Boozt procurement improvement\|Boozt procurement improvement]]

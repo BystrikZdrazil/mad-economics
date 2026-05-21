@@ -37,13 +37,27 @@
 - Involves evaluating other cultures based on the standards and values of one's own
 
 **Important to avoid**:
-- **Judgmental Attitude**: Viewing different cultural practices as "wrong" or "inferior"
-- **"*Us vs. Them*"**: Creating rigid boundaries, favoring one's in-group, and dehumanizing out-groups
-- **Everyday Examples**: Judging unfamiliar food as "gross" (e.g., eating insects), viewing foreign customs as "barbaric" or "strange," and interpreting different cultural etiquette as "incorrect"
+- **Judgmental Attitude**: Viewing different cultural practices as "*wrong*" or "*inferior*"
+- **"*Us vs. Them*"**: Creating rigid boundaries, favouring one's in-group, and dehumanizing out-groups
+- **Everyday Examples**: Judging unfamiliar food as "*gross*" (*e.g., eating insects*), viewing foreign customs as "*barbaric*" or "*strange*" and interpreting different cultural etiquette as "*incorrect*"
 
+## Stereotypes discussion
 >[!todo]+ Task
 >- Which personality types and/or personal background are best suited for cultural interactions?
 >- Are you able to communicate better with particular countries and cultures?
 >- How can Hofstede a. o. cultural dimension be useful in preparing for cultural interactions?
 >- How can you increase your intercultural interaction skills?
 >- Give examples of cultural stereotypes related to your country?
+>
+>---
+>
+>[[03 Erazmus/03.04 International communication and culture/03.04.A Assignments/Cultural stereotypes\|Cultural stereotypes]]
+
+# Cultural stereotypes
+- Cultural stereotypes are oversimplified, generalized beliefs about specific groups, often covering personality, appearance or abilities
+- These fixed, often inaccurate mental shortcuts help individuals categorize information but frequently lead to prejudice and discrimination
+
+>[!example]+
+>- *The Germans are hard working*
+>- *The Japanese are disciplined*
+>- *The Bulgarians steal a lot*

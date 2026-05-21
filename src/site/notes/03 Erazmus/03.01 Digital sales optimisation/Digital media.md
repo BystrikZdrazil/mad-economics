@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/03-erazmus/03-01-digital-sales-optimisation/digital-media/","tags":["erasmus","eraDSO"],"dg-note-properties":{"Date":"2026-04-29","Class":"Digital Sales Optimisation","tags":["erasmus","eraDSO"]}}
 ---
 
->[!warning] INCOMPLETE NOTES
->**These notes aren't complete**. This file still needs attention regarding its *content* and/or *formatting*.
->#incomplete
-
 # Consumer behaviour framework
 - Funnel thinking is a strategic framework that maps the customer path from initial brand awareness to final purchase and loyalty.
 - By dividing this into stages
@@ -15,7 +11,7 @@
 - Marketers can tailor content and tactics to specific audience needs, optimizing for higher conversion rates
 
 # Customer journey
-A customer journey map shows the steps and touchpoints on the ‘path-to-purchase’ from customer awareness to product comparison, selection and purchase.
+A customer journey map shows the steps and touchpoints on the "*path-to-purchase*" from customer awareness to product comparison, selection and purchase.
 
 They are often used as part of customer persona analysis and the buying process of a persona.
 

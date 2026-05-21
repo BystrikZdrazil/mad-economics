@@ -20,25 +20,25 @@
 - Explicit communication is direct and straightforward
 - 1976 - Hall published the book Beyond Culture, where he introduced the concepts of high and low context cultures
 
-# Key points of Halls theory
+## Key points of Halls theory
 - **Low-context** and **high-context** cultures
 - Hall worked with **linguistics**, **body language** and submeanings/**subcontext**
 - Cultures are divided by **how they communicate**
 - Difficult for low-context cultures to communicate with high-context cultures
 
-## High-context cultures
+### High-context cultures
 - Relies primarily on **implicit communication**
-- Close social bonds are common in high-context cultures. These interactinos lead to an instinctive understanding of cultural rules that do not need to be communicated within the society
+- Close social bonds are common in high-context cultures. These interactions lead to an instinctive understanding of cultural rules that do not need to be communicated within the society
 - Individuals are **defined by their place** in the larger social group, and there is a clear distinction between members of the group and "outsiders"
 - As a result, communication between high-context cultures and those unfamiliar with their rules can be difficult
 
-## Low-context cultures
+### Low-context cultures
 - Exhibit many of the opposite attributes of high-context cultures
 - Rely on explicit communication between members
 - Word are more important than meanings in low-context societies, with the culture's rules and expectations required to be defined in advance
 - Tend to be more goal-oriented with individual achievements taking precedence over group accomplishments
 
-## Direct comparison
+### Direct comparison
 
 | **Low-context**                                    | **High-context**                                          |
 | -------------------------------------------------- | --------------------------------------------------------- |
