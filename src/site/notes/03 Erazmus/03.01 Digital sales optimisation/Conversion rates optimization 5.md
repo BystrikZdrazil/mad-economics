@@ -25,7 +25,7 @@ CRO contains a number of different elements that need to be put into play (*webs
 >
 >These minor design changes helped Basekit to increase their conversion rate by 25%.
 >
->![DSO_basekit_old_vs_new.png](/img/user/06%20Images/DSO_basekit_old_vs_new.png)
+>![DSO_basekit_old_vs_new.png](/img/user/06%20Images/06.01%20Erazmus/DSO_basekit_old_vs_new.png)
 
 - Unbounce 2021 **Conversion Benchmark Report** compares landing page conversion rates for 16 different sectors
 - **Conversion Rate** = **# Sales** / **# Visits**
@@ -86,7 +86,7 @@ For example, allows visitors to download content (*e-books, white papers, videos
 >- It features **testimonials** from current **hosts**, **articles** offering **advice**, and even a **calculator** to estimate your **weekly average earnings** based on your location.
 >- If all this info convinces you to start hosting, the **vibrant pink CTA** in the header makes it easy to convert on the spot.
 >
->![DSO_airbnb_landing_page.png](/img/user/06%20Images/DSO_airbnb_landing_page.png)
+>![DSO_airbnb_landing_page.png](/img/user/06%20Images/06.01%20Erazmus/DSO_airbnb_landing_page.png)
 
 # Big tech companies
 - The “*magnificent seven*”- **Nvidia**, **Microsoft**, **Apple**, **Amazon**, **Meta**, **Alphabet** and **Tesla** - now control 35% of the **S&P 500** total value.

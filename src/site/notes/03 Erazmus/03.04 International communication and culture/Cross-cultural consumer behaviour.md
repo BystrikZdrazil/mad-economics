@@ -128,4 +128,4 @@
 **Separation**: Wants to maintain their heritage culture, but not adopt the settlement culture
 
 **Marginalization**: Does not want to maintain their heritage culture or adopt the settlement culture
-![ICC_Acculturation_theory.png](/img/user/06%20Images/ICC_Acculturation_theory.png)
+![ICC_Acculturation_theory.png](/img/user/06%20Images/06.01%20Erazmus/ICC_Acculturation_theory.png)

@@ -8,7 +8,7 @@
 - Scores for countries on each dimension can be found [here](https://www.thtconsulting.com/resources/culture-explore/)
 - A few country comparisons can be made [here](https://www.thtconsulting.com/resources/culture-explore/compare-countries/)
 
-![ICC_trompenaars_cultural_dimensions.png](/img/user/06%20Images/ICC_trompenaars_cultural_dimensions.png)
+![ICC_trompenaars_cultural_dimensions.png](/img/user/06%20Images/06.01%20Erazmus/ICC_trompenaars_cultural_dimensions.png)
 
 # Globes cultural dimensions
 | **Cultural Dimensions**      | **Definitions**                                                                                                                                              |
@@ -23,7 +23,7 @@
 | *Future Orientation*         | The degree to which a collective encourages and rewards future-oriented behaviors such as planning and delaying gratification                                |
 | *Assertiveness*              | The degree to which individuals are assertive, confrontational, and aggressive in their relationships with others                                            |
 
-![ICC_globe_country_comparison.png](/img/user/06%20Images/ICC_globe_country_comparison.png)
+![ICC_globe_country_comparison.png](/img/user/06%20Images/06.01%20Erazmus/ICC_globe_country_comparison.png)
 
 # Schwartz cultural dimensions
 - 7 cultural dimensions
@@ -32,11 +32,11 @@
 	- Mastery VS harmony
 	- Embedded news VS autonomy
 
-![ICC_schwartz_cultural_dimensions.png](/img/user/06%20Images/ICC_schwartz_cultural_dimensions.png)
+![ICC_schwartz_cultural_dimensions.png](/img/user/06%20Images/06.01%20Erazmus/ICC_schwartz_cultural_dimensions.png)
 
 The circle structure **doesn’t just delineate** these three axis. Cultures normally **don’t cross over**.
 
-![ICC_schwartz_cultural_dimensions_map.png](/img/user/06%20Images/ICC_schwartz_cultural_dimensions_map.png)
+![ICC_schwartz_cultural_dimensions_map.png](/img/user/06%20Images/06.01%20Erazmus/ICC_schwartz_cultural_dimensions_map.png)
 
 # World Values Survey
 - 2 dimensional only
@@ -44,7 +44,7 @@ The circle structure **doesn’t just delineate** these three axis. Cultures nor
 	1. **Traditional VS secular** values
 	2. **Survival VS self-expression** values
 
-![ICC_world_values_survey.png](/img/user/06%20Images/ICC_world_values_survey.png)
+![ICC_world_values_survey.png](/img/user/06%20Images/06.01%20Erazmus/ICC_world_values_survey.png)
 
 # Meyers culture map
 - Examines the range of cultural differences in communication, leadership, decision-making, and giving feedback
@@ -62,4 +62,4 @@ Each of the eight scales is described as a continuum between the two ends which 
 - **Scheduling** – Do they perceive time as absolute linear points, or consider it a flexible range?
 - **Persuading** – Do they like to hear specific cases and examples, or prefer holistic detailed explanations?
 
-![ICC_meyers_culture_map.png](/img/user/06%20Images/ICC_meyers_culture_map.png)
+![ICC_meyers_culture_map.png](/img/user/06%20Images/06.01%20Erazmus/ICC_meyers_culture_map.png)

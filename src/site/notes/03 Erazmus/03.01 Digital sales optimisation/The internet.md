@@ -16,4 +16,4 @@
 	- Approximately 5.8 billion people worldwide are connected to the internet, equalling to 71% of the global population
 - Users aren't just browsing, they are engaging with content, making purchases, and interacting on social media
 
-![DSO_the_internet_minute.png](/img/user/06%20Images/DSO_the_internet_minute.png)
+![DSO_the_internet_minute.png](/img/user/06%20Images/06.01%20Erazmus/DSO_the_internet_minute.png)

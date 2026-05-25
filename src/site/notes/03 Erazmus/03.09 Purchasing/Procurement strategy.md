@@ -170,7 +170,7 @@ Defining procurement categories provides a structured approach to procurement ma
 
 **Smarter Purchase Management**: Proper organization helps identify areas for cost savings and improve overall procurement efficiency.
 
-![PUR_why_use_procurement_categories.png](/img/user/06%20Images/PUR_why_use_procurement_categories.png)
+![PUR_why_use_procurement_categories.png](/img/user/06%20Images/06.01%20Erazmus/PUR_why_use_procurement_categories.png)
 
 # Differentiation by complexity
 The complexity assessment considers attributes of Goods/services/markets and the value created through procurement to identify an appropriate approach to market.
@@ -218,7 +218,7 @@ Risk relates to the likelihood for an unexpected event in the supply chains to d
 Profitability describes the impact of a supply item upon the bottom line.
 
 For certain areas of spend, such as stationery, supplies have only a negligible effect on profits. In other categories, a single source of supply can make or break a business.
-![PUR_differentiation_by_product_type.png](/img/user/06%20Images/PUR_differentiation_by_product_type.png)
+![PUR_differentiation_by_product_type.png](/img/user/06%20Images/06.01%20Erazmus/PUR_differentiation_by_product_type.png)
 
 # Logistical efficiency
 Logistics efficiency refers to the ability to optimize the flow of goods, services, and information within a supply chain, aiming to reduce costs, improve speed, and enhance the accuracy of delivery.

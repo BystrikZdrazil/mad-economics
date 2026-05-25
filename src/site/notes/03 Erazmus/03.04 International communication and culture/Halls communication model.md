@@ -116,7 +116,7 @@ Are more likely to:
 - Latin interruptions (*rude*) vs. Anglo-Saxon "stage" (*boring*).
 - Western eye contact (*rude*) vs. Eastern eye lowering (*lack of honesty, inattentive*).
 
-![ICC_non-verbal_behaviour.png](/img/user/06%20Images/ICC_non-verbal_behaviour.png)
+![ICC_non-verbal_behaviour.png](/img/user/06%20Images/06.01%20Erazmus/ICC_non-verbal_behaviour.png)
 
 >[!todo]+ Task
 >Team up two and two (*different nationalities*)

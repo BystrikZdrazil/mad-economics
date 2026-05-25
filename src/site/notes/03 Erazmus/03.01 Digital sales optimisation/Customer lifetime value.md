@@ -180,10 +180,10 @@ Make every step from **targeting** -> click -> conversion -> repeat purchase **m
 >9. Cut waste with better measurement
 
 ## Improve CRO before buying more traffic
-|Scenario|Ad spend|Website visitors|Conversion rate|Customers|CAC|
-|---|---|---|---|---|---|
-|Before|€1,000|2,000|1%|20|€50|
-|After CRO|€1,000|2,000|2%|40|€25|
+| **Scenario** | **Ad spend** | **Website visitors** | **Conversion rate** | **Customers** | **CAC** |
+| ------------ | ------------ | -------------------- | ------------------- | ------------- | ------- |
+| *Before*       | €1,000       | 2,000                | 1%                  | 20            | €50     |
+| *After CRO*    | €1,000       | 2,000                | 2%                  | 40            | €25     |
 
 Same budget. Double the customers. CAC cut in half.
 

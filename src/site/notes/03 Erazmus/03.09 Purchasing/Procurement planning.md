@@ -60,7 +60,7 @@ The procurement strategy concerns processes and tasks in the procurement functio
 - It is consistent across many types of companies
 
 # Warehouse structure
-![PUR_warehouse_structure.png](/img/user/06%20Images/PUR_warehouse_structure.png)
+![PUR_warehouse_structure.png](/img/user/06%20Images/06.01%20Erazmus/PUR_warehouse_structure.png)
 
 ## Central / decentral warehouse
 The optimal solution may be **both**, so the **advantages** and **disadvantages** of both are **assessed** in relation to the **company**, **products**, **customers**, etc 

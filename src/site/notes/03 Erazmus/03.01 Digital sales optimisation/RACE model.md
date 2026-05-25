@@ -21,7 +21,7 @@ This is **conversion to sale**. It involves getting your audience to take that v
 This is developing a **long-term relationship** with first-time buyers to build customer loyalty as repeat purchases using communications on your site, social presence, email and direct interactions to **boost customer lifetime value**. It can be measured by repeat actions such as **repeat sale and sharing content** through social media. We also need to measure the percentage of active customers (*or email subscribers*) and customer satisfaction and recommendation using other systems.
 
 # Smart insights for digital marketing
-![DSO_smart_insights_RACE_planning_system.png](/img/user/06%20Images/DSO_smart_insights_RACE_planning_system.png)
+![DSO_smart_insights_RACE_planning_system.png](/img/user/06%20Images/06.01%20Erazmus/DSO_smart_insights_RACE_planning_system.png)
 
 | **RACE element** | **Aim**                                                                                                                                          | **Sample KPIs**                                                                                                                        |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |

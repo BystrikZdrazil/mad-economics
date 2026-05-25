@@ -4,9 +4,9 @@
 
 The range of different marketing activities or operating processes needed to support **acquisition**, **conversion**, **retention** and **growth** of customers.
 
-![DSO_management_of_digital_marketing.png](/img/user/06%20Images/DSO_management_of_digital_marketing.png)
+![DSO_management_of_digital_marketing.png](/img/user/06%20Images/06.01%20Erazmus/DSO_management_of_digital_marketing.png)
 
-![DSO_aiming_for_digital_marketing_excellence.png](/img/user/06%20Images/DSO_aiming_for_digital_marketing_excellence.png)
+![DSO_aiming_for_digital_marketing_excellence.png](/img/user/06%20Images/06.01%20Erazmus/DSO_aiming_for_digital_marketing_excellence.png)
 
 # 6 pillars of digital marketing
 1. Planning and governance
@@ -26,7 +26,7 @@ The range of different marketing activities or operating processes needed to sup
 - Success in digital marketing is not just about digital media and platforms
 - Creating an effective digital experience, messaging and quality content to fuel your digital strategy are all vital too
 
-![DSO_six_pillars_of_digital_marketing.png](/img/user/06%20Images/DSO_six_pillars_of_digital_marketing.png)
+![DSO_six_pillars_of_digital_marketing.png](/img/user/06%20Images/06.01%20Erazmus/DSO_six_pillars_of_digital_marketing.png)
 
 # Overall marketing spending and initiatives
 Marketing spending is shifting toward digital channels, which are projected to capture approximately 75% of all advertising revenues by end of 2026.

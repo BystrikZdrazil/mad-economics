@@ -42,7 +42,7 @@ When using channels like organic and paid search, social media and email marketi
 
 For each SOP you find the **Opportunity**, **Strategy** and **Action**.
 
-![DSO_RACE_model_example.png](/img/user/06%20Images/DSO_RACE_model_example.png)
+![DSO_RACE_model_example.png](/img/user/06%20Images/06.01%20Erazmus/DSO_RACE_model_example.png)
 
 >[!todo]+ Task
 >Use the Excel template and find a relevant "*case*" where you use minimum 1 of the goals under each of the 4 phrases to improve Reach, (*Inter*)action, Conversion, and Engagement
@@ -153,7 +153,7 @@ KPI dashboards can make use of a wide range of different data visualizations and
 - Share-of-voice (SoV)
 - etc.
 
-![DSO_metrics_dashboard.png](/img/user/06%20Images/DSO_metrics_dashboard.png)
+![DSO_metrics_dashboard.png](/img/user/06%20Images/06.01%20Erazmus/DSO_metrics_dashboard.png)
 
 ### Key benefits of KPI dashboard
 **Detailed dive**

@@ -34,7 +34,7 @@
 	- Interactive process, blurred identity, location, time
 	- Value-added activity
 
-# The [[03 Erazmus/03.01 Digital sales optimisation/CRM\|CRM]] concept
+# The [[03 Erazmus/03.01 Digital sales optimisation/CRM, automation and revenue model\|CRM, automation and revenue model]] concept
 - From mass marketing to **one-on-one marketing**
 - **SMCs**: Segment marketing, adapting to the needs of the segment (*long-term investment*) -> mass customization (*allow small adaptations of products and services*)
 - **CRM**: Build and sustain long-term relationships with customers

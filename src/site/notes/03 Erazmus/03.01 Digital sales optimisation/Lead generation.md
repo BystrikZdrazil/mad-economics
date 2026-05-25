@@ -39,7 +39,7 @@ Lead generation matters because it helps companies
 >**Business Academy** that advertises a **bachelor program online** does not only want students to “*like*” a post. It wants them to **request a brochure**, **sign up** for an **open day**, book a **student advisor meeting**, or start an **application**. Those actions generate **leads**.
 
 # Lead attraction and nurturing efforts
-![DSO_lead_generation_funnel.png](/img/user/06%20Images/DSO_lead_generation_funnel.png)
+![DSO_lead_generation_funnel.png](/img/user/06%20Images/06.01%20Erazmus/DSO_lead_generation_funnel.png)
 
 **Bounces**: the bounce rate is the number of visitors who leave the site without visiting any other page.  High bounce rates might be a sign that your content is not engaging visitors, or you may be driving visitors to a page that is not relevant for them.
 

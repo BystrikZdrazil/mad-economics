@@ -44,4 +44,4 @@ The Swoosh logo represents in my opinion the speed with which a runner passes th
 
 # Framework
 The logo symbolizes the repairability and upgradeability of the hardware, offering complete control to the customer over their device.
-![Framework_logo.png](/img/user/06%20Images/Framework_logo.png)
+![Framework_logo.png](/img/user/06%20Images/06.01%20Erazmus/Framework_logo.png)
