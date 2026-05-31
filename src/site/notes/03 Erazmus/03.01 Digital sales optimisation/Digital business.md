@@ -113,7 +113,7 @@ It alters **customer behaviour**, forces **reevaluation** of **value proposition
 > [!tip]
 > Data + scale + platform = **exponential advantage**
 
-# AI, ecosystems & digital dominance
+## AI, ecosystems & digital dominance
 - 2018 - present
 - **Key inventions**
 	- AI
@@ -167,8 +167,8 @@ It alters **customer behaviour**, forces **reevaluation** of **value proposition
 - Underestimated **platform dynamics**
 
 >[!example]+
->A combination of complexity, misjudging, consumer shifts, and organizational inertia. While they were dominant in the physical world, their success became a barrier to adapting to software-driven ecosystems across the entire enterprise
->.
+>A combination of complexity, misjudging, consumer shifts, and organizational inertia. While they were dominant in the physical world, their success became a barrier to adapting to software-driven ecosystems across the entire enterprise.
+>
 >Lack of agility -> less efficiency -> unable to take holistic decisions
 
 > [!todo] Task

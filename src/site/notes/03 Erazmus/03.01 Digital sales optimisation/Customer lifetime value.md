@@ -20,7 +20,7 @@ CLV can be used by all types of businesses, retail, travel agencies, publishing,
 Generating new customers is a cost (*investment*) -> e.g. PPC ad, a TV campaign, promoted SoMe post, etc. = **Customer acquisition costs (*CAC*)**
 
 # Advantages of customer lifetime value
-- CLV provide clarity on customer acquisition and retention costs
+- CLV provides clarity on customer acquisition and retention costs
 - **Targeted marketing**: CLV helps allocate resources to attract and retain high-value customers effectively
 - **Profit maximization**: by identifying profitable customer segments, companies can maximize overall profitability
 - **Customer retention**: it emphasizes the importance of retaining existing customers, often more cost-effective than acquiring new ones
@@ -72,12 +72,12 @@ Think of CLV as a spectrum
 - **Simple CLV** = Helps you understand the concept
 - **Advanced CLV** = Helps you make better business decisions
 
-| Level        | Model          | When to use                  |
-| ------------ | -------------- | ---------------------------- |
-| Beginner     | Basic CLV      | Teaching, quick estimates    |
-| Intermediate | Margin + churn | Most marketing decisions     |
-| Advanced     | Discounted CLV | Finance / long-term planning |
-| Expert       | Predictive CLV | Data-driven companies        |
+| **Level**      | **Model**      | **When to use**              |
+| -------------- | -------------- | ---------------------------- |
+| *Beginner*     | Basic CLV      | Teaching, quick estimates    |
+| *Intermediate* | Margin + churn | Most marketing decisions     |
+| *Advanced*     | Discounted CLV | Finance / long-term planning |
+| *Expert*       | Predictive CLV | Data-driven companies        |
 
 >[!banana]+ Be careful
 > **More advanced ≠ always better**.
@@ -89,7 +89,7 @@ Think of CLV as a spectrum
 1. How much can we spend on acquiring a new customer?
 	- If a customer is worth 600€, spending 100€ to acquire them might be perfectly fine
 2. Which customers are most valuable
-	- Not all customers are equal, some buy more often, stay lnger, or spend more, require less
+	- Not all customers are equal, some buy more often, stay longer, or spend more, require less
 3. Should we focus on acquisition or retention?
 	- CLV often reveals that retention is more profitable than acquisition
 4. How to know your customers?
@@ -156,7 +156,7 @@ The smartest ways to reduce CAC in 2026
 - Fix conversion leaks first
 	- Don't pour more money into into a broken funnel
 - Always compare CAC with CLV
-	- A "*high*" CAC can be find of the customer is very valuable
+	- A "*high*" CAC can be fine if the customer is very valuable
 
 >[!example]+
 >A fashion webshop used 5000€ on campaigns
