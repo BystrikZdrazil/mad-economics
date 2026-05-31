@@ -44,4 +44,4 @@ The taxonomy helps identify where digital technology creates value
 - Not all dimensions need to be present in the same business model
 
 # The 5 dimensions of digital business models
-![[DSO_5_digital_business_models.png]
+![DSO_5_digital_business_models.png](/img/user/06%20Images/DSO_5_digital_business_models.png)
