@@ -27,7 +27,7 @@
 - Consumables, office supplies
 	- Inventory is replenished
 - Assets, machinery, machine party, vehicles
-	- Needd arises due to strategic/tactical decisions
+	- Need arises due to strategic/tactical decisions
 - Raw materials, components, semi-finished goods, energy
 	- Ongoing attention to renegotiation/supplier switching because they represent major costs in the company
 
@@ -47,7 +47,7 @@ Purchase types affect the purchasing process
 # The sourcing process
 1. Identification of the requirement
 2. Crafting the sourcing plan
-3. Conduction market analysis
+3. Conduction of market analysis
 4. Pre-qualification of suppliers
 5. Evaluating supply offers
 6. Creating the contract or supplier relationship

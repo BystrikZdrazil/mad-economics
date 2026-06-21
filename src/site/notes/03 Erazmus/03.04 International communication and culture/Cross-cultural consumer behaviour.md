@@ -3,12 +3,12 @@
 ---
 
 # Culture and marketing
-- Consumers buy meanings, marketers communicate meanings
+- Consumers **buy meanings**, marketers **communicate meanings**
 - Consumer goods are vehicles for cultural meanings, consumers choose and then make use of these meanings
-- Marketing is a process of exchange
-	- A process of exchange through buyer-seller relations, marketing communications or consumption, where interpretations are made spontaneously as if they were obvious realities
+- **Marketing** is a **process of exchange**
+	- A process of exchange through **buyer-seller relations**, **marketing communications** or **consumption**, where interpretations are made spontaneously as if they were obvious realities
 	- Exchanges are culture based - shared by social group
-	- Culture is a meta-lnaguage central to the marketing process
+	- Culture is a meta-language central to the marketing process
 
 # Culture and consumer behaviour
 - **Hierarchy of needs**
@@ -20,19 +20,19 @@
 
 # Socio-cultural environment
 - **Family**
-	- Extent of group/family influence on attitudes and buying behaviour?
+	- Extent of group/family influence on attitudes and buying behaviour
 	- Consumer behaviour reflects individual identity or group belonging
 - **Gender roles**
-	- Division of labour?
-	- Who makes buying decisions? Who shops?
+	- Division of labour
+	- Who makes buying decisions? Who shops
 - **Social class**
-	- Is it locally important?
-	- Is class belonging demonstrated through consumption?
-		- Type of products or services? Exclusive shops?
+	- Is it locally important
+	- Is class belonging demonstrated through consumption
+		- Type of products or services? Exclusive shops
 - **Age influences**
-	- Value of younger and older people in society?
-	- Influence processes across age groups?
-	- Purchasing power distribution across generations?
+	- Value of younger and older people in society
+	- Influence processes across age groups
+	- Purchasing power distribution across generations
 
 ## Types of family structures
 - **Patriarchy**
@@ -48,7 +48,7 @@
 
 |                 | **Feminine**                                                                                            | **Masculine**                                                                                                         |
 | --------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| *Individualist* | - Gender roles overlap<br>- Individual freedom<br>- *Denmark, Norway and Sweden*                        | - Gender-role differences, less equality<br>- Individual freedom<br>- *Australia, Germany, US and USA*                |
+| *Individualist* | - Gender roles overlap<br>- Individual freedom<br>- *Denmark, Norway and Sweden*                        | - Gender-role differences, less equality<br>- Individual freedom<br>- *Australia, Germany, UK and USA*                |
 | *Collectivist*  | - Gender roles overlap<br>- Less autonomy, more family influence<br>- *Chile, South Korea and Thailand* | - Gender-role differences, less equality<br>- Less autonomy, more family influence<br>- *Hong-Kong, Japan and Mexico* |
 
 # Self-concepts or mindsets
@@ -56,7 +56,7 @@
 	- *Prevalent in individualist cultures*
 	- Separate and distinct
 	- Self-regulation
-	- Behavior reflects own beliefs, tastes, attitudes, values,
+	- Behavior reflects own beliefs, tastes, attitudes, values
 - **Interdependent**
 	- *Prevalent in collectivist cultures*
 	- Overlap; common bond

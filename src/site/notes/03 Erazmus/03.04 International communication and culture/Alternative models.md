@@ -28,7 +28,7 @@
 # Schwartz cultural dimensions
 - 7 cultural dimensions
 - **3 clear juxtapositions**
-	- Hierarchy V egalitarianism
+	- Hierarchy VS egalitarianism
 	- Mastery VS harmony
 	- Embedded news VS autonomy
 
@@ -47,14 +47,14 @@ The circle structure **doesn’t just delineate** these three axis. Cultures nor
 ![ICC_world_values_survey.png](/img/user/06%20Images/06.01%20Erazmus/ICC_world_values_survey.png)
 
 # Meyers culture map
-- Examines the range of cultural differences in communication, leadership, decision-making, and giving feedback
-- Helps leaders and teams develop cultural intelligence, improve communication and enhance collaboration across diverse work environments for greater business output
+- Examines the range of cultural differences in **communication**, **leadership**, **decision-making**, and giving **feedback**
+- Helps leaders and teams develop **cultural intelligence**, improve **communication** and enhance **collaboration** across diverse work environments for greater business output
 - **Meyer's key point:** focus on employees before customers, suppliers and investors
 
 ## The eight scales
 Each of the eight scales is described as a continuum between the two ends which are diametric opposites or at least competing positions as follows:
-- **Communicating** – Are they low-context (simple, verbose and clear), or high-context (rich deep meaning in interactions)?
-- **Evaluating** – When giving Negative feedback does one give it directly, or prefer being indirect and discreet?
+- **Communicating** – Are they low-context (*simple, verbose and clear*), or high-context (*rich deep meaning in interactions*)?
+- **Evaluating** – When giving negative feedback does one give it directly, or prefer being indirect and discreet?
 - **Leading** – Are people in groups egalitarian, or do they prefer hierarchy?
 - **Deciding** – Are decisions made in consensus, or made top-down?
 - **Trusting** – Do people base trust on how well they know each other, or how well they do work together?

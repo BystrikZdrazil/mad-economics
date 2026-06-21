@@ -8,13 +8,13 @@
 
 >[!example]+
 >- **Coors** "*Turn it loose*"
->	- In Spanish "Suffer from diarrhoea"
+>	- In Spanish "*Suffer from diarrhoea*"
 >- **Chevy Nova**
 >	- **In Spanish** "*Nova*" **means** "*it doesn"t go*"
 >- "*Pepsi Brings You Back to Life*"
->	- In Chinese "Pepsi Brings Your Ancestors Back from the Grave"
+>	- In Chinese "*Pepsi Brings Your Ancestors Back from the Grave*"
 >- **Gerber baby food had cute baby on the label**
->	- In Africa, companies routinely put pictures on the label of what"s inside since most people can"t read.
+>	- In Africa, companies routinely put pictures on the label of what’s inside since most people can’t read.
 
 # Translating for the internet
 **Direct translation is difficult**:

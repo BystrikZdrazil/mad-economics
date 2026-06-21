@@ -62,10 +62,10 @@ It moves away from the traditional marketing funnel and focuses on repeating the
 - Guide users toward solutions (*your product or service*)
 
 ### How
-- E-mail marketing
+- [[03 Erazmus/03.01 Digital sales optimisation/E-mail marketing\|E-mail marketing]]
 - Marketing automation
-- CRM data
-- Lead nurturing workflows
+- [[03 Erazmus/03.01 Digital sales optimisation/CRM, automation and revenue model#CRM system\|CRM]] data
+- [[03 Erazmus/03.01 Digital sales optimisation/Lead generation\|Lead]] nurturing workflows
 - Chat and conversational tools (*AI*)
 
 ### When it works
@@ -102,7 +102,7 @@ It moves away from the traditional marketing funnel and focuses on repeating the
 | **Attract tools** | **Engage tools**     | **Delight tools**     |
 | ----------------- | -------------------- | --------------------- |
 | Ads               | Lead flows           | Smart content         |
-| Video             | Email marketing      | E-mail marketing      |
+| Video             | E-mail marketing     | E-mail marketing      |
 | Blogging          | Lead management      | Conversations inbox   |
 | Social media      | Conversational bots  | Attribution reporting |
 | Content strategy  | Marketing automation | Marketing automation  |
@@ -139,8 +139,8 @@ It moves away from the traditional marketing funnel and focuses on repeating the
 - Optimization never stops
 
 # KPIs in inbound sales optimization
-- Lead quality
-- Conversion rate
+- [[03 Erazmus/03.01 Digital sales optimisation/Lead generation\|Lead]] quality
+- [[03 Erazmus/03.01 Digital sales optimisation/Conversion rates optimization\|Conversion rate]]
 - Shorter sales cycle
-- Customer lifetime value
+- [[03 Erazmus/03.01 Digital sales optimisation/Customer lifetime value\|Customer lifetime value]]
 - Higher retention rate

@@ -5,11 +5,11 @@
 - Local VS global
 - Adaptation VS standardization
 
-It is not either one or the other, but works more like a scale, where a company is to a certain extent local and also global.
+It is not either one or the other, but works more **like a scale**, where a company is to a **certain extent local** and also **global**.
 
-**Local** is when companies change their products based on the market.
+**Local** is when companies **change** their **products** based on the **market**.
 
-**Global** is when companies have the the same products for all markets.
+**Global** is when companies **have** the the **same products** for **all markets**.
 
 > [!quote]+
 > Think **global**, act **local**
@@ -20,7 +20,7 @@ It is not either one or the other, but works more like a scale, where a company 
 # Standardization (*global*)
 - An **ethnocentric** approach (*what works in the home country will work abroad*)
 - A given message is **perceived alike** by **all** receivers
-- Related to the **transmission paradigm** (*messages are clear and does not require context or interpretation*)
+- Related to the **transmission paradigm** (*messages are clear and do not require context or interpretation*)
 
 # Adaptation (*local*)
 - Big cultural difference calls for **adjustment of product presentation** and rhetorical strategies (*language, style, persuasive strategies, photos*)

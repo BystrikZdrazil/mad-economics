@@ -29,11 +29,11 @@ Depends on:
 ![[03 Erazmus/03.09 Purchasing/03.09.C Canvases/Linear and operational function graph.canvas\|Linear and operational function graph.canvas]]
 
 # 3 levels of strategy in an organisation
-1. Corporate
+1. **Corporate**
 	- All-embracing, linking the business together
-2. Business
+2. **Business**
 	- Concerned with brand issues, such as how to compete in different markets (*home or overseas*)
-3. Operational
+3. **Operational**
 	- Concerned with functional activities such as marketing, purchasing, production or finance
 
 # Developing an effective strategy

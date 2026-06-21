@@ -29,14 +29,14 @@
 ### High-context cultures
 - Relies primarily on **implicit communication**
 - Close social bonds are common in high-context cultures. These interactions lead to an instinctive understanding of cultural rules that do not need to be communicated within the society
-- Individuals are **defined by their place** in the larger social group, and there is a clear distinction between members of the group and "outsiders"
+- Individuals are **defined by their place** in the larger social group, and there is a clear distinction between members of the group and "*outsiders*"
 - As a result, communication between high-context cultures and those unfamiliar with their rules can be difficult
 
 ### Low-context cultures
 - Exhibit many of the opposite attributes of high-context cultures
-- Rely on explicit communication between members
-- Word are more important than meanings in low-context societies, with the culture's rules and expectations required to be defined in advance
-- Tend to be more goal-oriented with individual achievements taking precedence over group accomplishments
+- Rely on **explicit communication** between members
+- **Words are more important** than meanings in low-context societies, with the culture's rules and expectations required to be defined in advance
+- Tend to be more **goal-oriented** with **individual achievements** taking precedence over group accomplishments
 
 ### Direct comparison
 
@@ -48,18 +48,18 @@
 | Ads have more arguments and rhetoric               | Ads have more visuals, symbols and assiciations           |
 
 # High-context business strategy
-- Invest some time in relationship-building before negotiations
+- Invest some time in **relationship-building** before negotiations
 - Attend to non-verbal communication signals
-- Respect hierarchy and formal communication channels
-- Allow for ambiguity in initial discussinos
+- **Respect hierarchy** and formal communication channels
+- Allow for ambiguity in initial discussions
 - Recognize that agreements may be based on relationship trust rather than contract details
 
 # Low-context business strategy
-- Present clear, detailed information
-- Focus on explicit goals and outcomes
-- Provide specific timelines and deliverables
-- Document agreements comprehensively
-- Maintain professional boundaries between personal and business and busiess matters
+- Present **clear**, **detailed information**
+- Focus on **explicit goals** and outcomes
+- Provide **specific timelines** and deliverables
+- **Document agreements** comprehensively
+- **Maintain** professional **boundaries** between personal and business and business matters
 
 # Context components
 - Nuances in the verbal message
@@ -140,13 +140,13 @@ Are more likely to:
 
 >[!example]+
 >- **Coors** "*Turn it loose*"
->	- In Spanish "Suffer from diarrhoea"
+>	- In Spanish "*Suffer from diarrhoea*"
 >- **Chevy Nova**
 >	- **In Spanish** "*Nova*" **means** "*it doesn"t go*"
 >- "*Pepsi Brings You Back to Life*"
->	- In Chinese "Pepsi Brings Your Ancestors Back from the Grave"
+>	- In Chinese "*Pepsi Brings Your Ancestors Back from the Grave*"
 >- **Gerber baby food had cute baby on the label**
->	- In Africa, companies routinely put pictures on the label of what"s inside since most people can"t read.
+>	- In Africa, companies routinely put pictures on the label of what’s inside since most people can’t read.
 
 # Translating for the internet
 **Direct translation is difficult**:

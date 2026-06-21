@@ -8,9 +8,9 @@
 
 
 # 3 key online media types
-- Paid is advertising you pay for (*ads*)
-- Owned is content you control (*website, social profiles*)
-- Earned is publicity gained through third-party recognition (*reviews, shares, PR*)
+- **Paid** is advertising you pay for (*ads*)
+- **Owned** is content you control (*website, social profiles*)
+- **Earned** is publicity gained through third-party recognition (*reviews, shares, PR*)
 
 >[!todo]+ Task
 >Media types are not separate; they are interrelated and part of a system.

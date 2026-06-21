@@ -47,12 +47,12 @@
 ## Functions of culture
 - Communication codes
 - **Long-term survival**
-- Synchronization of behaviors
+- Synchronization of behaviours
 	- explicit – implicit
 - "*Best way*" for **doing** or **not doing** things (*pools of knowledge*)
 - Identity (*ingroups versus outgroups*)
 - Vision of the world (*Weltanschauung*)
-	- Strongly related to deep-seated assumptions in particular languages.
+	- Strongly related to deep-seated assumptions in particular languages
 
 # Cultural perspectives
 Culture can be approached from three basic overall perspectives

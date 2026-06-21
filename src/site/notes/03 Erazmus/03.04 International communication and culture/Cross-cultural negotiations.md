@@ -27,11 +27,11 @@ Recommendations for effective intercultural teamwork can be divided into several
 ## 1. Preparing
 - **Rule 1:** Be prepared for the other side’s unpreparedness
 - **Rule 2:** Map the human landscape and prepare for respectful behaviour
-- **Rule 3:** Assess intercultural obstacles (and opportunities) as early as possible
+- **Rule 3:** Assess intercultural obstacles (*and opportunities*) as early as possible
 - **Rule 4:** Examine key elements in both people and tasks and prepare for understanding their interface during the teamwork process. Empathy is not enough
 
 ## 2. Communicating and dealing with people
-- **Rule 5:** Make time for adequate preliminaries (especially if it is a first-time encounter)
+- **Rule 5:** Make time for adequate preliminaries (*especially if it is a first-time encounter*)
 - **Rule 6:** Give face to the other side and to your team partners; also protect your own face
 - **Rule 7:** Be ready for different communication styles
 - **Rule 8:** Constantly check the accuracy of communication
@@ -58,15 +58,15 @@ Recommendations for effective intercultural teamwork can be divided into several
 - **Rule 23:** Build a trusting relationship by being reliable and asking the other side to reciprocate
 - **Rule 24:** Check that your partners are neutral and do not play against you
 - **Rule 25:** Avoid conflict escalation because it harms the relationship and, therefore, the collaborative process
-- **Rule 26:** Introduce 'arbitrating' outsiders (e.g., mediators, conciliators) as late as possible in the teamwork process, and only if conflict resolution has failed after several attempts
+- **Rule 26:** Introduce 'arbitrating' outsiders (*e.g., mediators, conciliators*) as late as possible in the teamwork process, and only if conflict resolution has failed after several attempts
 - **Rule 27:** Try to develop what could be a long-term relationship, even if the task timeframe seems short
 
 # BATNA
 **Best Alternative to a Negotiated Agreement** is the course of action you pursue if a deal falls through, Leverage in negotiation comes from understanding your alternatives well enough that pressure doesn't cloud your judgement.
-1. List all possible alternatives
-2. Evaluate which alternative is most effective
-3. Convert your BATNA into a walk-away threshold
-4. Reassess before (*and during*) negotiation
+1. **List** all possible **alternatives**
+2. **Evaluate** which alternative is **most effective**
+3. Convert your BATNA into a **walk-away threshold**
+4. **Reassess** before (*and during*) negotiation
 
 # Cultural intelligence
 It consists of four interrelated dimensions
@@ -92,12 +92,12 @@ The Meyer/Briggs model of personality types and understanding your own personali
 Frameworks which might help to assess own negotiation style and build on own strengths
 - **Framework 1**: argumentation and persuasion (*Greek style*) - based on the rhetorical strtategies of ethos (*morality*), pathos (*empathy*) and logos (*rationality*)
 - **Framework 2**: other regarding orientation (*East-Asia style*) - based on four Confucian behavioural principles: **ren**, **yi**, **li** and **zhi**
-- **Framework 3**: Five Chinese elements in intercultural negotiation: generating integrative collaboration - based on the symbols expressed by the fire elements of Water, Wood, Earth, Fire and Metal
+- **Framework 3**: Five Chinese elements in intercultural negotiation: generating integrative collaboration - based on the symbols expressed by the five elements of Water, Wood, Earth, Fire and Metal
 
 # Adjusting intercultural interactions
 the AKA-model represents a developmental approach to building intercultural competence, focusing on a structures progression from ethnocentrism to effective, culturally relative behaviour
 
-Similar to [[01 School/01.08 Marketing/Marketingová komunikácia#Model AIDA\|AIDA model]]
+Similar to [[01 School/01.09 Marketing/Marketingová komunikácia#Model AIDA\|AIDA model]]
 
 **Awareness (*Cognitive*)**: The foundational stage involves developing awareness of one's own cultural framework, values, and perceptions
 

@@ -24,11 +24,11 @@ Pri kvantifikácii hospodárskej činnosti účtovné jednotky používajú:
 
 **Oceňovanie** = spôsob (postup) vyjadrovania objektu oceňovania v [[01 School/01.17 Základy Ekonómie/Peniaze\|peňažných jednotkách]] (PJ) (cenách) ku dňu ocenenia.
 
-[[01 School/01.08 Marketing/Cena\|Cena]] je mierou hodnoty objektu oceňovania vyjadrenou v [[01 School/01.17 Základy Ekonómie/Peniaze\|peňažných jednotkách]].
+[[01 School/01.09 Marketing/Cena\|Cena]] je mierou hodnoty objektu oceňovania vyjadrenou v [[01 School/01.17 Základy Ekonómie/Peniaze\|peňažných jednotkách]].
 
 **Objekt oceňovania** sú jednotlivé zložky majetku a záväzkov, alebo [[01 School/01.16 Účtovníctvo pre podnikateľov/Úvod do účtovníctva#Účtovná jednotka\|účtovná jednotka]] ako celok (napr. pri jej predaji).
 
-**Podstata oceňovania** je výber oceňovacej veličiny ([[01 School/01.08 Marketing/Cena\|ceny]]), ktorá sa použije na ocenenie.
+**Podstata oceňovania** je výber oceňovacej veličiny ([[01 School/01.09 Marketing/Cena\|ceny]]), ktorá sa použije na ocenenie.
 
 Výber oceňovacej veličiny ovplyvňuje:
 - Sumu majetku, záväzkov, vlastného imania vykázaného v [[01 School/01.16 Účtovníctvo pre podnikateľov/Súvaha\|súvahe]]

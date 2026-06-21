@@ -9,11 +9,16 @@
 - Images & alt text
 
 # Title tag & Meta description
-- Title tag
+- **Title tag**
 	- Appears in search results
-	- . . .
-- Meta descripton
-	- . . .
+	- Approximately 60 characters
+	- Include **primary keyword**
+- **Meta descripton**
+	- Approximately 155 characters
+	- Sells the click
+	- Should include value & CTA
+
+![DSO_on_page_SEO.png](/img/user/06%20Images/DSO_on_page_SEO.png)
 
 # Content optimisation
 **Good SEO content** is:
@@ -28,13 +33,13 @@
 - Real value
 
 # Internal linking
-- Connect pages on your website
-- Help search engines understand structure
-- Increase time on site
+- **Connect pages** on your website
+- Help search engines understand **structure**
+- **Increase time** on site
 
-Best practise
-- Use descriptive anchor text
-- Link from strong pages to important sales pages
+**Best practise**
+- Use **descriptive** anchor **text**
+- Link **from strong** pages **to important** sales pages
 
 # User experience in SEO
 - Great design and usability = good SEO
@@ -46,7 +51,7 @@ Best practise
 - Slow sites
 - Bad design
 - Not having mobile responsive
-- . . .
+- Confusion and doubt
 
 # GEO
 **Generative Engine Optimisation**
@@ -57,14 +62,22 @@ It is focused on optimising content for
 
 The goal is essentially to make your content "*worthy*" for AI.
 
-| **SEO** | **GEO** |
-| --- | --- |
-|     |     |
+| **SEO**         | **GEO**                |
+| --------------- | ---------------------- |
+| Google rankings | AI-generated answers   |
+| Keywords        | Entities & concepts    |
+| Page-level      | Knowledge-level        |
+| Traffic         | Visibility & authority |
 
 ## How to optimise for GEO
 - Clear definitions and explanations
 - Structured content (*lists, steps, FAQs*)
-- . . .
+- Natural language
+- Strong topical authority
+- Consistent brand/entity mentions
+
+>[!tip]+
+>Always ask yourself: "*Would AI confidently quote this?*"
 
 # Off-page SEO
 Beyond your sites = improves search engine rankings/authority

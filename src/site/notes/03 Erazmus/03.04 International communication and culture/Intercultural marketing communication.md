@@ -2,11 +2,17 @@
 {"dg-publish":true,"permalink":"/03-erazmus/03-04-international-communication-and-culture/intercultural-marketing-communication/","tags":["erasmus","eraICC"],"dg-note-properties":{"Date":"2026-05-11","Class":"International communication and culture","tags":["erasmus","eraICC"]}}
 ---
 
->[!warning] INCOMPLETE NOTES
->**These notes aren't complete**. This file still needs attention regarding its *content* and/or *formatting*.
->#incomplete
+# Key decisions in international marketing communication
+- **Global** vs. **local** communication policies
+- Promote **corporate image**
+	- Through non-media tools (*e.g. sponsoring and public relations*)
+- **Standardization** vs. **adaptation** of advertising campaigns
+- Which **strategies** and executions **to be adapted** to local markets?
+	- Is basic ad strategy more standardizable than execution?
+- How to **account** for **cultural cues** to **avoid blunders** in multi-local campaigns?
+- Which **organizational design** (*global/local + advertiser/agency*) will be the **best** in managing the necessary "*global-local*" compromises?
 
-(make a canvas like it is in the presentation)
+![[03 Erazmus/03.04 International communication and culture/03.04.C Canvases/International communication model graph.canvas\|International communication model graph.canvas]]
 # Denotation and connotation
 - **Denotation**
 	- Basic meaning
@@ -21,10 +27,21 @@
 >**Connotation** - the coziness and socializing related to coffee
 
 # Cultural differences
-(add table from the presentation)
+| **Characteristic**            | **Low-context/individualistic(e.g. western Europe, US)**                                         | **High-context/collectivistic(e.g. Japan, China, Saudi Arabia)**                                                         |
+| ----------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| _Communication and language_  | Explicit, direct                                                                                 | Implicit, indirect                                                                                                       |
+| _Sense of self and space_     | Informal handshakes                                                                              | Formal hugs, bows and handshakes                                                                                         |
+| _Dress and appearance_        | Dress for individual success, wide variety                                                       | Indication of position in society, religious rule                                                                        |
+| _Food and eating habits_      | Eating is a necessity, fast food                                                                 | Eating is social event                                                                                                   |
+| _Time consciousness_          | Linear, exact, promptness is valued, time = money                                                | Elastic, relative, time spent on enjoyment, time = relationships                                                         |
+| _Family and friends_          | Nuclear family, self-oriented, value youth                                                       | Extended family, other oriented, loyalty and responsibility, respect for old age                                         |
+| _Values and norms_            | Independence, confrontation of conflict                                                          | Group conformity, harmony                                                                                                |
+| _Beliefs and attitudes_       | Egalitarian, challenge authority, individuals control destiny, gender equity                     | Hierarchical, respect for authority, individuals accept destiny, gender roles                                            |
+| _Mental process and learning_ | Linear, logical, sequential, problem solving                                                     | Lateral, holistic, simultaneous, accepting life's difficulties                                                           |
+| _Business/work habits_        | Deal oriented ('Quickly getting down to business'), rewards based on achievement, work has value | Relationship oriented ('First you make a friend, then you make a deal'), rewards based on seniority, work is a necessity |
 
 ## High and low context countries
-(add graph from the presentation)
+![ICC_countries_by_level_of_context.png](/img/user/06%20Images/ICC_countries_by_level_of_context.png)
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/03-erazmus/03-04-international-communication-and-culture/local-vs-global-branding/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -35,11 +52,11 @@
 - Local VS global
 - Adaptation VS standardization
 
-It is not either one or the other, but works more like a scale, where a company is to a certain extent local and also global.
+It is not either one or the other, but works more **like a scale**, where a company is to a **certain extent local** and also **global**.
 
-**Local** is when companies change their products based on the market.
+**Local** is when companies **change** their **products** based on the **market**.
 
-**Global** is when companies have the the same products for all markets.
+**Global** is when companies **have** the the **same products** for **all markets**.
 
 > [!quote]+
 > Think **global**, act **local**
@@ -50,7 +67,7 @@ It is not either one or the other, but works more like a scale, where a company 
 # Standardization (*global*)
 - An **ethnocentric** approach (*what works in the home country will work abroad*)
 - A given message is **perceived alike** by **all** receivers
-- Related to the **transmission paradigm** (*messages are clear and does not require context or interpretation*)
+- Related to the **transmission paradigm** (*messages are clear and do not require context or interpretation*)
 
 # Adaptation (*local*)
 - Big cultural difference calls for **adjustment of product presentation** and rhetorical strategies (*language, style, persuasive strategies, photos*)
@@ -88,11 +105,7 @@ It is not either one or the other, but works more like a scale, where a company 
 
 
 
->[!warning] INCOMPLETE NOTES
->**These notes aren't complete**. This file still needs attention regarding its *content* and/or *formatting*.
->#incomplete
-
-(add graph from the presentation)
+![[03 Erazmus/03.04 International communication and culture/03.04.C Canvases/Culture and advertising graph.canvas\|Culture and advertising graph.canvas]]
 
 # Advertising solves problems
 **Objectives**
@@ -128,7 +141,7 @@ General attitudes towards the role and functions of advertising
 - Does comparative advertising result in fooling the consumer by using disputable information to praise one's own brand and put down others?
 
 # Advertising as communication
-Advertising stratefy comprises "*what is said*" and execution concerns more "*how it is said*" (*who "says" the message in which setting?*)
+Advertising strategy comprises "*what is said*" and execution concerns more "*how it is said*" (*who "says" the message in which setting?*)
 - Relates to the core element of the message
 - The types of appeals used
 - The themes developed
@@ -144,7 +157,7 @@ Advertising stratefy comprises "*what is said*" and execution concerns more "*ho
 	- Emotional
 	- Moralizing
 - **Selling proposition**
-	- Claim captures reason for buying / benefit
+	- Claim captures reason for buying/benefit
 	- Adaptations?
 - **Creative execution**
 	- Straight sell
@@ -204,15 +217,45 @@ Cultural hotspots
 - Verbal
 
 Advertising style must be adapted
-- Persuasive
-	- Adapted for LDC and traditional societies where . . .
+- **Persuasive**
+	- Adapted for LDC and traditional societies where advertising is still in its infancy
+- **Informative/rational**
+	- More suited to [[03 Erazmus/03.04 International communication and culture/Halls communication model#Low-context cultures\|low-context]]
+	- US, UK, and Scandinavian countries
+- **One-sided/emotional/indirect**
+	- More suited to [[03 Erazmus/03.04 International communication and culture/Halls communication model#High-context cultures\|high-context]]
+	- France and Japan
+
+## Advertising elements
+- **Copy**
+	- Target populations
+		- Literacy rates
+		- Languages
+		- Cultural dimensions
+- **Symbolism**
+	- Colours
+	- Man-woman relationships
+- **Media types**
+	- TV
+	- Radio
+	- Internet
+	- Outdoor
+	- Direct mail
+- **Availability**
+- **Coverage of target population**
 
 # Content considerations in ads
 - Representation of sex roles in ads
 - Interaction between groups
 - Use of humour
 - Family models, individual roles
-- . . .
+- Legitimacy of information types
+- Taboos and social don'ts
+	- Nudity
+	- Illness and death
+	- Sexual orientation
+	- Racism
+- Legitimacy of comparative advertising
 
 # Ad analysis
 >[!todo]+

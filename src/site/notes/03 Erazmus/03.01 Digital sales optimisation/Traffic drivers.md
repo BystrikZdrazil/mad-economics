@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-erazmus/03-01-digital-sales-optimisation/traffic-drivers/","tags":["erasmus"],"dg-note-properties":{"Date":null,"Class":null,"tags":["erasmus"]}}
+{"dg-publish":true,"permalink":"/03-erazmus/03-01-digital-sales-optimisation/traffic-drivers/","tags":["erasmus","eraDSO"],"dg-note-properties":{"Date":"2026-04-08","Class":"Digital Sales Optimisation","tags":["erasmus","eraDSO"]}}
 ---
 
 # 7 types of traffic drivers
@@ -21,29 +21,29 @@
 # The importance of mobile
 - **87%** of users use a **smartphone** worldwide
 - In Denmark **more than half of online purchases** were made using a **smartphone** in 2025
-- Mobile changes how and where customer interact with brands
+- Mobile changes how and where customers interact with brands
 
 ## Things to make sure
-- Mobile landing pages (*mobile first*)
-- Mobile video (*right sizing*)
-- Mobile content consumption (*no audio = subs*)
+- Mobile **landing pages** (*mobile first*)
+- Mobile **video** (*right sizing*)
+- Mobile **content consumption** (*no audio = subs*)
 
 # Key online marketing channels
 - [[03 Erazmus/03.01 Digital sales optimisation/Traffic drivers#Affiliate marketing\|#Affiliate marketing]]
 - [[03 Erazmus/03.01 Digital sales optimisation/Traffic drivers#Influencer marketing\|#Influencer marketing]]
-- SEO
+- [[03 Erazmus/03.01 Digital sales optimisation/On-Page SEO\|SEO]]
 - Co-registration
 - Content Marketing
-- Email Marketing
-- Lead magnets
+- [[03 Erazmus/03.01 Digital sales optimisation/E-mail marketing\|E-mail marketing]]
+- [[03 Erazmus/03.01 Digital sales optimisation/Lead generation\|Lead]] magnets
 - Paid Ads
-- Social Media
+- [[03 Erazmus/03.01 Digital sales optimisation/Digital media\|Social media]]
 - Webinar/podcasts
-- Video/youtube
+- Video/YouTube
 
 ## Affiliate marketing
 - Similar to influencer marketing and often used together
-- **Affiliates**: uses personalizes links or discount codes that directly track the effect of the partnership
+- **Affiliates**: uses personalizes **links or discount codes** that directly track the effect of the partnership
 - **Payment**: Purchase with links/discount codes
 
 | **Pros**                                                                                                                                    | **Cons**                                                                            |
@@ -62,11 +62,11 @@
 ## Banner ads
 - Placing ads on websites (*AdSense*)
 - Can be static and animated
-- Low click rate
+- **Low click rate**
 - Can pose as a virus to some
 
 ## Content marketing
-- Valuable content about how your product/service/business solves a problem
+- Valuable content about how your **product**/**service**/**business** **solves a problem**
 - Through blogposts, online articles, product videos, podcasts,…
 - Cost effective
 	- **3 times as many leads** as traditional marketing
@@ -89,8 +89,8 @@ Advertisers bid on **keywords so their ads appear in search results** (*Google A
 
 PPC **success depends** on:
 - Relevant keywords
-- High‑quality, optimized landing pages with clear CTAs
-- Strong Quality Score (higher relevance = lower cost)
+- High‑quality, **optimized landing pages** with **clear CTAs**
+- Strong Quality Score (*higher relevance = lower cost*)
 
 Despite higher costs, PPC **can be effective**:
 - High purchase intent
@@ -99,12 +99,12 @@ Despite higher costs, PPC **can be effective**:
 
 ## Lead magnets
 - **Free**, **high value content offer** (*e.g. checklist, template, video*) in exchange for their contact information
-- The more relevant and useful the offer, the higher the trust and conversion.
+- The more **relevant and useful** the offer, the higher the **trust and conversion**.
 
 **Effective lead magnets** include:
 - Cheat sheets
 - Templates
-- Free training (videos/workbooks)
+- Free training (*videos/workbooks*)
 - Swipe files
 - Toolkits
 
@@ -129,7 +129,7 @@ Despite higher costs, PPC **can be effective**:
 
 ## Podcasts
 - Another type of **free high value content** about a topic related to your product/business/services
-- Suitable for **service/coaching** and **consulting** business
+- Suitable for **service**/**coaching** and **consulting** business
 
 | **Podcasts**              | **Webinars**                                          |
 | ------------------------- | ----------------------------------------------------- |

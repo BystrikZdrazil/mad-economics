@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/03-erazmus/03-04-international-communication-and-culture/interaction-and-collaboration-across-cultures/","tags":["erasmus","eraICC"],"dg-note-properties":{"Date":"2026-05-18","Class":"International communication and culture","tags":["erasmus","eraICC"]}}
 ---
 
->[!warning] INCOMPLETE NOTES
->**These notes aren't complete**. This file still needs attention regarding its *content* and/or *formatting*.
->#incomplete
->
->**Source**: Notes - week 21.pptx
-
 # Promotion mix
 - Advertising
 - Public relations
@@ -22,7 +16,9 @@
 - Value creation moves from production to co-creation (*collaboration with customer*)
 	- Making something to assisting customer in **their own value creation** process
 	- Produced value to **co-created value**
-	- . . .
+	- Customers as isolated entities to **networks**
+	- Customers as targets to resources
+	- Efficiency as primary to efficiency through effectiveness
 
 # Relationship marketing
 - **Focus**
@@ -50,7 +46,36 @@
 >CRM is a **combination** of other **marketing concepts**. **IT** is a crucial part of CRM.
 
 # Marketing database
-. . .
+Comprises of the **market data**, **relationship data**, and finally **company data** to paint a clear picture.
+
+## Market data
+**Consumers**
+- NAP data
+- Geographic data
+- Socio-demographic data
+- Lifestyle data
+
+**B2B**
+- Sector
+- Company amplitude
+- Decision-makers, influencers
+
+## Relationship data
+**Action data**
+- Promotions
+- Direct mail actions
+- Fulfilment
+
+**Reaction data**
+- Response to direct mail
+- Complaints
+- Purchases
+
+## Company data
+- Departments
+- Products
+- Sales team
+- Sales techniques
 
 # The customer life cycle
 - Value for company and customer loyalty increases over time
@@ -80,7 +105,7 @@ Cultural variance in:
 - Dealing with nationalistic feelings
 
 # PR objectives and tasks
-. . . (table from the presentation as an image here)
+![ICC_PR_objectives_and_tasks.png](/img/user/06%20Images/ICC_PR_objectives_and_tasks.png)
 
 >[!example]+
 >**Findus** - Horse meat scandal

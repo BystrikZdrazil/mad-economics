@@ -3,13 +3,13 @@
 ---
 
 # Affecting intercultural interaction
-- The length and frequency of the intercultural interaction
-- The degree of immersion in a different physical or cultural context (*limited interaction to expatriation*)
-- Where the interaction takes place (*home or abroad*)
-- The relationship with the participants
-- The channel of communication (*phone, mail, virtual, meeting*)
-- The level of interaction, both vertical and horizontal
-- Type of interaction (*task vs. non-task*)
+- The **length and frequency** of the intercultural interaction
+- The **degree of immersion** in a different physical or cultural context (*limited interaction to expatriation*)
+- **Where** the interaction **takes place** (*home or abroad*)
+- The **relationship** with the **participants**
+- The **channel** of communication (*phone, mail, virtual, meeting*)
+- The **level of interaction**, both vertical and horizontal
+- **Type** of interaction (*task vs. non-task*)
 
 # Task VS non-task
 - **Task oriented cultures**

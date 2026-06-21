@@ -9,17 +9,17 @@ The range of different marketing activities or operating processes needed to sup
 ![DSO_aiming_for_digital_marketing_excellence.png](/img/user/06%20Images/06.01%20Erazmus/DSO_aiming_for_digital_marketing_excellence.png)
 
 # 6 pillars of digital marketing
-1. Planning and governance
+1. **Planning and governance**
 	- Goals – Analytics, Strategy (*Segmentation, Targeting, Brand Positioning*), integration, marketing and sales alignment, resourcing, structure, marketing technology and data
-2. Goals and measurement
+2. **Goals and measurement**
 	- Forecasts, digital reporting including [[03 Erazmus/03.01 Digital sales optimisation/Performance management systems#Dashboard\|KPI dashboards]], attribution and customer insight
-3. Media
+3. **Media**
 	- [[03 Erazmus/03.01 Digital sales optimisation/Digital media#3 key online media types\|Paid, owned, earned media]] including Search, Social and Display ads
-4. Content
+4. **Content**
 	- Product and blog content to fuel content marketing, PDF downloads, interactive tools
-5. Experience
+5. **Experience**
 	- Desktop or mobile website and apps, customer service
-6. Messaging
+6. **Messaging**
 	- Email, Chat, Social media, customer service, on-site interactions and personalization
 
 - Focus on each pillar is important regardless of the size of business

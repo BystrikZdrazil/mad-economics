@@ -20,19 +20,19 @@ Most types of procurement follow the 13 stage procurement cycle.
 | Driven by conditions in the supplier market    | Influences and develops the supplier market                           |
 
 # Definition of procurement
-Strategic procurement is a data-driven, long-term approach to purchasing that aligns buying activities with business goals, focusing on total cost optimization, risk management, and supplier relationships.
+Strategic procurement is a **data-driven**, **long-term approach** to **purchasing** that **aligns buying** activities with **business goals**, focusing on total **cost optimization**, **risk management**, and **supplier relationships**.
 
-Unlike ”transactional purchasing” it creates value by analyzing spend and collaborating with vendors, ensuring resilience and efficiency.
+Unlike ”*transactional purchasing*” it creates value by **analysing spend** and **collaborating with vendors**, ensuring resilience and **efficiency**.
 
 # Goal of procurement
-In strategic procurement, the goal is to get the most efficient return out of the company’s purchasing power while also reducing operational risks. 
+In strategic procurement, the goal is to **get the most efficient return** out of the company’s purchasing power while also **reducing operational risks**. 
 
-Companies may opt to have a dedicated strategic procurement team in order to set the direction of the business by using data from the existing procurement process  to implement future plans.
+Companies may opt to have a **dedicated** strategic **procurement team** in order to set the direction of the business by using data from the existing procurement process to implement future plans.
 
 >[!example]+
->A vision
+>**A vision**
 >
->Be the best procuremett organization in our industry and support our customers with excellence supplier base
+>Be the best procurement organization in our industry and support our customers with excellence supplier base
 
 # Strategic procurement
 **Strategic Role of Procurement**
@@ -61,13 +61,13 @@ The basic 5 laws of Procurement
 5. **Place** of where it is required
 
 # Procurement tasks
-1. Screening of acceptable suppliers
-2. Suppliers submit tender material
-3. Offers are received from suppliers
-4. Evaluation of offers
-5. Selection of suppliers to be negotiated with
-6. Selection of suppliers
-7. Negotiation and contract conclusion
+1. **Screening** of acceptable suppliers
+2. Suppliers submit **tender material**
+3. **Offers** are received from suppliers
+4. **Evaluation** of offers
+5. **Selection** of suppliers **to be negotiated** with
+6. **Selection** of suppliers
+7. **Negotiation** and contract **conclusion**
 
 > [!todo] Task
 > Use [Pinterest](https://www.pinterest.com) to create a board about procurement.

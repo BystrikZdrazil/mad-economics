@@ -5,7 +5,7 @@
 - Search Engine Optimisation
 - Organic (*non-paid*) search results
 - Attracts **relevant, high-intent traffic**
-- Converts visitors into **leads and customers**
+- Converts visitors into **[[03 Erazmus/03.01 Digital sales optimisation/Lead generation\|leads]] and customers**
 - Hard work = high reward
 - You have to know the algorithm
 
@@ -40,7 +40,7 @@ After a page is crawled, Google tries to understand what it is about and categor
 - Google decides which topics and keywords the page belongs to
 
 **What’s important SEO wise**
-- Clear headings (H1, H2)
+- Clear headings (*H1, H2*)
 - Relevant keywords
 - Well‑structured content
 

@@ -10,7 +10,7 @@ How can companies structure digital sales using different business models and sa
 - Subscription-based models
 - Marketplaces
 
-For **digital marketeres**, the business model determines:
+For **digital marketers**, the business model determines:
 - Which channels matter most
 - How customer data is collected and used
 - Which conversion points should be optimized
@@ -54,7 +54,7 @@ They have different approaches to digital sales, but in practice they often over
 - Returns, fulfilment and logistics can be complex
 
 ## Omnichannel strategies
-It is an integrated strategy that combines physical and digital channels to create a seamless customer experience across touchpoints
+It is an **integrated strategy** that combines **physical and digital channels** to create a seamless customer experience across touchpoints
 
 >[!example]+
 >**Examples of omnichannel activity**
@@ -85,7 +85,7 @@ They are popular because customers pay a recurring monthly or annual fee for acc
 - Predictable revenue
 - Scalability
 - Lower entry barriers
-- 
+
 **Challenges**
 - Churn
 - Retention pressure
@@ -158,12 +158,12 @@ Data plays a central role in digital sales because companies can use customer da
 - Use dynamic pricing based on demand, timing or behaviour
 - Use retargeting and remarketing to reconnect with previous visitors
 - Build customer segments based on needs, value and behaviour
-- **Digital marketing focus**: data should improve relevance, not just increase message volume.
+- **Digital marketing focus**: data should improve relevance, not just increase message volume
 
 **Advantages**:
 - Higher conversion rates through more relevant offers
 - Better customer experience and engagement
-- Higher customer lifetime value (CLV)
+- Higher customer lifetime value (*CLV*)
 
 **Challenges**:
 - GDPR, consent and data security must be respected
@@ -177,7 +177,7 @@ Digital marketers need both short-term conversion metrics and long-term brand me
 - Shorter term value delivery
 - **Goal**: Direct and measurable results such as sales, leads or sign-ups
 - **Typical channels**: PPC, paid social, affiliate marketing, email marketing and retargeting
-- **Typical metrics**: ROOI, ROAS, CAC, [[03 Erazmus/03.01 Digital sales optimisation/Customer lifetime value\|CLV]]
+- **Typical metrics**: ROI, ROAS, CAC, [[03 Erazmus/03.01 Digital sales optimisation/Customer lifetime value\|CLV]]
 
 **Advantages**:
 - Fast feedback and measurable results
@@ -204,11 +204,11 @@ Digital marketers need both short-term conversion metrics and long-term brand me
 # BMC environment model
 A business model is not created in a vacuum.
 
-Organizations must respond to changing market conditions, technological development and shifting consumer preferences.
+Organizations must **respond to changing market conditions**, **technological development** and shifting **consumer preferences**.
 
-For digital marketers, this means that channel choices, content formats, pricing, data use and customer journeys must be reviewed continuously.
+For digital marketers, this means that channel choices, content formats, pricing, data use and customer journeys **must be reviewed continuously**.
 
-To succeed, companies need business models that are flexible, innovative and able to adapt to the complexity of the modern digital business ecosystem.
+To succeed, companies need business models that are **flexible**, **innovative** and able to **adapt to the complexity** of the modern digital business ecosystem.
 
 ![DSO_environment_model.png](/img/user/06%20Images/DSO_environment_model.png)
 

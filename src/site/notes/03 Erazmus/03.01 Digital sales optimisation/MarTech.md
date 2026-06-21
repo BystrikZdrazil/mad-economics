@@ -10,7 +10,7 @@
 	- There are **more than 15000 MarTech tools** as of 2026
 
 # Key Components
-- **Customer Data & CRM**: Platforms like Salesforce or HubSpot store customer information, track interactions, and manage leads.
+- **Customer Data & CRM**: Platforms like Salesforce or HubSpot store customer information, track interactions, and manage [[03 Erazmus/03.01 Digital sales optimisation/Lead generation\|leads]].
 - **Content Management System (*CMS*)**: Tools like WordPress or Contentful allow teams to create, publish, and manage digital content.
 - **Marketing Automation**: Software like Marketo or ActiveCampaign enables automating repetitive tasks and nurturing leads.
 - **Analytics & Reporting**: Tools such as Google Analytics and Mixpanel provide performance insights to optimize strategies.

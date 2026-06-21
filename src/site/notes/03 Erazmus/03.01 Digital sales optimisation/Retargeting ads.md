@@ -3,7 +3,7 @@
 ---
 
 It is showing paid ads to users who already interacted with your business
-- Remarketing/retargeting:  “Second chance marketing”
+- Remarketing/retargeting: “*Second chance marketing*”
 - Visited site but didn’t buy
 - Clicked email but didn’t convert
 
@@ -11,7 +11,7 @@ It is showing paid ads to users who already interacted with your business
 - Users already know you
 - Higher conversion rates
 - Lower cost than cold ads
-- Similar logic to email
+- Similar logic to [[03 Erazmus/03.01 Digital sales optimisation/E-mail marketing\|email]]
 
 # Website retargeting (*pixel-based*)
 **What it is**
@@ -59,8 +59,8 @@ Target users on social platforms using data from:
 >**Purpose**: Stay visible across platforms (*omni-channel*)
 
 # Retargeting compared
-| **Type**    | **Data Source**        | **Example**             | **Strength**      |
-| ----------- | ---------------------- | ----------------------- | ----------------- |
+| **Type**      | **Data Source**        | **Example**             | **Strength**      |
+| ------------- | ---------------------- | ----------------------- | ----------------- |
 | *Website*     | Site visits            | “Come back and buy” ads | Broad reach       |
 | *Email*       | Email behavior         | Cart reminders          | Direct + personal |
 | *Social*      | Platforms (Meta, etc.) | Ads in feed             | Visibility        |

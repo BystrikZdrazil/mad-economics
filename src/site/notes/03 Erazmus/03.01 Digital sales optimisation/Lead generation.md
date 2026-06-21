@@ -41,15 +41,15 @@ Lead generation matters because it helps companies
 # Lead attraction and nurturing efforts
 ![DSO_lead_generation_funnel.png](/img/user/06%20Images/06.01%20Erazmus/DSO_lead_generation_funnel.png)
 
-**Bounces**: the bounce rate is the number of visitors who leave the site without visiting any other page.  High bounce rates might be a sign that your content is not engaging visitors, or you may be driving visitors to a page that is not relevant for them.
+**Bounces**: the bounce rate is the number of visitors who leave the site without visiting any other page. High bounce rates might be a sign that your content is not engaging visitors, or you may be driving visitors to a page that is not relevant for them.
 
 **Browsers**: here visitors are moving around the site and may be visiting a few different product page. The site is engaging interest at some level.
 
-**Early Waverers**: visitors at this stage may be looking at specific product specifications, prices or product guarantees for example.  They are deciding whether to go to check-out.
+**Early Waverers**: visitors at this stage may be looking at specific product specifications, prices or product guarantees for example. They are deciding whether to go to check-out.
 
-**Late Waverers**: these are visitors who actually go into the checkout process but abort before the payment stage.  Perhaps the checkout process is too slow, confusing or does not feel secure?
+**Late Waverers**: these are visitors who actually go into the checkout process but abort before the payment stage. Perhaps the checkout process is too slow, confusing or does not feel secure?
 
-**Conversions**: visitors reaching this stage are the ultimate success for our marketing objectives.  They have moved through the whole buying process and purchased a product or service.
+**Conversions**: visitors reaching this stage are the ultimate success for our marketing objectives. They have moved through the whole buying process and purchased a product or service.
 
 # Common digital lead generation methods
 ## Landing page
@@ -86,14 +86,14 @@ Lead generation matters because it helps companies
 Platforms such as LinkedIn, Instagram, TikTok, Facebook and YouTube can be used to target specific groups
 
 >[!example]+
->A B2B software company targets LinkedIn users with job titles such as “HR Manager” or “Operations Director” and offers a free webinar: “How to reduce employee onboarding time by 30%.”
+>A B2B software company targets LinkedIn users with job titles such as “*HR Manager*” or “*Operations Director*” and offers a free webinar: “*How to reduce employee onboarding time by 30%.*”
 >
 >LinkedIn is especially common for B2B lead generation because targeting can be based on industry, company size, role, and seniority.
 
 # Alternative lead generation example
 **Spotify wrapped** is not traditional lead generation, but still a great example of **data-driven engagement** and relationship marketing.
 
-Spotify users first-party listening data to create personalized, shareable summaries. Users then spread the campaign on social media, increasing brand visibility and bringing users back into the app.
+Spotify uses first-party listening data to create personalized, shareable summaries. Users then spread the campaign on social media, increasing brand visibility and bringing users back into the app.
 
 Wrapped is a major engagement campaign built around personalized user data and social sharing.
 
@@ -109,24 +109,24 @@ Wrapped is a major engagement campaign built around personalized user data and s
 # Important metrics in lead generation
 - A campaign with many cheap leads is not always successful
 - For example, a company may generate 10 000 leads from a giveaway, but if most people only wanted the prize and never buy, the campaign has low business value
+******
 
 | **Metric**                     | **Meaning**                                      |
 | ------------------------------ | ------------------------------------------------ |
-| Conversion rate                | Percentage of visitors who become leads          |
-| Cost per lead, CPL             | How much it costs to acquire one lead            |
-| Lead quality                   | How likely the lead is to become a customer      |
-| Customer acquisition cost, CAC | Total cost of acquiring a customer               |
-| Lifetime value, LTV            | Expected revenue from a customer over time       |
-| Lead-to-customer rate          | Percentage of leads that become paying customers |
+| *Conversion rate*                | Percentage of visitors who become leads          |
+| *Cost per lead, CPL*             | How much it costs to acquire one lead            |
+| *Lead quality*                   | How likely the lead is to become a customer      |
+| *Customer acquisition cost, CAC* | Total cost of acquiring a customer               |
+| *Lifetime value, LTV*            | Expected revenue from a customer over time       |
+| *Lead-to-customer rate*          | Percentage of leads that become paying customers |
 
 
 > [!summary] Key takeaways
-> Lead generation is not just “getting email addresses.” It is a strategic process that connects digital attention to business outcomes.
+> Lead generation is not just “*getting email addresses*”. It is a **strategic process** that **connects digital attention** to business **outcomes**.
 > 
 > The best lead generation answers 3 questions:
->- Who do we want to attract?
->- What value will make them willing to engage?
->- How will we nurture them toward a meaningful conversion?
->In modern marketing, the best companies do not simply interrupt people with ads.
->
->They create useful, relevant, and timely reasons for people to start a relationship with the brand.
+> - **Who** do we want to **attract**?
+> - **What value** will make them willing to **engage**?
+> - How **will we nurture** them toward a meaningful **conversion**?
+> 
+> In modern marketing, the best companies do not simply interrupt people with ads. They **create useful**, **relevant**, and **timely reasons** for people to **start a relationship** with the brand.

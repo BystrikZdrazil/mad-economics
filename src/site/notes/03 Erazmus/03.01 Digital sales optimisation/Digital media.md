@@ -20,9 +20,9 @@ It is a non-linear, multi-touchpoint, omni channel path.
 The are thousands of visualized customer journeys available focusing on various variables and elements.
 
 # 3 key online media types
-- Paid is advertising you pay for (*ads*)
-- Owned is content you control (*website, social profiles*)
-- Earned is publicity gained through third-party recognition (*reviews, shares, PR*)
+- **Paid** is advertising you pay for (*ads*)
+- **Owned** is content you control (*website, social profiles*)
+- **Earned** is publicity gained through third-party recognition (*reviews, shares, PR*)
 
 >[!todo]+ Task
 >Media types are not separate; they are interrelated and part of a system.
@@ -59,23 +59,23 @@ To improve results for any aspect of any business, performance management is vit
 Successful companies prioritize resources to monitoring online activities, develop processes to continuously improve the performance of digital channels.
 
 # Why?
-Organizations are constantly looking to get better at evaluating and measuring (*employee*) performance. Performance management is aimed at improving an organization’s bottom line by stimulating employee performance.
+Organizations are constantly looking to get **better at evaluating** and **measuring** (*employee*) **performance**. Performance management is aimed at improving an organization’s bottom line by **stimulating employee performance**.
 
-It also aligns workforce and individual goals with the wider organizational goals and mission.
+It also **aligns workforce** and **individual goals** with the wider **organizational goals** and **mission**.
 
 # How?
 A performance management system is a mechanism for tracking the performance consistently.
 
-It ensures that employees and departments across the organization are working effectively towards achieving the business’ strategic goals. Successful businesses gain an advantage from having employees better aligned with corporate goals.
+It ensures that **employees and departments** across the organization are **working effectively** towards achieving the business’ strategic goals. Successful businesses gain an advantage from having employees **better aligned** with **corporate goals**.
 
 # Benefits (*if done right*)
-- Enable continuous performance management
-- Offer 360-degree performance reviews
-- Improve the frequency of feedback
-- Ensure a fair performance appraisal process
-- Make it easy to track (*employee*) performance
-- Identify training requirements
-- Automate performance review reporting
+- Enable **continuous performance management**
+- Offer 360-degree **performance reviews**
+- Improve the **frequency of feedback**
+- Ensure a **fair performance appraisal** process
+- Make it **easy to track** (*employee*) performance
+- Identify **training requirements**
+- **Automate** performance review **reporting**
 
 # Potential barriers
 - PMS not seen as a priority, not understood or targeted at the wrong targets 
@@ -94,7 +94,7 @@ A **KPI** is a business outcome or a goal that a specific team or department is 
 | **KPI**                                                                                                                               | **Metrics**                                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Quantifiable value used to track progress against set goals (*individual, team, company*)                                             | Quantifiable measure used to track progress and evaluate success                                                                                                             |
-| Provide direction towards achieving desired results and can help you business make better-informed decisions                          | Business metrics are used to track progress and performance in certain areas that are critical to the health of a business, such as revenue, customers, employees, and so on |
+| Provide direction towards achieving desired results and can help your business make better-informed decisions                         | Business metrics are used to track progress and performance in certain areas that are critical to the health of a business, such as revenue, customers, employees, and so on |
 | A good KPI must be well-defined and measurable, relevant to your business and able to provide a clear picture of recorded performance | It's important not to confuse a metric with a measure too                                                                                                                    |
 |                                                                                                                                       | While a measure is a fundamental or unit-specific term, a metric can be derived from one or more measures                                                                    |
 ## Metrics
@@ -103,12 +103,12 @@ A **KPI** is a business outcome or a goal that a specific team or department is 
 3. AD/social media metrics
 
 - Several ways of clustering metrics
-	- Core marketing KPI's & metrics (*ROI, CAC, Conversion rate, CLTV, etc.*)
+	- Core marketing KPI's & metrics (*ROI, [[03 Erazmus/03.01 Digital sales optimisation/Customer lifetime value#CLV CAC ratio\|CAC]], Conversion rate, CLTV, etc.*)
 	- Traffic & engagement metrics (*organic traffic, click-through rate, bounce rate, engagement rate, etc.*)
 
-Efficiency metrics (*Are we spending wisely?*)
-Engagement metrics (*Do people care about us?*)
-Growth metrics (*Are we expanding?*)
+**Efficiency** metrics (*Are we spending wisely?*)
+**Engagement** metrics (*Do people care about us?*)
+**Growth** metrics (*Are we expanding?*)
 
 **Short-term: efficiency**
 *Metrics*: CAC, CPC, ROI
@@ -122,7 +122,7 @@ Growth metrics (*Are we expanding?*)
 *Metrics*: conversion rate, CLV, organic traffic
 *Focus*: Are we scaling sustainably?
 
->[!example]+
+>[!example]+ Important terminology
 >- **Conversion Rate (*CVR*):** Measures the percentage of users who complete a desired action, such as filling out a form or buying a product.
 >- **Customer Acquisition Cost (*CAC*):** The total cost (*advertising + team time*) to acquire one new customer.
 >- **Return on Investment (*ROI*) & Return on Ad Spend (*ROAS*):** Measures revenue generated compared to the marketing budget or ad spend.

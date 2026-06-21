@@ -29,7 +29,7 @@ The procurement strategy concerns processes and tasks in the procurement functio
 # Strategic procurement planning
 **Strategic procurement** planning is a kind of planning where the focus is on long-term goals, and procurement activities are kept in line with overall business strategy. 
 
-It's the market analysis, **supplier relationship management**, and **category management** that mark the presence of procurement at the strategic level.
+It's the **market analysis**, **supplier relationship management**, and **category management** that mark the presence of procurement at the strategic level.
 
 Introducing total cost of ownership analysis as the leading factor not only guarantees environmentally friendly procurement practices, but also helps the organization to become a leader in the market.
 
@@ -85,9 +85,9 @@ Keep in mind that in centralized fulfilment the location of your facility is cri
 - Vulnerability to disruption
 
 ### Decentral warehouse
-Decentralized warehousing takes advantage of multiple strategic locations close to the end customer.
+Decentralized warehousing takes advantage of **multiple strategic locations** close to the end customer.
 
-Facilities are selected according to a variety of factors, such as being located close to key transportation routes. Each warehouse and its network can also be customized to suit the regional needs of customers in that area
+Facilities are selected according to a variety of factors, such as being located **close to key transportation** routes. Each warehouse and its network can also be customized to **suit the regional needs** of customers in that area.
 
 **Advantages**
 - Faster delivery
@@ -99,15 +99,16 @@ Facilities are selected according to a variety of factors, such as being located
 	- The more warehouses you have, the more personnel, machinery, and procedures you need to keep things running smoothly
 
 >[!todo]+
->Find an example of “public procurement”
->1. Explain the “public procurement”
+>Find an example of “*public procurement*”
+>1. Explain the “*public procurement*”
 >2. What areas was in focus
 >3. List challenges in the public procurement
 >4. Suggest how they could have been managed
 >
->Time: 50 minutes, Product=Word document
->Knowledge sharing: upload to Moodle
->Help: Sources
+>**Time**: 50 minutes
+>**Product**: Word document
+>**Knowledge sharing**: upload to Moodle
+>**Help**: Sources
 >
 >---
 >

@@ -2,11 +2,7 @@
 {"dg-publish":true,"permalink":"/03-erazmus/03-04-international-communication-and-culture/culture-and-advertising/","tags":["erasmus","eraICC"],"dg-note-properties":{"Date":"2026-05-13","Class":"International communication and culture","tags":["erasmus","eraICC"]}}
 ---
 
->[!warning] INCOMPLETE NOTES
->**These notes aren't complete**. This file still needs attention regarding its *content* and/or *formatting*.
->#incomplete
-
-(add graph from the presentation)
+![[03 Erazmus/03.04 International communication and culture/03.04.C Canvases/Culture and advertising graph.canvas\|Culture and advertising graph.canvas]]
 
 # Advertising solves problems
 **Objectives**
@@ -42,7 +38,7 @@ General attitudes towards the role and functions of advertising
 - Does comparative advertising result in fooling the consumer by using disputable information to praise one's own brand and put down others?
 
 # Advertising as communication
-Advertising stratefy comprises "*what is said*" and execution concerns more "*how it is said*" (*who "says" the message in which setting?*)
+Advertising strategy comprises "*what is said*" and execution concerns more "*how it is said*" (*who "says" the message in which setting?*)
 - Relates to the core element of the message
 - The types of appeals used
 - The themes developed
@@ -58,7 +54,7 @@ Advertising stratefy comprises "*what is said*" and execution concerns more "*ho
 	- Emotional
 	- Moralizing
 - **Selling proposition**
-	- Claim captures reason for buying / benefit
+	- Claim captures reason for buying/benefit
 	- Adaptations?
 - **Creative execution**
 	- Straight sell
@@ -118,15 +114,45 @@ Cultural hotspots
 - Verbal
 
 Advertising style must be adapted
-- Persuasive
-	- Adapted for LDC and traditional societies where . . .
+- **Persuasive**
+	- Adapted for LDC and traditional societies where advertising is still in its infancy
+- **Informative/rational**
+	- More suited to [[03 Erazmus/03.04 International communication and culture/Halls communication model#Low-context cultures\|low-context]]
+	- US, UK, and Scandinavian countries
+- **One-sided/emotional/indirect**
+	- More suited to [[03 Erazmus/03.04 International communication and culture/Halls communication model#High-context cultures\|high-context]]
+	- France and Japan
+
+## Advertising elements
+- **Copy**
+	- Target populations
+		- Literacy rates
+		- Languages
+		- Cultural dimensions
+- **Symbolism**
+	- Colours
+	- Man-woman relationships
+- **Media types**
+	- TV
+	- Radio
+	- Internet
+	- Outdoor
+	- Direct mail
+- **Availability**
+- **Coverage of target population**
 
 # Content considerations in ads
 - Representation of sex roles in ads
 - Interaction between groups
 - Use of humour
 - Family models, individual roles
-- . . .
+- Legitimacy of information types
+- Taboos and social don'ts
+	- Nudity
+	- Illness and death
+	- Sexual orientation
+	- Racism
+- Legitimacy of comparative advertising
 
 # Ad analysis
 >[!todo]+

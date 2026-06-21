@@ -36,7 +36,7 @@
 **Worst**: rented lists (*violate GDPR in the EU*)
 
 **Why?**
-- Trust (know, like, trust principle)
+- Trust (*know, like, trust principle*)
 - Permission marketing
 - Higher engagement and conversion
 
@@ -45,7 +45,7 @@ Offer a free value in exchange for sending them e-mails.
 
 **B2B primarily**
 - Newsletter
-- PDF /guide
+- PDF/guide
 - Free valuable content
 
 **B2C primarily**
@@ -54,7 +54,7 @@ Offer a free value in exchange for sending them e-mails.
 - Free valuable content
 
 # How to design an e-mail
-- Using the [[01 School/01.08 Marketing/Marketingová komunikácia#Model AIDA\|AIDA model]]
+- Using the [[01 School/01.09 Marketing/Marketingová komunikácia#Model AIDA\|AIDA model]]
 
 # Sales VS content of your e-mails
 **Types of e-mails**
@@ -83,7 +83,7 @@ Offer a free value in exchange for sending them e-mails.
 >[!tip]+
 >Sell the **click**, not the **product**
 
-## CTA (*call to actions*)
+## CTA (*call to action*)
 - Include 2–3 links per e-mail
 - Make clicking **easy** and **obvious**
 
@@ -93,10 +93,10 @@ Offer a free value in exchange for sending them e-mails.
 - P.S.
 
 **Format**
-- Single-topic (continuous narrative)
-- Multi-topic (segmented narrative)
+- Single-topic (*continuous narrative*)
+- Multi-topic (*segmented narrative*)
 - Mix HTLM/Text
-- Focus on designing for “scanners”
+- Focus on designing for “*scanners*”
 
 **Length**: 300–700 words
 
@@ -126,8 +126,8 @@ Offer a free value in exchange for sending them e-mails.
 
 ## Welcome
 **Why it’s important**
-- It’s the beginning of a long ”relationship” with the customer
-- Make it clear that have signed up
+- It’s the beginning of a long ”*relationship*” with the customer
+- Make it clear that they have signed up
 - High engagement at this point
 - Why are you unique
 
@@ -165,7 +165,7 @@ Offer a free value in exchange for sending them e-mails.
 - 5-7 e-mails
 
 ## Win back
-Why it’s important
+**Why it’s important**
 - Reactivates inactive subscribers
 - Recovers lost revenue
 - Improves email deliverability
