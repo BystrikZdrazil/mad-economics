@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/01-school/01-19-zaklady-ekonomie/nelegalne-trhy/","tags":["year1","winterSemester","uniZEK"],"dg-note-properties":{"Date":"2024-10-01","Schoolyear":1,"Semester":"Winter","Class":"Economy Basics","tags":["year1","winterSemester","uniZEK"]}}
+---
+
+Existujú trhy, na ktorých sa predávajú nelegálne komodity. Tieto trhy sú neoficiálne, a môžu zahŕňať napríklad:
+- Zbrane
+- Drogy
+- Ľudia
