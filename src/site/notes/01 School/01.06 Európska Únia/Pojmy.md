@@ -3,7 +3,7 @@
 ---
 
 - Výrobne faktory - práca, pôda, kapitál, technológie, vedomosti
-- [[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|HDP]] - všetko čo sa v danej ekonomike vyrobí
+- [[01 School/01.19 Základy Ekonómie/Hrubý domáci produkt\|HDP]] - všetko čo sa v danej ekonomike vyrobí
 - Uzavretá ekonomika - keď štát neobchoduje s inými krajinami (taktiež **autarkia**)
 - Otvorená ekonomika - keď štát obchoduje so zahraničím
 - Absolútne výhody - keď ma nejaká krajina výhodu v produkcii nejakého tovaru

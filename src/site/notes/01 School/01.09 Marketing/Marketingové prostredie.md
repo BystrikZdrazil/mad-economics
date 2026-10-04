@@ -141,7 +141,7 @@ Demografia sa zaoberá charakteristikou obyvateľstva a jeho **veku, pohlavia, p
 - Hospodárska situácia štátu
 - Hospodárska situácia regiónu v ktorom firma pôsobí
 - Ekonomické prostredie sa skladá z faktorov, ktoré ovplyvňujú kúpnu silu obyvateľov a štruktúru ich výdavkov
-	- [[01 School/01.17 Základy Ekonómie/Hrubý domáci produkt\|HDP]]
+	- [[01 School/01.19 Základy Ekonómie/Hrubý domáci produkt\|HDP]]
 	- Nezamestnanosť
 	- Inflácia
 

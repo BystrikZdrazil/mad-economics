@@ -22,7 +22,7 @@
 	- Výrobné a technologické dokumentácie
 	- Predbežné objednávky
 	- Zmluvy s dodávateľmi
-	- [[01 School/01.16 Účtovníctvo pre podnikateľov/Súvaha\|Súvaha]] podniku
+	- [[01 School/01.18 Účtovníctvo pre Podnikateľov/Súvaha\|Súvaha]] podniku
 	- Výsledky výskumu trhov
 	- Životopisné údaje hlavných manažérov
 

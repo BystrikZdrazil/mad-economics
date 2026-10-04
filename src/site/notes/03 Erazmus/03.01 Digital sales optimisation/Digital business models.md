@@ -10,7 +10,7 @@ There is **no single universally accepted definition** of a business model. For 
 - A **summary** of **how** a company **creates**, **delivers** and **captures value**
 - A model made up of **several connected elements** that can be **analysed** in more detail
 
-[[03 Erazmus/03.01 Digital sales optimisation/Business model canvas\|Business Model Canvas]] (*BMC*) is a widely used tool because it offers an  
+[[03 Erazmus/03.01 Digital sales optimisation/Business model canvas\|03 Erazmus/03.01 Digital sales optimisation/Business model canvas]] (*BMC*) is a widely used tool because it offers an  
 overview of the company’s:
 1. Value proposition
 2. Target groups
